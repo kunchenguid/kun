@@ -18,7 +18,7 @@
   /></a>
 </p>
 
-<h3 align="center">Summon Kun to solve your problems</h3>
+<h3 align="center">Think and build like Kun</h3>
 
 <p align="center">
   <img src="assets/kun.jpg" alt="Kun Chen" width="280" />
@@ -28,7 +28,7 @@ Hi, I'm [Kun](https://linktr.ee/kunchenguid). I'm a member of the technical comm
 
 This "/kun" skill here is a near-realtime distillation of my experience, knowledge, tools, workflows and skills. The instructions and knowledge base here is updated daily based on what I said and did.
 
-Think of it as a way to summon me to help solve your problems.
+Use this skill to apply my stack, think and build like a seasoned professional developer.
 
 ## Quick Start
 
