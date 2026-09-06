@@ -2,6 +2,8 @@
 
 Public tools Kun owns that meet eligibility: owned, public, not archived, not a fork, at least 80 stars, and self-starred. Use this file to know what exists and what it is for before reaching for something else.
 
+A few captain-requested entries that are not GitHub-star eligibility (for example the Firstmate Grok Bot template) are kept here on purpose. Daily tools sync must not remove them.
+
 ## no-mistakes
 
 https://github.com/kunchenguid/no-mistakes
@@ -21,6 +23,16 @@ firstmate is an agent distro, not a model, harness, skill, MCP server, or instal
 It solves tab-juggling when you want several project tasks in parallel. You talk to one liaison; it spawns crewmates, supervises them with event-driven zero-token watchers, and returns finished PRs, approved local merges, or scout investigation reports, with optional persistent secondmates and Relay for X/Discord mentions.
 
 Clone the repo, authenticate `gh`, launch a verified primary harness inside it (Claude Code, Grok, or Pi are co-primary recommendations; Codex, OpenCode, and Cursor Agent CLI are also supported), and give the first mate work in chat. Git, GitHub CLI, and the chosen session backend are required.
+
+## firstmate-bot-template
+
+https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r
+
+`firstmate-bot-template` is the public Firstmate Grok Bot storefront template ("Firstmate by Kun"). It is a click-import bot on x.ai, not a GitHub clone and not a Grok Ship install product. One imported Firstmate agent is the single agent you talk to; it manages crewmates and the rest of the factory for you.
+
+It solves the gap for people who want Firstmate without standing up the open-source firstmate repo themselves. The storefront supersedes grok-ship for public Grok Bot use: import once, then hand work to one liaison that relays outcomes and brings decisions one at a time.
+
+Open the template URL while signed into Grok Bot, click import/add to install Firstmate into your bot list, then talk to that agent in chat. No separate Grok Ship install steps; GitHub `gh` is not required just to start using the imported bot.
 
 ## gnhf
 
