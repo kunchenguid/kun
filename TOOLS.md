@@ -132,6 +132,14 @@ It solves fixed menu-bar apps that never match the exact mix of system and agent
 
 Requires macOS 13+, Homebrew, and an authenticated agent CLI such as `claude` or `codex` on PATH. Install with `brew install --cask kunchenguid/tap/baby-menu`, open the app, and ask in the composer. Settings cover launch-at-login and embedded/custom ACP agents.
 
+## SSHHIP
+
+https://sshhip.com
+
+SSHHIP is an SSH client app on iOS to help developers control the same terminal sessions on their workstations from their mobile phone.
+
+It makes the control extremely easy and natural by featuring a signature "command dial" that allows the user to use a single finger drag motion to trigger all the common operations and keybinds that are hard to do on mobile. It has native voice input support to help people avoid typing on the mobile keyboard as well.
+
 ## quota-axi
 
 https://github.com/kunchenguid/quota-axi
