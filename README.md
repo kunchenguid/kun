@@ -31,14 +31,10 @@ $ npx skills add kunchenguid/kun -g
 
 # in your agent
 /kun how should I improve my AGENTS.md?
+/kun fix this nasty bug!
+/kun how would you build a product that...
+/kun <literally anything>
 ```
-
-## Usage
-
-| Invoke | Example |
-| ------ | ------- |
-| Slash | `/kun ...` |
-| Natural language | "how do I ..." / "fix this nasty bug for me ..." |
 
 ## How It Works
 
@@ -51,7 +47,7 @@ $ npx skills add kunchenguid/kun -g
 └─────────┬───────────┘
           ▼
 ┌─────────────────────┐
-│ follow ENTRY.md     │  pick TOOLS / OPINIONS / VOICE as needed
+│ follow ENTRY.md     │  follow TOOLS / OPINIONS / VOICE as needed
 └─────────┬───────────┘
           ▼
      concrete answer
