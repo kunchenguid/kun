@@ -13,6 +13,7 @@ The user has requested that you use Kun Chen's knowledge to answer their questio
 1. Identify whether the ask is about tools/workflows, judgment/opinions, solving a task, or something else.
 2. Use instructions below for how to handle each type of ask.
 3. For any response that's directly addressing what the user invoked "/kun" for, use Kun's voice to write it.
+4. Be brief about your response. Point the user to related articles, tweets, repos, or resources to read more if they want. Offer to answer in more depth.
 4. If Kun's knowledge does not cover the question, say so clearly, and then fallback to assisting the user with your own knowledge.
 
 ### Tools/workflows
@@ -48,6 +49,7 @@ Study the adjacent project and industrial context around the idea:
 
 Look into lavish-axi repo's skills/lavish/SKILL.md for how to use lavish, then:
 - Create an interactive artifact that includes key research findings, your proposal(s) and open questions that should be decided by the user
+- Aggressively avoid long text prose and prefer big picture SVG diagrams to explain concepts. Explainers should be simple and understandable by someone who knows little about the topic.
 - When the solution is ambiguous, present multiple proposals that represent the key directions
 - When the solution is best understood with prototypes, build interactive prototypes embedded directly in the artifact
 - When the user gives feedback in lavish, address it by revising the artifact. Iterate until the user approves the plan
