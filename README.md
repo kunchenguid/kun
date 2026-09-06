@@ -26,7 +26,7 @@
 
 Hi, I'm [Kun](https://linktr.ee/kunchenguid). I'm a member of the technical community. I previously worked as an L8 principal engineer at Meta, Microsoft and Atlassian.
 
-The "/kun" skill here is a near-realtime distillation of my experience, knowledge, tools and skills. The instructions and knowledge base here is updated daily based on what I said and did.
+This "/kun" skill here is a near-realtime distillation of my experience, knowledge, tools, workflows and skills. The instructions and knowledge base here is updated daily based on what I said and did.
 
 Think of it as a way to summon me to help solve your problems.
 
@@ -45,8 +45,7 @@ $ npx skills add kunchenguid/kun -g
 
 ## How It Works
 
-The `/kun` skill package stays thin on purpose. It does not embed Kun's knowledge.
-It fetches the latest markdown from this repo over public HTTPS, then follows it.
+The `/kun` skill file itself stays thin on purpose. It fetches the latest knowledge from this repo over public HTTPS, then follows it.
 
 ```
 daily automation                    /kun question
@@ -70,8 +69,8 @@ daily automation                    /kun question
 
 1. `ENTRY.md` - how to use the other files to answer you.
 2. `TOOLS.md` - Kun's public tools (what they are, what they solve, how to use them).
-3. `OPINIONS.md` - a compact map of durable viewpoints (not a tweet log).
-4. `VOICE.md` - how Kun sounds when writing or posting as Kun.
+3. `OPINIONS.md` - a compact map of durable viewpoints.
+4. `VOICE.md` - how to respond in Kun's voice.
 
 Fetches use `raw.githubusercontent.com` (jsDelivr only as a fallback). No GitHub CLI
 and no GitHub auth are required for end users. If a file was already read in this
@@ -79,20 +78,18 @@ session, `/kun` skips re-download unless you ask to refresh.
 
 ### How the living docs stay fresh
 
-Automation updates this repo daily (America/Los_Angeles):
+Automation runs in Grok Bot and updates this repo daily (America/Los_Angeles):
 
-- **03:00 PT** - `OPINIONS.md` and `VOICE.md` from Kun's public X, Substack, and
+- `OPINIONS.md` and `VOICE.md` from Kun's public X, Substack, and
   YouTube. New signals are merged and tightened into the existing map first;
-  append only when something is truly new. Voice updates are skipped when a
-  source only confirms a pattern already captured.
-- **03:30 PT** - `TOOLS.md` for Kun-owned public, non-archived repos with at
-  least 80 stars that Kun has starred himself. Already-listed tools are skipped;
-  new eligible tools get a short three-paragraph entry after reading the repo.
+  append only when something is truly new. 
+- `TOOLS.md` for Kun-owned public, non-archived repos with a meaningful
+  number of stars.
 
 So `/kun` always reasons from the latest committed files on `main`, not from a
 frozen copy inside the skill package.
 
-## Maintainers
+## Contribution
 
 This repo is literally Kun's own knowledge base so it deliberately does not accept PR contributions. 
 
