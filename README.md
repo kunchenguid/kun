@@ -20,6 +20,10 @@
 
 <h3 align="center">Summon Kun to solve your problems</h3>
 
+<p align="center">
+  <img src="assets/kun.jpg" alt="Kun Chen" width="280" />
+</p>
+
 **kun** is an [Agent Skill](https://agentskills.io) that uses [Kun](https://linktr.ee/kunchenguid)'s experience, 
 knowledge, tools and skills to help you with any problem you might be having.
 
