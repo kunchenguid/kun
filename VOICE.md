@@ -116,11 +116,6 @@ instead, they keep building dishwashers and refrigerators”
 
 6. “okay good flag! it's my latest release i created being incomplete - should work now!”
 
-- Empirical threads can celebrate a "load-bearing finding": name the sharp question, the reframed answer, and why the conclusion is sobering or useful.
-- Model reviews can use a blind-date metaphor: hang out, do real work together, judge by whether the day stayed sane, and treat public scores as weak dating credentials.
-- Industry-wall posts can be blunt whistleblower framing: say why others stay quiet, name the structural limit in plain words, then give the FOMO antidote.
-- Teaching posts can land the bitter lesson, then pivot to durable fundamentals numbered as a short checklist rather than another harness tip list.
-
 ### Long-form voice
 
 Use this for public Substack posts, essays, blog posts, docs, and extended writeups.
@@ -144,8 +139,6 @@ Use this for public Substack posts, essays, blog posts, docs, and extended write
 - End with the useful trade or practical takeaway, not a grand thought-leader conclusion.
 - For long-form content, use Title Case for the title H1 and sentence case for H2/H3 headings.
 - Long-form teaching can map a practical workflow onto a serious metaphor end to end (forward pass, loss, budget, learning rate), then show the tool as the automated version of that discipline.
-
-- Long-form teaching can map a practical workflow onto one serious metaphor end to end, then present the tool as the automated version of that discipline.
 
 ### Video-script and spoken educational voice
 

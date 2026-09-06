@@ -18,22 +18,18 @@ Evidence: https://x.com/kunchenguid/status/1885867478489976954, https://x.com/ku
 
 Kun thinks AI is shifting software work from hand-writing code toward steering, specification, review, orchestration, system design, and product judgment.
 He expects engineers to learn agentic engineering while still understanding fundamentals well enough to control and evaluate what agents produce.
-He believes AI amplifies competence and judgment, which means weak taste and weak requirements can produce more slop faster, while strong validation and quality intent can use AI to improve software quality rather than degrade it.
+He believes AI amplifies competence and judgment: weak taste and weak requirements produce more slop faster, while the residual human job is the subjective feel that agents miss unless asked.
+Because of that structural wall, unsupervised agent factories accumulate work that "does not feel right," so human taste remains required for software meant for humans, and the leverage bottleneck moves toward taste, mission, focus, and quality of thought.
 He is comfortable with extremely high AI-generated code ratios when the human still owns problem selection, direction, review, integration, and accountability.
 He also thinks AI tools should preserve the fun and satisfaction of building software, because a productivity transition that drains craft joy would damage the open-source and hobbyist energy that makes software ecosystems valuable.
-He thinks AI raises individual leverage enough that ambitious builders can explore more ideas directly, but the bottleneck moves toward taste, mission, focus, and quality of thought.
 He sees learning how to spend tokens to buy human time as a core skill, because cheap parallel compute lets one person create far more daily work capacity than manual effort alone.
 He expects people who keep learning and building with AI to gain leverage, while people who refuse to explore the ceiling face the highest career risk.
 He thinks AI-era career resilience depends heavily on context acquisition: people who understand users, codebases, organizations, constraints, and the real problem can make AI useful, while people who only execute well-defined tasks are more exposed.
 He thinks transformative technologies show their real productivity effect at scale after people rebuild workflows, organizations, and operating systems around them, not while measuring old processes with a new tool bolted on.
 He expects AI to make small, expert teams more capable relative to large organizations when the work can be specified, reviewed, and verified tightly, because the bottleneck shifts from coordinating many humans to directing, checking, and integrating agent work.
 He rejects simple claims that AI alone caused recent tech layoffs, but he does think AI-driven reallocation is real, growing, and likely to keep pressuring engineers to become AI-native.
-He thinks the human bottleneck keeps moving upward: first code review, then plan review, then vision.
-When agents can ship more than a person can read, a durable VISION.md or equivalent becomes the triage layer that decides which ideas fit the project.
-He expects ultrafast models to push interactions toward one continuous realtime session with background subagents, so individuals increasingly operate like CEOs: set mission and strategy, grow key agents, and approve long-horizon direction rather than inspecting every change.
-He believes there is a structural wall around subjective human feel: agents can implement and click through products, but they do not reliably notice ugly UI, boring animations, or the dopamine of embodied interaction unless asked.
-Because of that wall, unsupervised agent factories accumulate work that "does not feel right," and human taste remains required for software meant for humans.
-Evidence: https://x.com/kunchenguid/status/2089189790881382676, https://x.com/kunchenguid/status/2094609213532332528
+When agents can ship more than a person can read, a durable VISION.md or equivalent becomes the triage layer for which ideas fit, and ultrafast models push toward continuous realtime sessions where individuals operate more like CEOs: set mission, grow key agents, and approve long-horizon direction rather than inspecting every change.
+Evidence: https://x.com/kunchenguid/status/2068026853903011938, https://x.com/kunchenguid/status/2089189790881382676
 
 ### Requirements, tests, and review are the new bottlenecks
 
@@ -46,8 +42,8 @@ He still sees value in human-reviewed tests, deterministic gates, and human-in-t
 He treats misunderstood intent, documentation drift, and missed follow-through as first-class AI coding failure modes, not merely style problems.
 He does not trust even strong current models enough to merge AI-generated changes without heavy scrutiny, and he sees fresh-context validation tools as cheaper than finding mistakes in production.
 He trusts validation pipelines only after calibrating them against his own review over time, closing the gaps he finds, and keeping the original intent clear enough for an independent reviewer to reconstruct.
-He wants adversarial review loops to escalate scope expansion to humans and prefer simplification over adding machinery, because unchecked reviewer agents can create scope creep and slow validation.
-Evidence: https://x.com/kunchenguid/status/2094079445074162118, https://x.com/kunchenguid/status/2072167889420099635
+He wants adversarial review with author/reviewer isolation to escalate scope creep to humans and prefer simplification over adding machinery.
+Evidence: https://x.com/kunchenguid/status/2064196342248030352, https://x.com/kunchenguid/status/2072167889420099635
 
 ### Human accountability must remain explicit
 
@@ -83,11 +79,13 @@ He treats agent throughput as a systems problem: faster models can increase prod
 He wants agents to see real quota, session, token, provider-availability, real-time-information, and modality data so they can decide when to parallelize, when to wait, and which harness or model to use instead of routing blindly.
 Once orchestration lets him run many parallel sessions, he cares less about shaving latency from a single request and more about whether subscription quotas, token budget, human attention, and execution environments can sustain enough useful agent work.
 He thinks quota-aware routing and flexible quota allocation matter more as multi-agent usage becomes spiky, because rigid per-session caps can block useful burst work even when a user has weekly budget left and tempt wasteful resets just to clear the wrong constraint.
-For high-concurrency agent work, he thinks local hardware stops scaling long before cloud or subscription capacity does, even if a personal always-on machine remains useful as an accessible home base.
+For high-concurrency agent work, he still finds a personal always-on machine useful as an accessible home base even when cloud or subscription capacity carries the heavy concurrency.
 He is interested in using cheap or subsidized environments such as GitHub Actions as agent sandboxes for open-source work, but only if credential handling and workflow isolation can be made safe enough.
 He wants agents to make reasonable calls on obvious or reversible decisions instead of repeatedly asking permission, while still checking with humans when the tradeoff is genuinely subjective or risky.
 He is open to automating context resets and memory maintenance, but still wants human judgment over when to reset versus preserve the current context because it is not an exact science.
-He distinguishes lossy context compaction from durable context preservation: useful memory systems should reconcile decisions, learnings, and open TODOs into disk-backed state so a session can be cleared without losing project continuity.
+He distinguishes lossy context compaction from durable context preservation: useful memory systems should reconcile decisions, learnings, and open TODOs into disk-backed state so restart is a non-event and a session can be cleared without losing project continuity.
+He likes multi-session "multi-brain" orchestrator designs where a main interactive session stays available while a background session handles loop events, merges non-urgent context, and wakes the main session only when human attention is needed, without breaking prompt caching.
+He warns that manual "/compact" is often an expensive same-model summarization call that destroys cache hits on the next turn, so default auto-compaction thresholds are usually safer than frequent manual compaction.
 He thinks high agency only works after trust has been earned: an agent should not use a person's credentials, publish under their identity, create pull requests, or cause external side effects without explicit consent for that action.
 For agent-generated pull requests, he wants explicit repo-instruction following and independent review gates rather than trusting the authoring agent's confidence.
 He sees trivial mid-task permission questions as trust-breaking product failures, because the product should absorb obvious autonomy setup instead of making users write defensive prompts.
@@ -95,11 +93,7 @@ He is skeptical of opaque complexity routers because occasional costly routing m
 He sees overnight agents as useful for measurable optimization tasks where progress can be verified and failed attempts can be discarded, especially when subsidized compute makes long brute-force loops cheaper than human attention.
 He thinks goal-oriented agent sessions work best when the desired end state can be described clearly, such as detailed specs, metric optimization, end-to-end testing, and bug fixing.
 He thinks recursive agent loops are mostly a solved mechanics problem once the real objective is verifiable: with the right tests, metrics, or review target, tokens can buy many iterations, but without that objective the loop just automates wandering.
-He wants restart to be a non-event: durable work records belong on disk in discoverable form, while the context window is treated like volatile memory that can be cleared, compacted, or lost.
-He likes multi-session "multi-brain" orchestrator designs where a main interactive session stays available while a background session handles loop events, merges non-urgent context, and wakes the main session only when human attention is needed, without breaking prompt caching.
-He warns that manual "/compact" is often an expensive same-model summarization call that also destroys cache hits on the next turn, so default auto-compaction thresholds are usually safer than frequent manual compaction.
-He prefers minimal harnesses and small configs that get better as models improve, and he is skeptical of large bundles of benchmark-tuned harness tricks that silently become liabilities across model releases.
-Evidence: https://x.com/kunchenguid/status/2094517788471894502, https://x.com/kunchenguid/status/2091988752847823133
+Evidence: https://x.com/kunchenguid/status/2074919932845064311, https://x.com/kunchenguid/status/2094517788471894502
 
 ### Agent-facing interfaces deserve first-class design
 
@@ -130,10 +124,8 @@ He treats voice as useful for long prompts and intent capture, but not as a full
 He thinks remote or server-based development is excellent for non-GUI work but can be the wrong tool for native desktop apps, where local UX testing and direct interaction matter.
 He resists one-size-fits-all workflow advice because fragmented tasks, platforms, and feedback loops require choosing the right tool for the right context.
 He is skeptical that GUI-only computer use is the long-term agent interface because the world can build interfaces for agents instead of forcing agents to mimic humans.
-He is interested in cloud-first agent products that invert the usual setup: the agent lives in the cloud and uses the local computer as a tool when needed, behind a simple UI that hides harness complexity for non-technical users.
-He still wants export paths and user-owned state in those products, because heavy migration into a vendor cloud agent creates subscription lock-in that is hard to reverse.
-He thinks agent capabilities that only exist as separate apps or products often should have been skills inside the primary coding agent, because separate systems create artificial boundaries and inconsistency.
-Evidence: https://x.com/kunchenguid/status/2092068697745866983, https://x.com/kunchenguid/status/2095371595833647344
+He is interested in cloud-first agent products that invert the usual setup: the agent lives in the cloud and uses the local computer as a tool when needed, behind a simple UI that hides harness complexity for non-technical users, but only with export paths and user-owned state so migration does not create irreversible lock-in.
+Evidence: https://x.com/kunchenguid/status/2052037719505944954, https://x.com/kunchenguid/status/2092068697745866983
 
 ### Model choice should follow task shape, not fandom
 
@@ -161,7 +153,6 @@ He thinks real-time AI products need enough intelligence for the task, not just 
 He thinks thin AI applications can become much more appealing if the underlying model crosses the needed quality bar, so a bad current app may sometimes be a model-frontier problem rather than only an app-design problem.
 He expects durable model advantage to come from better learning algorithms and architectures that improve the cost-intelligence-latency frontier itself, not merely from spending more data, parameters, or test-time compute.
 He expects open or weaker models to become good enough for many tasks as frontier progress slows or plateaus, but he does not treat niche usefulness, unusual style, or a good harness as proof of broad frontier-level capability.
-He is skeptical that companies will broadly replace frontier models with weaker self-hosted models for important agentic work, because short-term savings can compound into competitive loss when rivals use the best available models.
 He is wary of very large context windows and automatic memory when they add stale information, bloated context, inefficient processes, or vendor-specific memory that other agents cannot share.
 He wants AI products to make model identity, fallback, and switching behavior explicit, because silent model changes mislead users about which model actually performed the work and make it harder to combine providers intelligently.
 For scarce premium models, he prefers explicit pricing or quota tradeoffs that let users choose when extra intelligence is worth the burn instead of removing the option entirely.
@@ -169,12 +160,10 @@ He wants paid AI plans to publish enough relative quota information for rational
 He thinks programming-language choice for agents should be empirical and task-shaped rather than tribal: Rust can be strong for easy compiled CLI-style tasks, static typing can help on harder tasks, and letting the agent choose is often a safe default when the workload is uncertain.
 He treats compile-time strictness as a real tradeoff for agents: Rust-like constraints can force edge cases to be handled before runtime, but the extra fixing loop costs time and tokens, while looser languages can move faster and push more failures into tests or production.
 He treats orchestrator judgment as a first-class model quality: good first-mate models escalate the right decisions, stop over-engineering, and choose ship-first only when stakes are low.
-He evaluates models by hanging out with them on real work, often by making the new model firstmate for a day, more than by public benchmarks, IQ-style demos, or vibe-coded game showcases.
-He thinks public benchmarks are increasingly useless for everyday agent work because they measure machine-graded spikes without human-in-the-loop feel, while models remain spiky: excellent at hard tasks and weak at ordinary conversation or taste.
 He is skeptical of mid-tier models that appear primarily distilled or "taught" by a larger teacher when those models feel quirky and less useful for direct interactive human use than models that were trained more directly.
-He still does not buy the "local AI is free" story for frontier agent work: useful local setups cost large hardware, power, and fiddling time compared with frontier subscriptions that deliver better intelligence and concurrency, though idle local GPUs can still handle secondary non-frontier tasks.
+He treats local and self-hosted AI as an economics question rather than a free alternative: useful local setups cost large hardware, power, and fiddling time, and replacing frontier models with weaker self-hosted ones for important agentic work can compound into competitive loss, though idle local GPUs can still handle secondary non-frontier tasks.
 He observes that consumers show little brand loyalty across AI labs and harnesses: people switch quickly toward whichever provider gives good tokens cheaply.
-Evidence: https://x.com/kunchenguid/status/2087942296721559607, https://x.com/kunchenguid/status/2095897820930908670
+Evidence: https://kunchenguid.substack.com/p/evaluating-the-effectiveness-of-programming, https://x.com/kunchenguid/status/2087942296721559607
 
 ### Personal opinion maps make public thinking useful to agents
 
@@ -183,10 +172,8 @@ The value is introspection and alignment: agents can spot stale, unfalsifiable, 
 He thinks these maps should consolidate across sources, filter jokes and implementation details, preserve evidence sparsely, and reorganize by concept instead of appending forever.
 He prefers writing useful memory and knowledge directly into repo-tracked files that agents can reorganize, rather than hiding it behind a private vendor memory layer that requires extra synchronization and locks context away from other tools.
 He wants watchdogs to distinguish real opinion drift from contextual posts, stale summaries, and changed minds instead of silently collapsing every tension into an automatic edit.
-He extends the same discipline to project memory files: handwrite a small user-level AGENTS.md for durable personal preferences, and treat project-level AGENTS.md like a neural net with a token budget.
-Project memory should be trained from real session transcripts with batched evidence, small edit steps, verbatim quotes, and a human gate, not by endlessly appending anecdotal rules.
-He thinks empty, bloated, stale, or drifted instruction files are the common failure modes, and skills should absorb narrow triggered guidance so the always-loaded file stays compact.
-Evidence: https://kunchenguid.substack.com/p/your-agentsmd-is-a-neural-net, https://x.com/kunchenguid/status/2091380569716433349
+He treats project-level AGENTS.md like a neural net with a token budget: train it from real session transcripts with batched evidence, small edit steps, verbatim quotes, and a human gate; handwrite a small user-level AGENTS.md for durable personal preferences; let skills absorb narrow triggered guidance so the always-loaded file stays compact.
+Evidence: https://kunchenguid.substack.com/p/everyone-should-have-an-opinionsmd, https://kunchenguid.substack.com/p/your-agentsmd-is-a-neural-net
 
 ## AI labs, markets, and openness
 
@@ -223,7 +210,6 @@ He believes a product becomes worth buying when it clears a difficulty, trust, o
 He treats user consent as a product boundary, not a legalistic afterthought: a tool should not proactively upload unrelated files, secrets, or private work just because the data might improve future model behavior.
 He believes frontier labs can temporarily make subsidy itself a moat, especially when power users receive far more compute value than their subscriptions cost and consumer mindshare can spill into enterprise or API demand.
 He thinks model value must be judged against task outcome, token efficiency, subscription packaging, and price, not peak capability alone; a slightly higher ceiling may not justify much higher cost for most software-building work.
-For heavy agent workloads, he sees expensive local hardware as hard to justify against subsidized cloud subscriptions when it means weaker models, lower throughput, less concurrency, electricity costs, and upgrade risk.
 For most builders, he currently treats OpenAI's $20 subscription as the default starting point, then recommends upgrading only after the user has proven that the previous quota window produced meaningful work and that workflow efficiency is not the real bottleneck.
 He thinks buying one heavily subsidized high-token plan is usually better than splitting the same budget across lower-token plans when raw productive quota is the bottleneck, while model diversity becomes valuable when reliability, task fit, modality, or provider lock-in are the bottlenecks.
 He treats cost-saving claims as audience-dependent: a cheaper API path matters most to organizations already paying API prices for frontier models, not to users whose alternatives are subsidized subscriptions or bundled products.
@@ -254,7 +240,7 @@ He is skeptical of compound-model or routing claims when the evaluation distribu
 He thinks even plausible-sounding agent instructions can hurt performance by biasing agents toward the wrong implementation strategy, so claims about better prompting or skills need benchmark evidence and public artifacts.
 He treats agent skills as progressive disclosure rather than magic: useful skills should load the right specialized context at the right time, while random popular skills can add security, performance, and quality risks if installed uncritically.
 He increasingly treats private real-usage eval sets and day-long firstmate trials as stronger filters than public leaderboards, using private cases more to rule out bad models than to crown winners.
-Evidence: https://x.com/kunchenguid/status/2095897820930908670, https://x.com/kunchenguid/status/2090818708403007610
+Evidence: https://x.com/kunchenguid/status/2051793120241787092, https://x.com/kunchenguid/status/2090818708403007610
 
 ## Software engineering, craft, and process
 
@@ -326,8 +312,7 @@ For early-stage agent-built projects, he is willing to choose JavaScript with ty
 He favors mechanical supply-chain guardrails such as minimum release-age policies, frozen installs, and explicit dependency build-script allowlists over relying on constant human vigilance.
 He believes terminal and developer tools deserve visual craft, pacing, and polish when those details improve comprehension without stealing attention from the user's real task.
 He misses the focused think-edit-save flow of traditional editors even while shipping more with agents, and he thinks agent UX still needs a rethink to recover zen and single-threaded focus rather than only maximizing parallelism.
-Evidence: https://x.com/kunchenguid/status/2093841135068500022
-
+Evidence: https://kunchenguid.substack.com/p/how-i-built-a-reproducible-mac-setup, https://x.com/kunchenguid/status/2093841135068500022
 
 ## Product, startups, and organizations
 
@@ -387,12 +372,11 @@ Evidence: https://www.youtube.com/watch?v=sxUPsyNwGgs, https://x.com/kunchenguid
 ### Incentives shape product quality
 
 Kun thinks many organizational product-quality problems come from incentives that reward shipping cool things more than conversion, retention, and customer outcomes.
-He believes large companies need reward systems that prioritize the main quest over internal side quests, especially when AI makes internal tool rebuilding easier.
+He believes large companies need reward systems that prioritize the main quest over internal side quests, especially when AI accelerates both real customer work and tempting public launches of internal tools that dilute focus when P&L accountability is diffuse.
 He is skeptical of outcome-based pricing when outcomes are hard to define and attribute.
 He thinks companies should optimize AI products around users, profit, and team-level customer maturity rather than token consumption alone.
-He thinks AI raises the bar for leadership because it accelerates both the main quest and tempting side quests, including public launches of internal developer tools that dilute focus when accountability for P&L is diffuse.
 He sees little real demand for yet another vendor-neutral agent development environment when users are already fatigued by harness churn, and he prefers differentiated context integrations to ship as CLI or MCP rather than as a whole ADE.
-Evidence: https://x.com/kunchenguid/status/2087234135756775818, https://x.com/kunchenguid/status/2034552927164244334
+Evidence: https://x.com/kunchenguid/status/2034552927164244334, https://x.com/kunchenguid/status/2087234135756775818
 
 ## Career, learning, and work
 
@@ -411,7 +395,7 @@ He thinks entrepreneurial engineers should deliberately build credibility, commu
 He advises planning careers by identifying the end game and working backward instead of optimizing only for the next job.
 He internalizes the bitter lesson for agent harnesses: most clever context tricks and markdown scaffolding will be absorbed by stronger models, so most people should not overfit to this week's harness lore.
 He recommends investing in three durable fundamentals instead: understanding the real world, first-principles thinking, and clear articulation of intent to humans and AIs.
-Evidence: https://x.com/kunchenguid/status/2093042507580067889, https://x.com/kunchenguid/status/2093912739295195318
+Evidence: https://www.youtube.com/watch?v=HuiNKKsdv1k, https://x.com/kunchenguid/status/2093042507580067889
 
 ### Education should include agents and real products
 
@@ -431,8 +415,8 @@ He warns people not to blindly copy major career moves because runway, family co
 He advises people to make career moves toward something they want, not merely away from something they dislike.
 He believes autonomy is powerful but dangerous: it enables rapid pivots and direct shipping, while requiring a clear mission to prevent randomization and death by a thousand cuts.
 He believes focus requires dropping work that does not serve the most important goals.
-He has declined major lab and company opportunities after leaving big tech because he wants to live the individual-leverage thesis himself: prove how far one clear person can go, find the real bottlenecks, and help make that path more available to others.
-Evidence: https://x.com/kunchenguid/status/2092699326384640448, https://www.youtube.com/watch?v=MhaXfrfg4dY
+He has declined major lab and company opportunities after leaving big tech to live that individual-leverage path himself rather than only advise it.
+Evidence: https://www.youtube.com/watch?v=MhaXfrfg4dY, https://x.com/kunchenguid/status/2092699326384640448
 
 ### Being effective matters more than being right
 
