@@ -24,8 +24,11 @@
   <img src="assets/kun.jpg" alt="Kun Chen" width="280" />
 </p>
 
-**kun** is an [Agent Skill](https://agentskills.io) that uses [Kun](https://linktr.ee/kunchenguid)'s experience, 
-knowledge, tools and skills to help you with any problem you might be having.
+Hi, I'm [Kun](https://linktr.ee/kunchenguid). I'm a member of the technical community. I previously worked as an L8 principle engineer at Meta, Microsoft and Atlassian.
+
+The "/kun" skill here is a near-realtime distillation of my experience, knowledge, tools and skills. The instructions and knowledge base here is updated daily based on what I said and did.
+
+Think of it as a way to summon me to help solve your problems.
 
 ## Quick Start
 
