@@ -18,41 +18,27 @@
   /></a>
 </p>
 
-<h3 align="center">Always-current Kun: tools, opinions, and voice</h3>
+<h3 align="center">Summon Kun to solve your problems</h3>
 
-**kun** is an [Agent Skill](https://agentskills.io) that loads Kun Chen's living
-profiles and answers with them. The skill package stays thin on purpose: it
-fetches the latest markdown from this repo at runtime, then follows `ENTRY.md`.
-
-Living docs at the repo root (updated by automation from public writing and
-Kun's starred tools):
-
-- `TOOLS.md`  -  what his public tools are and how to use them
-- `OPINIONS.md`  -  compact map of durable viewpoints (not a tweet log)
-- `VOICE.md`  -  how Kun sounds when writing or posting as Kun
-- `ENTRY.md`  -  how the agent should use those files to answer you
+**kun** is an [Agent Skill](https://agentskills.io) that uses Kun Chen's experience, 
+knowledge, tools and skills to help you with any problem you might be having.
 
 ## Quick Start
 
 ```sh
-# install (global recommended)  -  requires this repo to be public
+# install (global recommended)
 $ npx skills add kunchenguid/kun -g
 
 # in your agent
-/kun how should I pick a coding harness?
-# or: /kun which tool helps with overnight agent loops?
+/kun how should I improve my AGENTS.md?
 ```
-
-No GitHub CLI and no GitHub auth are required for end users. The skill fetches
-public raw URLs (with an optional jsDelivr fallback) and skips re-fetch in the
-same session unless you ask to refresh.
 
 ## Usage
 
 | Invoke | Example |
 | ------ | ------- |
 | Slash | `/kun ...` |
-| Natural language | "what would Kun think about X" / "which of Kun's tools for Y" |
+| Natural language | "how do I ..." / "fix this nasty bug for me ..." |
 
 ## How It Works
 
@@ -73,6 +59,6 @@ same session unless you ask to refresh.
 
 ## Maintainers
 
-Opinions/voice and tools docs are updated on this private-or-public repo by
-Kun's opinions-voice crewmate. Do not treat `dotfiles-private` as the write
-target for these files.
+This repo is literally Kun's own knowledge base so it deliberately does not accept PR contributions. 
+
+Bug reports and suggestions are welcome as issues!
