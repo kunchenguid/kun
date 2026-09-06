@@ -24,7 +24,7 @@
   <img src="assets/kun.jpg" alt="Kun Chen" width="280" />
 </p>
 
-Hi, I'm [Kun](https://linktr.ee/kunchenguid). I'm a member of the technical community. I previously worked as an L8 principle engineer at Meta, Microsoft and Atlassian.
+Hi, I'm [Kun](https://linktr.ee/kunchenguid). I'm a member of the technical community. I previously worked as an L8 principal engineer at Meta, Microsoft and Atlassian.
 
 The "/kun" skill here is a near-realtime distillation of my experience, knowledge, tools and skills. The instructions and knowledge base here is updated daily based on what I said and did.
 
