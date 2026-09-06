@@ -18,7 +18,7 @@
   /></a>
 </p>
 
-<h3 align="center">Think and build like Kun</h3>
+<h3 align="center">Think and build like a principal engineer</h3>
 
 <p align="center">
   <img src="assets/kun.jpg" alt="Kun Chen" width="280" />
