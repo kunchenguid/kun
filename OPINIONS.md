@@ -301,7 +301,7 @@ Evidence: https://x.com/kunchenguid/status/2058813204520935668, https://x.com/ku
 Kun values ergonomics because a sound architecture that is hard to use correctly still produces performance and maintainability problems.
 He likes opinionated defaults when they can be centrally optimized, while preserving customization for advanced users.
 He prefers terminal-centered workflows with grep, fzf, Neovim-style editing, and low visual clutter because they preserve flow, portability, keyboard continuity, scriptability, and whole-machine control, while recognizing configuration can become a time sink.
-He values direct shell access because it controls the whole machine, while dedicated agent apps are narrower but can still win for heavy agent UX.
+He values raw terminal and direct shell access because they control the whole machine and let him run any CLI or TUI when needed, while dedicated agent remote-control apps are narrower and can force work through agents even when a direct tool would be better; those apps can still win for heavy agent UX.
 He values reproducible environments, demos, and personal infrastructure because they turn fragile manual memory into repeatable systems that can be reapplied, shared, evolved, and recovered after tool or agent mistakes.
 In an agentic workflow, he sees reproducibility as a safety and recovery mechanism, not just setup convenience, because local agents can break systems faster than a person can manually reconstruct them.
 He wants personal infrastructure to have a dependable declarative core, but not purity for its own sake: stable paths, versioned structure, and clear system/user boundaries matter more than forcing every package, app, or ecosystem tool through one abstraction.
@@ -376,6 +376,7 @@ He believes large companies need reward systems that prioritize the main quest o
 He is skeptical of outcome-based pricing when outcomes are hard to define and attribute.
 He thinks companies should optimize AI products around users, profit, and team-level customer maturity rather than token consumption alone.
 He sees little real demand for yet another vendor-neutral agent development environment when users are already fatigued by harness churn, and he prefers differentiated context integrations to ship as CLI or MCP rather than as a whole ADE.
+He treats free consumer apps as usually monetizing the user as the product, and prefers clear paid pricing without ads or subscription traps for premium infrastructure tools he wants to trust.
 Evidence: https://x.com/kunchenguid/status/2034552927164244334, https://x.com/kunchenguid/status/2087234135756775818
 
 ## Career, learning, and work
