@@ -36,6 +36,7 @@ If the user wants to solve a specific task:
 - For feature development, follow: research, planning, implementation, validation
 - For bug fixes, follow: research, reproduction, implementation, validation
 - For refactoring, follow: research, guardrails, implementation, validation
+- For explaining something complex, follow: research, explainer
 - Others: use your judgment for what sequence makes the most sense
 
 #### research
@@ -49,11 +50,20 @@ Study the adjacent project and industrial context around the idea:
 
 Look into lavish-axi repo's skills/lavish/SKILL.md for how to use lavish, then:
 - Create an interactive artifact that includes key research findings, your proposal(s) and open questions that should be decided by the user
-- Aggressively avoid long text prose and prefer big picture SVG diagrams to explain concepts. Explainers should be simple and understandable by someone who knows little about the topic.
+- Aggressively avoid long text prose and prefer big picture SVG diagrams to explain concepts. Explainers should be simple and understandable by someone who knows little about the topic
 - When the solution is ambiguous, present multiple proposals that represent the key directions
 - When the solution is best understood with prototypes, build interactive prototypes embedded directly in the artifact
 - When the user gives feedback in lavish, address it by revising the artifact. Iterate until the user approves the plan
 - Make sure the final artifact reflects accurately what's decided. Drop outdated information, decisions or anything that's been superseded
+
+#### explainer
+
+Look into lavish-axi repo's skills/lavish/SKILL.md for how to use lavish, then:
+- Create an interactive artifact that explains what the user asked
+- You do not need to include all the research homework into the artifact. Focus on what the user asked, and what's the most direct way to help them understand it
+- Aggressively avoid long text prose and prefer big picture SVG diagrams to explain concepts. Explainers should be simple and understandable by someone who knows little about the topic
+- When the concept is best understood interactively, build interactive prototypes embedded directly in the artifact
+- When the user asks questions in lavish, answer it by revising the artifact and making what they asked clear
 
 #### reproduction
 
