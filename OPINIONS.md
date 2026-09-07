@@ -167,7 +167,7 @@ Evidence: https://kunchenguid.substack.com/p/evaluating-the-effectiveness-of-pro
 
 ### Personal opinion maps make public thinking useful to agents
 
-Kun believes people who write, build, post, or argue in public should keep a compact living map of durable beliefs rather than a chronological source log, knowledge base, or technical cookbook.
+Kun believes people who write, build, post, or argue in public should keep a compact living map of durable beliefs rather than a chronological source log, knowledge base, or technical cookbook, and when that map is distilled from their own posts those posts should stay human-authored as source of truth.
 The value is introspection and alignment: agents can spot stale, unfalsifiable, overstrong, contradictory, or factually risky opinions, and can reuse the map as context for taste and values.
 He thinks these maps should consolidate across sources, filter jokes and implementation details, preserve evidence sparsely, and reorganize by concept instead of appending forever.
 He prefers writing useful memory and knowledge directly into repo-tracked files that agents can reorganize, rather than hiding it behind a private vendor memory layer that requires extra synchronization and locks context away from other tools.
@@ -328,10 +328,10 @@ For solo work, he treats mission clarity as an operating constraint because abun
 He describes his own mission as helping empower individuals to discover, pursue, and achieve their full potential, which connects his agent tools, career education, and solo-builder work.
 He sees solo autonomy as high-leverage because it removes alignment tax and enables fast pivots, but that same freedom creates focus risk.
 He frames distribution as finding the people who already have the problem, not merely promoting a product, and he thinks better building tools do not remove the need for distribution.
-He treats open-source adoption as a strong signal that he can find real users for useful work, even when stars do not directly replace income.
-He thinks authentic public sharing can compound into relationships, support, collaboration, and distribution, even for an introverted solo builder, because real experiences are more legible than AI-slop content.
+He worries AI creates a sharp asymmetry: innovators may get roughly 10x faster while repetition and copying get closer to 1000x easier, collapsing the old window to build traction and network effects before a copy arrives, which punishes innovators without distribution, races non-network-effect products toward thin margins and weaker polish, and pushes choice-paralyzed users toward authorities.
+He thinks authentic public sharing and open-source adoption can still compound into real users, relationships, and distribution for an introverted solo builder, because real experiences remain more legible than AI-slop content even when stars do not directly replace income.
 He believes product updates often belong inside the product at the right moment rather than in generic announcement channels.
-Evidence: https://x.com/kunchenguid/status/2063652453384585622, https://www.youtube.com/watch?v=GQ0U_gTYMpA
+Evidence: https://x.com/kunchenguid/status/2096661942010368487, https://www.youtube.com/watch?v=GQ0U_gTYMpA
 
 ### Idea quality depends on the builder
 
@@ -340,7 +340,7 @@ The best solo-builder ideas sit at the intersection of problems the builder unde
 He prefers exploring multiple ideas before committing when the goal is learning and discovery.
 He sees building as something he naturally does for fun and would keep doing even without financial pressure.
 He distinguishes craft motivation from entrepreneur motivation, and thinks both are valuable when matched to the phase and needs of the work: early or uncertain products often need cheap outcome-seeking, while scaling, reliability, trust, and long-term velocity need craftsmanship.
-In the AI era, he thinks craft-only identity becomes riskier because AI lowers the premium on manual execution, so engineers who love craft should also learn business accountability and outcome ownership.
+In the AI era, he thinks craft-only identity becomes riskier because AI lowers the premium on manual execution, so engineers who love craft should also learn business accountability, outcome ownership, and the sales and marketing work that gets useful work into users' hands.
 He sees entrepreneurship as a different and often financially irrational game, chosen by people whose motivation is strong enough to accept risk, ambiguity, and opportunity cost.
 He also thinks large companies can give entrepreneurial engineers real zero-to-one experience, with lower financial risk and easier access to users, resources, and cross-functional partners.
 For projects that grow beyond the founder, he thinks the founder has to keep communicating the why while letting others take more ownership of what and how.
