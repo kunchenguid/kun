@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-09-07_
-_Latest source window: X posts and replies from 2026-09-06 through 2026-09-07, public Substack archive checked on 2026-09-07 (1 already-processed post re-emitted on content-hash drift), and public YouTube channel records checked on 2026-09-07 with 0 new videos and 0 public transcripts._
-_Latest run analyzed 26 new X items, 0 new Substack posts, and 0 new YouTube videos; X moved a few consolidated opinion sentences, while Substack and YouTube added no new durable signal and VOICE style guidance was unchanged beyond this metadata refresh._
+_Last updated: 2026-09-08_
+_Latest source window: X posts and replies from 2026-09-07 through 2026-09-08, public Substack archive checked on 2026-09-08 (0 new posts), and public YouTube channel records checked on 2026-09-08 with 0 new videos and 0 public transcripts._
+_Latest run analyzed 33 new X items, 0 new Substack posts, and 0 new YouTube videos; X sharpened the tests and verification viewpoint, while Substack and YouTube added no new durable signal and VOICE style guidance was unchanged beyond this metadata refresh._
 
 ### Summary
 

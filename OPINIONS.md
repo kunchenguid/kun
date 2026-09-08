@@ -35,9 +35,9 @@ Evidence: https://x.com/kunchenguid/status/2068026853903011938, https://x.com/ku
 
 Kun believes code has rarely been the deepest bottleneck in software work.
 The harder questions are what is worth building, what users actually need, and how to verify that the result works.
-He sees tests as central to AI coding when they encode real intent and create a trustworthy feedback loop.
+He sees tests as central to AI coding when they encode real intent and create a trustworthy feedback loop, and he trusts end-to-end tests that mirror actual user behavior more than unit tests as the guard of real product behavior.
 Kun distinguishes testing from TDD: automated tests are valuable when they encode real requirements, while TDD specifically means the red-green-refactor loop of writing a failing test before implementation.
-He has become skeptical of letting agents fully drive TDD by themselves, because agents can write tests that miss true requirements and then treat passing those self-written tests as completion.
+He has become skeptical of letting agents fully drive TDD by themselves, because agents can write unit tests that miss true requirements, treat those self-written tests as completion, and burn tokens on verification that does not prove user-facing behavior; he increasingly sees unit tests as closer to source code or implementer chain-of-thought than as independent product proof.
 He still sees value in human-reviewed tests, deterministic gates, and human-in-the-loop variants of TDD, but thinks popular agent skills and viral instruction files should prove that their workflow improves outcomes before being installed by default.
 He treats misunderstood intent, documentation drift, and missed follow-through as first-class AI coding failure modes, not merely style problems.
 He does not trust even strong current models enough to merge AI-generated changes without heavy scrutiny, and he sees fresh-context validation tools as cheaper than finding mistakes in production.
