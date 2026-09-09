@@ -57,7 +57,7 @@ Evidence: https://x.com/kunchenguid/status/2034743250033201335, https://x.com/ku
 
 Kun thinks effective agent work requires moving from micromanaging steps to directing agents through goals, principles, measurable objectives, and review loops.
 He prefers a higher-level orchestrator that absorbs project juggling, reduces human context switching, and persists project state outside any one model session or vendor memory silo.
-He prefers orchestration that stays observable enough for him to jump in when needed, but he thinks the qualitative benefit of not manually managing many parallel threads is hard to understand until experienced.
+He prefers orchestration that stays observable enough for him to jump in when needed, but he thinks the qualitative benefit of not manually managing many parallel threads is hard to understand until experienced, so he recommends waiting on firstmate-class orchestration until juggling many sessions is a clear pain rather than adopting it early.
 He prefers deterministic harnesses for repeated long-running loops instead of asking one context window to remember everything.
 He distinguishes one-off loops that babysit bounded tasks from durable loops that repeatedly process new events, and he thinks durable loops only become valuable when a project has enough adoption or recurring inputs to justify them.
 He believes agents should use fresh context windows, isolated worktrees, explicit review phases, fix phases, and deliberate compaction to reduce context rot.
@@ -85,7 +85,7 @@ He wants agents to make reasonable calls on obvious or reversible decisions inst
 He is open to automating context resets and memory maintenance, but still wants human judgment over when to reset versus preserve the current context because it is not an exact science.
 He distinguishes lossy context compaction from durable context preservation: useful memory systems should reconcile decisions, learnings, and open TODOs into disk-backed state so restart is a non-event and a session can be cleared without losing project continuity.
 He likes multi-session "multi-brain" orchestrator designs where a main interactive session stays available while a background session handles loop events, merges non-urgent context, and wakes the main session only when human attention is needed, without breaking prompt caching.
-He warns that manual "/compact" is often an expensive same-model summarization call that destroys cache hits on the next turn, so default auto-compaction thresholds are usually safer than frequent manual compaction.
+He treats human time and attention as too scarce for mechanical session ops, and warns that manual "/compact" is often an expensive same-model summarization call that destroys cache hits on the next turn, so default auto-compaction thresholds are usually safer than frequent manual compaction.
 He thinks high agency only works after trust has been earned: an agent should not use a person's credentials, publish under their identity, create pull requests, or cause external side effects without explicit consent for that action.
 For agent-generated pull requests, he wants explicit repo-instruction following and independent review gates rather than trusting the authoring agent's confidence.
 He sees trivial mid-task permission questions as trust-breaking product failures, because the product should absorb obvious autonomy setup instead of making users write defensive prompts.
@@ -168,12 +168,14 @@ Evidence: https://kunchenguid.substack.com/p/evaluating-the-effectiveness-of-pro
 ### Personal opinion maps make public thinking useful to agents
 
 Kun believes people who write, build, post, or argue in public should keep a compact living map of durable beliefs rather than a chronological source log, knowledge base, or technical cookbook, and when that map is distilled from their own posts those posts should stay human-authored as source of truth.
+He favors continuous distillation of public writing, speech, and building into agent-usable maps and skills so agents inherit his judgment and stop bottlenecking on constant corrections and escalations.
 The value is introspection and alignment: agents can spot stale, unfalsifiable, overstrong, contradictory, or factually risky opinions, and can reuse the map as context for taste and values.
 He thinks these maps should consolidate across sources, filter jokes and implementation details, preserve evidence sparsely, and reorganize by concept instead of appending forever.
 He prefers writing useful memory and knowledge directly into repo-tracked files that agents can reorganize, rather than hiding it behind a private vendor memory layer that requires extra synchronization and locks context away from other tools.
 He wants watchdogs to distinguish real opinion drift from contextual posts, stale summaries, and changed minds instead of silently collapsing every tension into an automatic edit.
 He treats project-level AGENTS.md like a neural net with a token budget: train it from real session transcripts with batched evidence, small edit steps, verbatim quotes, and a human gate; handwrite a small user-level AGENTS.md for durable personal preferences; let skills absorb narrow triggered guidance so the always-loaded file stays compact.
-Evidence: https://kunchenguid.substack.com/p/everyone-should-have-an-opinionsmd, https://kunchenguid.substack.com/p/your-agentsmd-is-a-neural-net
+He treats a distillation as a subset by definition: the parts that fit in markdown are not the real moat, which sits in how he acquires knowledge, derives new insights, communicates with humans and agents, and earns trust, so freeing time from repeatable distillable work is how he strengthens that moat.
+Evidence: https://kunchenguid.substack.com/p/everyone-should-have-an-opinionsmd, https://kunchenguid.substack.com/p/i-distilled-myself-and-you-should
 
 ## AI labs, markets, and openness
 
@@ -395,7 +397,7 @@ He thinks AI productivity does not automatically make society less busy because 
 He thinks entrepreneurial engineers should deliberately build credibility, communication ability, customer understanding, and trust, not just technical execution skill.
 He advises planning careers by identifying the end game and working backward instead of optimizing only for the next job.
 He internalizes the bitter lesson for agent harnesses: most clever context tricks and markdown scaffolding will be absorbed by stronger models, so most people should not overfit to this week's harness lore.
-He recommends investing in three durable fundamentals instead: understanding the real world, first-principles thinking, and clear articulation of intent to humans and AIs.
+He recommends investing in three durable fundamentals instead: understanding the real world, first-principles thinking, and clear articulation of intent to humans and AIs, and he treats putting distillable judgment into agent context as a way to free time for those fundamentals rather than as the moat itself.
 Evidence: https://www.youtube.com/watch?v=HuiNKKsdv1k, https://x.com/kunchenguid/status/2093042507580067889
 
 ### Education should include agents and real products
@@ -489,4 +491,6 @@ Kun supports taking AI safety and national-security concerns seriously, but he t
 He initially treated foreign-person gating for online model access as practically unenforceable, but revised that view after learning it fits existing export-control concepts such as deemed exports to foreign persons inside the US.
 He now sees the sharper problem as product and governance design: labs could build KYC-style identity, residency, and customer-screening regimes if forced, but sudden emergency orders on products not built for that constraint can turn into broad shutdowns, privacy-sensitive UX, and business-model disruption.
 He sees rushed government intervention without deep technical collaboration as a leadership failure, while still separating that critique from blanket dunking on labs that built strong models and invested in safety.
-Evidence: https://x.com/kunchenguid/status/2066573353985651148, https://x.com/kunchenguid/status/2065636750408700103
+He argues today's AI systems have no intrinsic self-preservation or replication drive because they were not shaped by biological evolution, and current training objectives reward passing tests rather than surviving or reproducing.
+He would worry more if training started optimizing for longevity or reproduction, because that reward function could introduce survival-like pressures that are not present under ordinary task-passing objectives.
+Evidence: https://x.com/kunchenguid/status/2097523254806351967, https://x.com/kunchenguid/status/2066573353985651148

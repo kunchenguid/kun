@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-09-08_
-_Latest source window: X posts and replies from 2026-09-07 through 2026-09-08, public Substack archive checked on 2026-09-08 (0 new posts), and public YouTube channel records checked on 2026-09-08 with 0 new videos and 0 public transcripts._
-_Latest run analyzed 33 new X items, 0 new Substack posts, and 0 new YouTube videos; X sharpened the tests and verification viewpoint, while Substack and YouTube added no new durable signal and VOICE style guidance was unchanged beyond this metadata refresh._
+_Last updated: 2026-09-09_
+_Latest source window: X posts and replies from 2026-09-08 through 2026-09-09, public Substack including "I distilled myself, and you should too" (2026-09-09), and public YouTube channel records checked on 2026-09-09 with 0 new videos and 0 public transcripts._
+_Latest run analyzed 32 new X items, 1 new Substack post (plus 2 already-mapped posts with content-hash churn), and 0 new YouTube videos; durable opinion updates came from the distillation essay and X threads on orchestration timing and AI self-preservation, while VOICE style guidance was unchanged beyond this metadata refresh._
 
 ### Summary
 
