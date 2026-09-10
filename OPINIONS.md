@@ -11,8 +11,9 @@ Kun judges coding agents by whether they complete valuable work in messy real co
 He cares about outcomes such as correctness, uptime, reliability, user value, and saved human time more than the amount of code a model or company claims to produce.
 He prefers agents that gather evidence with search, grep, tests, and tools instead of relying on unsupported reasoning.
 He accepts slower and more tool-heavy agents when they produce more trustworthy results, because wrong answers and rework cost more than latency.
+He is skeptical of "just give ambitious goals and leave the model alone" as the main tip when few real-world goals make economic sense to throw at agents unsupervised; practical valuable work often needs human judgment and steering, and he wants both long-horizon autonomy and human-in-the-loop conversation rather than trading one away.
 He sees hallucination as an engineering and incentive problem that can be reduced by training models to admit uncertainty and by surrounding them with verification.
-Evidence: https://x.com/kunchenguid/status/1885867478489976954, https://x.com/kunchenguid/status/1954225404828631469
+Evidence: https://x.com/kunchenguid/status/1885867478489976954, https://x.com/kunchenguid/status/2097839769875280269
 
 ### Agentic engineering changes the work rather than eliminating engineering
 
@@ -40,30 +41,30 @@ Kun distinguishes testing from TDD: automated tests are valuable when they encod
 He has become skeptical of letting agents fully drive TDD by themselves, because agents can write unit tests that miss true requirements, treat those self-written tests as completion, and burn tokens on verification that does not prove user-facing behavior; he increasingly sees unit tests as closer to source code or implementer chain-of-thought than as independent product proof.
 He still sees value in human-reviewed tests, deterministic gates, and human-in-the-loop variants of TDD, but thinks popular agent skills and viral instruction files should prove that their workflow improves outcomes before being installed by default.
 He treats misunderstood intent, documentation drift, and missed follow-through as first-class AI coding failure modes, not merely style problems.
-He does not trust even strong current models enough to merge AI-generated changes without heavy scrutiny, and he sees fresh-context validation tools as cheaper than finding mistakes in production.
-He trusts validation pipelines only after calibrating them against his own review over time, closing the gaps he finds, and keeping the original intent clear enough for an independent reviewer to reconstruct.
+He does not trust even strong current models enough to merge AI-generated changes without heavy scrutiny, so he treats independent review agents as necessary: the implementer's trajectory biases it toward missing edge cases, ripple effects, and over-engineering, more implementer compute eventually has worse ROI than another-angle review, and orchestrator-absorbed review does not scale once that orchestrator is busy.
+He trusts validation pipelines only after calibrating them against his own review over time, closing the gaps he finds, and keeping original user intent clear enough for an independent reviewer to check the implementation against that intent.
 He wants adversarial review with author/reviewer isolation to escalate scope creep to humans and prefer simplification over adding machinery.
-Evidence: https://x.com/kunchenguid/status/2064196342248030352, https://x.com/kunchenguid/status/2072167889420099635
+Evidence: https://x.com/kunchenguid/status/2064196342248030352, https://x.com/kunchenguid/status/2097928437960978823
 
 ### Human accountability must remain explicit
 
 Kun treats AI as a tool, not a teammate or co-author.
 Humans remain accountable for AI-assisted changes because they choose the goals, approve the outputs, and own the consequences.
+He thinks agent write actions should stay traceable to the human who granted permission for that write, which may not always be the person present, and he is interested in agent-scoped credentials that represent an agent managed by a named human rather than collapsing every agent action into undifferentiated user identity or treating IT-admin automation as the same case.
 He dislikes agents auto-adding themselves as commit co-authors because it serves vendor branding more than user trust.
 He would rather source control record useful AI-assistance metadata such as model, prompt, token usage, session context, and human approval.
-Evidence: https://x.com/kunchenguid/status/2034743250033201335, https://x.com/kunchenguid/status/2035453569256870288
+Evidence: https://x.com/kunchenguid/status/2034743250033201335, https://x.com/kunchenguid/status/2097764083957428657
 
 ### Good agent systems need orchestration, isolation, and fresh context
 
 Kun thinks effective agent work requires moving from micromanaging steps to directing agents through goals, principles, measurable objectives, and review loops.
 He prefers a higher-level orchestrator that absorbs project juggling, reduces human context switching, and persists project state outside any one model session or vendor memory silo.
-He prefers orchestration that stays observable enough for him to jump in when needed, but he thinks the qualitative benefit of not manually managing many parallel threads is hard to understand until experienced, so he recommends waiting on firstmate-class orchestration until juggling many sessions is a clear pain rather than adopting it early.
+He prefers orchestration that stays observable enough for him to jump in when needed, and by default he suggests one firstmate that absorbs everything until it is overloaded, then spawning second mates; he thinks the qualitative benefit of not manually managing many parallel threads is hard to understand until experienced, so he recommends waiting on firstmate-class orchestration until juggling many sessions is a clear pain rather than adopting it early.
 He prefers deterministic harnesses for repeated long-running loops instead of asking one context window to remember everything.
 He distinguishes one-off loops that babysit bounded tasks from durable loops that repeatedly process new events, and he thinks durable loops only become valuable when a project has enough adoption or recurring inputs to justify them.
 He believes agents should use fresh context windows, isolated worktrees, explicit review phases, fix phases, and deliberate compaction to reduce context rot.
 He distinguishes tool-internal scratch worktrees used to isolate validation from user-visible worktrees used to isolate parallel agent sessions and code changes.
-He prefers review in a fresh context, ideally with a different model than the authoring model, because same-session review is biased toward believing the original work was correct.
-He likes keeping reviewer and fixer roles in separate persistent sessions when a loop repeats, because it preserves adversarial isolation while avoiding repeated context extraction and token waste.
+He likes keeping reviewer and fixer roles in separate persistent sessions when a loop repeats so adversarial isolation survives without repeated context extraction.
 He thinks high-volume agent work needs searchable traces, indexes, portable memory files, and documentation-updating pipelines because useful autonomy becomes hard to trust or understand when its activity is invisible, locked into one provider, or unavailable to another harness.
 He wants long-running validation and agent gates to expose read-only status surfaces that distinguish "still working" from "dead" without making the user tail logs or mutate the run.
 He sees cross-agent message passing and a captain or first-mate layer as important for keeping many parallel agents aligned without making the human manually relay context.
@@ -451,10 +452,11 @@ Evidence: https://x.com/kunchenguid/status/2060024945238008179, https://x.com/ku
 
 Kun does not think platform fees are inherently wrong.
 He objects when a platform suppresses competition by disallowing alternatives.
+He thinks platforms can use privacy rhetoric as competitive strategy while self-preferencing their own ads or data use, and that locking AI strategy to an on-device privacy narrative can later constrain frontier capability.
 He sees Windows Phone as a cold-start failure in app ecosystems rather than merely a product-quality failure.
 He thinks apps have abused push notifications for marketing and wants user-side intelligence to punish irrelevant senders.
 He worries that "GitHub replacements" often chase only the paid source-control business, which can starve the open-source commons GitHub currently subsidizes if paid revenue disappears without a viable alternative.
-Evidence: https://x.com/kunchenguid/status/2089417913002586565, https://x.com/kunchenguid/status/2048903872798925247
+Evidence: https://x.com/kunchenguid/status/2097970888344043957, https://x.com/kunchenguid/status/2089417913002586565
 
 ### Trust requires plain accountability
 
@@ -473,7 +475,7 @@ Evidence: https://x.com/kunchenguid/status/2058283378076704917, https://x.com/ku
 ### Institutions matter because coordination creates value
 
 Kun sees a company as a group of people creating value together that individuals could not create alone.
-He thinks strong current business performance is not a reason for leadership complacency when the underlying market may change quickly.
+He thinks strong current business performance is not a reason for leadership complacency when the underlying market may change quickly, and that a once-successful long-term strategy or narrative can become counterproductive if it locks a company out of adapting; he is more bullish on companies that act fast and embrace change.
 He views some strategic paranoia as healthy, while still judging the execution of layoffs, reassignments, or reorganizations by whether they respect people and improve the company's future relevance.
 He treats organizational topology as an execution variable, not just a culture meme, and likes turning org-design intuitions into runnable simulations with comparable evidence.
 He thinks large companies behave less like one coherent actor and more like many internal organizations with separate leaders, incentives, roadmaps, and legitimacy boundaries.
