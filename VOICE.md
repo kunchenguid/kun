@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-09-10_
-_Latest source window: X posts and replies from 2026-09-09 through 2026-09-10, public Substack posts rechecked for content-hash churn (including "I distilled myself, and you should too"), and public YouTube channel records checked on 2026-09-10 with 0 new videos and 0 public transcripts._
-_Latest run analyzed 30 new X items, 5 Substack posts with content-hash churn (0 net-new opinion maps), and 0 new YouTube videos; durable opinion updates came from X threads on agent review ROI, write attribution, ambitious-goal economics, and Apple/Meta strategy lock-in, while VOICE style guidance was unchanged beyond this metadata refresh._
+_Last updated: 2026-09-11_
+_Latest source window: X posts and replies from 2026-09-10 through 2026-09-11, public Substack posts rechecked for content-hash churn (including "Everyone Should Have an OPINIONS.md" and "I distilled myself, and you should too"), and public YouTube channel records checked on 2026-09-11 with 0 new videos and 0 public transcripts._
+_Latest run analyzed 61 new X items, 2 Substack posts with content-hash churn (0 net-new opinion maps), and 0 new YouTube videos; durable opinion updates came from X threads on single-agent orchestration end-state, premium quota drain, empirical subscription token value, lab capacity controls, and AI-driven cross-platform economics, while VOICE style guidance was unchanged beyond this metadata refresh._
 
 ### Summary
 

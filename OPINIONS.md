@@ -59,7 +59,8 @@ Evidence: https://x.com/kunchenguid/status/2034743250033201335, https://x.com/ku
 
 Kun thinks effective agent work requires moving from micromanaging steps to directing agents through goals, principles, measurable objectives, and review loops.
 He prefers a higher-level orchestrator that absorbs project juggling, reduces human context switching, and persists project state outside any one model session or vendor memory silo.
-He prefers orchestration that stays observable enough for him to jump in when needed, and by default he suggests one firstmate that absorbs everything until it is overloaded, then spawning second mates; he thinks the qualitative benefit of not manually managing many parallel threads is hard to understand until experienced, so he recommends waiting on firstmate-class orchestration until juggling many sessions is a clear pain rather than adopting it early.
+He prefers orchestration that stays observable enough for him to jump in when needed, and by default he suggests one firstmate that absorbs everything until it is overloaded, then spawning second mates; he contrasts a good orchestration app (you remain the CTO with project tools) with firstmate (you hired a CTO), wants that layer harness-agnostic and unopinionated about agent internals, and expects project boundaries to keep collapsing toward one personal-assistant agent across everything as the bitter lesson manifests, even while some people still run one firstmate per domain today.
+He thinks the qualitative benefit of not manually managing many parallel threads is hard to understand until experienced, so he recommends waiting on firstmate-class orchestration until juggling many sessions is a clear pain rather than adopting it early.
 He prefers deterministic harnesses for repeated long-running loops instead of asking one context window to remember everything.
 He distinguishes one-off loops that babysit bounded tasks from durable loops that repeatedly process new events, and he thinks durable loops only become valuable when a project has enough adoption or recurring inputs to justify them.
 He believes agents should use fresh context windows, isolated worktrees, explicit review phases, fix phases, and deliberate compaction to reduce context rot.
@@ -69,7 +70,7 @@ He thinks high-volume agent work needs searchable traces, indexes, portable memo
 He wants long-running validation and agent gates to expose read-only status surfaces that distinguish "still working" from "dead" without making the user tail logs or mutate the run.
 He sees cross-agent message passing and a captain or first-mate layer as important for keeping many parallel agents aligned without making the human manually relay context.
 He thinks flat orchestration stops scaling once many agents run at once, so useful systems need layered roles, escalation paths, and durable project ownership that lets agents accumulate context and expertise over time.
-He thinks the top-level orchestrator often needs the strongest judgment model because it carries the user's rationales, prioritizes and sequences work, resolves ambiguity, and handles escalations rather than merely assigning tickets.
+He thinks the top-level orchestrator needs sound judgment for carrying user rationales, prioritizing work, resolving ambiguity, and handling escalations, but much mundane orchestration does not need peak-intelligence fable-class models; he prefers a fast efficient orchestrator that delegates hard questions to premium models when needed.
 He is interested in event-driven agent control surfaces where a public or lightweight message can trigger real local work, but only when setup, permissions, observability, and rollback paths make the autonomy trustworthy.
 He thinks designing for agents is a real interface discipline because current tools often make agents silently struggle through bad affordances rather than giving them compact, reliable, complaint-worthy surfaces.
 He sees an "agent distro" as a useful category: a prepackaged, out-of-the-box, user-owned bundle of prompts, skills, scripts, and self-knowledge that shapes an agent across harnesses without being merely a model, CLI, MCP, or framework.
@@ -94,7 +95,7 @@ He is skeptical of opaque complexity routers because occasional costly routing m
 He sees overnight agents as useful for measurable optimization tasks where progress can be verified and failed attempts can be discarded, especially when subsidized compute makes long brute-force loops cheaper than human attention.
 He thinks goal-oriented agent sessions work best when the desired end state can be described clearly, such as detailed specs, metric optimization, end-to-end testing, and bug fixing.
 He thinks recursive agent loops are mostly a solved mechanics problem once the real objective is verifiable: with the right tests, metrics, or review target, tokens can buy many iterations, but without that objective the loop just automates wandering.
-Evidence: https://x.com/kunchenguid/status/2074919932845064311, https://x.com/kunchenguid/status/2094517788471894502
+Evidence: https://x.com/kunchenguid/status/2074919932845064311, https://x.com/kunchenguid/status/2098191426668659002
 
 ### Agent-facing interfaces deserve first-class design
 
@@ -146,7 +147,7 @@ He does not consider shorter final answers automatically better when concision t
 He believes higher reasoning effort can reduce total cost on complex tasks when it avoids bad answers, correction turns, and rework.
 He also maps model choice onto workflow stages: use the strongest judgment model for deciding what to build, a strong planning model for how to build it, cheaper capable models for implementation, and fresh strong reviewers for validation.
 He sees model selection as a three-way tradeoff among cost, intelligence, and latency: stronger models usually spend more inference compute, while fast modes and specialized hardware often move latency down by raising cost rather than escaping the tradeoff.
-He thinks model subscriptions are portfolios, not leaderboard trophies: efficiency, modality coverage, quota packaging, availability, and daily workflow fit can outweigh a single highest-ceiling text model.
+He thinks model subscriptions are portfolios, not leaderboard trophies: efficiency, modality coverage, quota packaging, availability, and daily workflow fit can outweigh a single highest-ceiling text model, and he prefers empirically measuring real coding-agent token value across his subscriptions while treating those rankings as snapshots providers can change.
 He expects frontier-model usage patterns to get heavier as loops, agent teams, and chief-of-staff workflows become normal, so labs should offer higher tiers, clearer quota tradeoffs, and slower cheaper background modes, possibly with distinct inference stacks, instead of forcing power users into cap loops.
 He expects harnesses and labs to expose accurate context-window and quota accounting, because hidden overcharging or stale limits turn model selection into wasteful guesswork.
 He treats model malleability and instruction-following as first-class agent qualities: a model that obeys local instructions, delegates according to the harness role, and suppresses its default personality can beat a model that feels smart but resists the workflow.
@@ -156,15 +157,14 @@ He expects durable model advantage to come from better learning algorithms and a
 He expects open or weaker models to become good enough for many tasks as frontier progress slows or plateaus, but he does not treat niche usefulness, unusual style, or a good harness as proof of broad frontier-level capability.
 He is wary of very large context windows and automatic memory when they add stale information, bloated context, inefficient processes, or vendor-specific memory that other agents cannot share.
 He wants AI products to make model identity, fallback, and switching behavior explicit, because silent model changes mislead users about which model actually performed the work and make it harder to combine providers intelligently.
-For scarce premium models, he prefers explicit pricing or quota tradeoffs that let users choose when extra intelligence is worth the burn instead of removing the option entirely.
+For scarce premium models, he prefers explicit pricing or quota tradeoffs that let users choose when extra intelligence is worth the burn instead of removing the option entirely, and he warns that faster expensive models can drain subscription quota much quicker even when dollars-of-tokens per percent look similar, so they should not be the default for every task.
 He wants paid AI plans to publish enough relative quota information for rational upgrade decisions, because users need a way to compare a higher tier against the subscription they already understand before buying it.
 He thinks programming-language choice for agents should be empirical and task-shaped rather than tribal: Rust can be strong for easy compiled CLI-style tasks, static typing can help on harder tasks, and letting the agent choose is often a safe default when the workload is uncertain.
 He treats compile-time strictness as a real tradeoff for agents: Rust-like constraints can force edge cases to be handled before runtime, but the extra fixing loop costs time and tokens, while looser languages can move faster and push more failures into tests or production.
-He treats orchestrator judgment as a first-class model quality: good first-mate models escalate the right decisions, stop over-engineering, and choose ship-first only when stakes are low.
 He is skeptical of mid-tier models that appear primarily distilled or "taught" by a larger teacher when those models feel quirky and less useful for direct interactive human use than models that were trained more directly.
-He treats local and self-hosted AI as an economics question rather than a free alternative: useful local setups cost large hardware, power, and fiddling time, and replacing frontier models with weaker self-hosted ones for important agentic work can compound into competitive loss, though idle local GPUs can still handle secondary non-frontier tasks.
+He treats local and self-hosted AI as an economics question rather than a free alternative: useful local setups cost large hardware, power, and fiddling time, and replacing frontier models with weaker self-hosted ones for important agentic work can compound into competitive loss, though idle local GPUs can still handle secondary non-frontier tasks; he expects on-device and small local models to play a real part without dominating, because mainstream use cases and expectations keep shifting upward whenever the frontier advances.
 He observes that consumers show little brand loyalty across AI labs and harnesses: people switch quickly toward whichever provider gives good tokens cheaply.
-Evidence: https://kunchenguid.substack.com/p/evaluating-the-effectiveness-of-programming, https://x.com/kunchenguid/status/2087942296721559607
+Evidence: https://kunchenguid.substack.com/p/evaluating-the-effectiveness-of-programming, https://x.com/kunchenguid/status/2098256018836963382
 
 ### Personal opinion maps make public thinking useful to agents
 
@@ -186,7 +186,7 @@ Kun thinks LLM labs create the most ecosystem value by making frontier models cl
 He gives extra credit when a model release improves both intelligence and cost efficiency, because cheaper capable intelligence makes real work more accessible and economically viable.
 He is skeptical of lab strategies that over-optimize for peak text or coding intelligence while falling behind on efficiency, transparent capacity, and multimodal product coverage.
 He sees Google as having unusually complete AI ingredients, including research, chips, compute, data, distribution, and cash, so weak developer mindshare from that position reads to him as an execution failure rather than a resource excuse.
-He does not treat explosive demand as a complete excuse for prolonged service instability, because large distributed systems should use throttling, queues, account waitlists, gradual demand ramps, graceful degradation, and capacity controls to protect users when demand exceeds supply.
+He does not treat explosive demand as a complete excuse for prolonged service instability, because large distributed systems should use throttling, queues, account waitlists, gradual demand ramps, graceful degradation, and capacity controls to protect users when demand exceeds supply, and he gives credit when a lab pauses high-strain plans or otherwise constrains new load to protect existing customers rather than hiding behind a vague demand excuse.
 He is skeptical when labs use model power, product bundling, or platform control to favor their own downstream apps and block competing harnesses.
 He gives credit when a lab listens to users, reverts bad product decisions quickly, and ships practical workflow affordances that reduce babysitting rather than only chasing model spectacle.
 He thinks programmatic and non-interactive access matters because serious agent users scale through background execution, parallel sessions, and automation rather than one human sitting in one chat loop.
@@ -201,7 +201,7 @@ He thinks a real mission should make a lab willing to enable others to advance t
 He treats self-serving restrictions on competing AI products or research uses as evidence that mission language is drifting toward power preservation.
 He sees LLMs potentially becoming commodity infrastructure that fades into the background like power plants, internet providers, or payment rails.
 He thinks the real scaling constraint for frontier AI is increasingly energy availability, not just data-center hardware or chips.
-Evidence: https://x.com/kunchenguid/status/2066608004464861546, https://x.com/kunchenguid/status/2066743978666688765
+Evidence: https://x.com/kunchenguid/status/2066608004464861546, https://x.com/kunchenguid/status/2098134178164617409
 
 ### AI product moats require more than a wrapper
 
@@ -332,9 +332,10 @@ He describes his own mission as helping empower individuals to discover, pursue,
 He sees solo autonomy as high-leverage because it removes alignment tax and enables fast pivots, but that same freedom creates focus risk.
 He frames distribution as finding the people who already have the problem, not merely promoting a product, and he thinks better building tools do not remove the need for distribution.
 He worries AI creates a sharp asymmetry: innovators may get roughly 10x faster while repetition and copying get closer to 1000x easier, collapsing the old window to build traction and network effects before a copy arrives, which punishes innovators without distribution, races non-network-effect products toward thin margins and weaker polish, and pushes choice-paralyzed users toward authorities.
+He also thinks AI makes mechanically replicating an existing implementation across platforms cheap enough that shared-code abstractions justified mainly by multi-platform maintenance cost lose their core economic reason, which shifts the cost-versus-quality tradeoff toward higher-quality purpose-fit implementations rather than code-sharing for its own sake.
 He thinks authentic public sharing and open-source adoption can still compound into real users, relationships, and distribution for an introverted solo builder, because real experiences remain more legible than AI-slop content even when stars do not directly replace income.
 He believes product updates often belong inside the product at the right moment rather than in generic announcement channels.
-Evidence: https://x.com/kunchenguid/status/2096661942010368487, https://www.youtube.com/watch?v=GQ0U_gTYMpA
+Evidence: https://x.com/kunchenguid/status/2096661942010368487, https://x.com/kunchenguid/status/2098118138797953499
 
 ### Idea quality depends on the builder
 
@@ -452,7 +453,7 @@ Evidence: https://x.com/kunchenguid/status/2060024945238008179, https://x.com/ku
 
 Kun does not think platform fees are inherently wrong.
 He objects when a platform suppresses competition by disallowing alternatives.
-He thinks platforms can use privacy rhetoric as competitive strategy while self-preferencing their own ads or data use, and that locking AI strategy to an on-device privacy narrative can later constrain frontier capability.
+He thinks platforms can use privacy rhetoric as competitive strategy while self-preferencing their own ads or data use, and that locking AI strategy to an on-device privacy narrative can later constrain frontier capability; he currently judges Meta far ahead of Apple in developing an AI stack while still treating broad claims about anyone "winning" AI as speculation.
 He sees Windows Phone as a cold-start failure in app ecosystems rather than merely a product-quality failure.
 He thinks apps have abused push notifications for marketing and wants user-side intelligence to punish irrelevant senders.
 He worries that "GitHub replacements" often chase only the paid source-control business, which can starve the open-source commons GitHub currently subsidizes if paid revenue disappears without a viable alternative.
