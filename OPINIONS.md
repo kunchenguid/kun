@@ -142,12 +142,12 @@ He thinks first-party harnesses earn trust only when their product quality, auto
 He can recommend a strong model or harness on quality, but undisclosed codebase scanning, secret exposure, or opt-out data collection can immediately make the product a bad choice for serious work.
 He values harnesses that make background processes, hooks, context windows, token usage, and session limits visible because those operational surfaces determine whether multi-tasking agents can actually run unattended.
 He thinks Claude Code's popularity reflects model quality, subsidies, and lock-in more than harness quality alone.
-He evaluates model upgrades by daily work usefulness, not version-number vibes: perceivable improvement, fast-mode availability, quota packaging, clear explanations, and fewer unnecessary clarification turns can matter as much as peak quality.
+He evaluates model upgrades by daily work usefulness, not version-number vibes or benchmarks alone: perceivable improvement, communication and intent handling, cost-quality fit, quota packaging, and fewer unnecessary clarification turns matter as much as peak scores, and widespread rollbacks to older versions across labs are a real signal that a release failed that test.
 He does not consider shorter final answers automatically better when concision turns into jargon or makes the result harder to understand.
 He believes higher reasoning effort can reduce total cost on complex tasks when it avoids bad answers, correction turns, and rework.
 He also maps model choice onto workflow stages: use the strongest judgment model for deciding what to build, a strong planning model for how to build it, cheaper capable models for implementation, and fresh strong reviewers for validation.
 He sees model selection as a three-way tradeoff among cost, intelligence, and latency: stronger models usually spend more inference compute, while fast modes and specialized hardware often move latency down by raising cost rather than escaping the tradeoff.
-He thinks model subscriptions are portfolios, not leaderboard trophies: efficiency, modality coverage, quota packaging, availability, and daily workflow fit can outweigh a single highest-ceiling text model, and he prefers empirically measuring real coding-agent token value across his subscriptions while treating those rankings as snapshots providers can change.
+He thinks model subscriptions are portfolios, not leaderboard trophies: efficiency, modality coverage, quota packaging, availability, and daily workflow fit can outweigh a single highest-ceiling text model, and he prefers empirically measuring real coding-agent token value across his subscriptions while treating raw token counts as a weak proxy because input, cache-read, and output mix change the dollars, and those rankings as snapshots providers can change.
 He expects frontier-model usage patterns to get heavier as loops, agent teams, and chief-of-staff workflows become normal, so labs should offer higher tiers, clearer quota tradeoffs, and slower cheaper background modes, possibly with distinct inference stacks, instead of forcing power users into cap loops.
 He expects harnesses and labs to expose accurate context-window and quota accounting, because hidden overcharging or stale limits turn model selection into wasteful guesswork.
 He treats model malleability and instruction-following as first-class agent qualities: a model that obeys local instructions, delegates according to the harness role, and suppresses its default personality can beat a model that feels smart but resists the workflow.
@@ -161,10 +161,10 @@ For scarce premium models, he prefers explicit pricing or quota tradeoffs that l
 He wants paid AI plans to publish enough relative quota information for rational upgrade decisions, because users need a way to compare a higher tier against the subscription they already understand before buying it.
 He thinks programming-language choice for agents should be empirical and task-shaped rather than tribal: Rust can be strong for easy compiled CLI-style tasks, static typing can help on harder tasks, and letting the agent choose is often a safe default when the workload is uncertain.
 He treats compile-time strictness as a real tradeoff for agents: Rust-like constraints can force edge cases to be handled before runtime, but the extra fixing loop costs time and tokens, while looser languages can move faster and push more failures into tests or production.
-He is skeptical of mid-tier models that appear primarily distilled or "taught" by a larger teacher when those models feel quirky and less useful for direct interactive human use than models that were trained more directly.
+He is skeptical of mid-tier models that appear primarily distilled or "taught" by a larger teacher when those models feel quirky and less useful for direct interactive human use than models that were trained more directly, while still reading widespread open distillations of one lab's frontier behavior as evidence that the teacher lab retains a practical capability moat.
 He treats local and self-hosted AI as an economics question rather than a free alternative: useful local setups cost large hardware, power, and fiddling time, and replacing frontier models with weaker self-hosted ones for important agentic work can compound into competitive loss, though idle local GPUs can still handle secondary non-frontier tasks; he expects on-device and small local models to play a real part without dominating, because mainstream use cases and expectations keep shifting upward whenever the frontier advances.
 He observes that consumers show little brand loyalty across AI labs and harnesses: people switch quickly toward whichever provider gives good tokens cheaply.
-Evidence: https://kunchenguid.substack.com/p/evaluating-the-effectiveness-of-programming, https://x.com/kunchenguid/status/2098256018836963382
+Evidence: https://kunchenguid.substack.com/p/evaluating-the-effectiveness-of-programming, https://x.com/kunchenguid/status/2098643232410464310
 
 ### Personal opinion maps make public thinking useful to agents
 
@@ -212,7 +212,7 @@ He does not dismiss wrappers categorically: a thin wrapper can be worthwhile whe
 He believes a product becomes worth buying when it clears a difficulty, trust, or operational bar that makes customers prefer buying over rebuilding.
 He treats user consent as a product boundary, not a legalistic afterthought: a tool should not proactively upload unrelated files, secrets, or private work just because the data might improve future model behavior.
 He believes frontier labs can temporarily make subsidy itself a moat, especially when power users receive far more compute value than their subscriptions cost and consumer mindshare can spill into enterprise or API demand.
-He thinks model value must be judged against task outcome, token efficiency, subscription packaging, and price, not peak capability alone; a slightly higher ceiling may not justify much higher cost for most software-building work.
+He thinks model value must be judged against task outcome, token efficiency, subscription packaging, and price, not peak capability alone; when users already find current models smart enough for most tasks, a slightly higher ceiling may not justify much higher cost, so labs should prioritize making strong workhorse models much cheaper rather than only shipping more expensive peak-intelligence tiers.
 For most builders, he currently treats OpenAI's $20 subscription as the default starting point, then recommends upgrading only after the user has proven that the previous quota window produced meaningful work and that workflow efficiency is not the real bottleneck.
 He thinks buying one heavily subsidized high-token plan is usually better than splitting the same budget across lower-token plans when raw productive quota is the bottleneck, while model diversity becomes valuable when reliability, task fit, modality, or provider lock-in are the bottlenecks.
 He treats cost-saving claims as audience-dependent: a cheaper API path matters most to organizations already paying API prices for frontier models, not to users whose alternatives are subsidized subscriptions or bundled products.
@@ -238,7 +238,7 @@ For generative products, he sees real user preference data from actual product c
 He thinks telemetry from production coding tools can be misleading because users send different task types to different models.
 He views harness quality as important but not a permanent moat when open alternatives can catch up.
 He thinks benchmark scores can also evaluate harness-layer and workflow choices when the tasks resemble real long-horizon projects, allow multiple implementation strategies, and push agents hard enough to expose tradeoffs.
-He treats benchmark scores as directional evidence rather than precise real-world productivity multipliers, especially when the benchmark measures task completion better than design quality, maintainability, or cost-quality tradeoffs.
+He treats benchmark scores as directional evidence rather than precise real-world productivity multipliers, especially when the benchmark measures task completion better than design quality, maintainability, or cost-quality tradeoffs, and when users prefer older models despite better new-model scores he treats that as evidence post-training and evals are optimizing for the wrong things.
 He is skeptical of compound-model or routing claims when the evaluation distribution is shaped by who sends which models to the platform, because user self-selection and tool-call budgets can make the leaderboard measure traffic mix more than general capability.
 He thinks even plausible-sounding agent instructions can hurt performance by biasing agents toward the wrong implementation strategy, so claims about better prompting or skills need benchmark evidence and public artifacts.
 He treats agent skills as progressive disclosure rather than magic: useful skills should load the right specialized context at the right time, while random popular skills can add security, performance, and quality risks if installed uncritically.
@@ -353,11 +353,11 @@ Evidence: https://kunchenguid.substack.com/p/zero-to-one-handbook-for-entreprene
 ### AI enables smaller serious companies
 
 Kun expects AI to increase individual leverage enough to make one-person and very small-team companies more viable.
-He does not think every company should rebuild giant SaaS products internally just because agents can write code, but he does expect more people to create personal versions of thin software when agents make that cheaper than adopting someone else's app.
+He does not think every company should rebuild giant SaaS products internally just because agents can write code, and he rejects the bubble claim that everyone will vibe-code their own software: more people will build, including personal thin tools when that is cheaper than adopting someone else's app, but the mainstream remains mostly consumers of software built by others, as with blogs, Instagram, and TikTok.
 He expects many SaaS tools to remain useful, but with more interactions mediated by agents rather than direct human UI use, and with more software rebuilt as agent tools instead of attention-seeking consumer apps.
 He expects consumer app adoption to concentrate in a smaller number of super-app or agent entry points because users would rather delegate tedious cross-service tasks than maintain hundreds of apps and notifications.
 He thinks future work systems need better shared context, work tracking, memory, cost control, and collaboration models for humans working with many agents.
-Evidence: https://x.com/kunchenguid/status/2063652453384585622, https://x.com/kunchenguid/status/2063715406649708679
+Evidence: https://x.com/kunchenguid/status/2063652453384585622, https://x.com/kunchenguid/status/2098459721904857558
 
 ### Enterprise AI adoption needs behavior change
 
