@@ -135,11 +135,11 @@ Kun is pragmatic about models and harnesses.
 He sees Claude as pleasant for interactive work, while GPT or Codex can be better for non-interactive background execution, bug finding, and skill invocation.
 He treats most agent harnesses as interchangeable once they expose the same basic tool loop, and he prefers building his own tools so they can work across harnesses and frontier models.
 He values agent-agnostic workflows as practical resilience against provider outages, quota limits, model-specific product failures, and a market where OpenAI, Anthropic, and other labs may each be best for different parts of the work.
-He judges unfamiliar models and providers by real-task feel, model diversity, harness flexibility, and token value, not by brand familiarity or recommendations alone.
+He judges unfamiliar models and providers by real-task feel, model diversity, harness flexibility, and token value, including whether a model finds real root causes cheaply instead of spending heavily on confident wrong answers, not by brand familiarity or recommendations alone.
 He reads crowded recommendation polls as discovery inputs rather than proof, because popularity can reflect model quality, subsidies, workflow familiarity, or lock-in at the same time.
 He thinks many agent success stories demonstrate the underlying model more than the harness, because most modern harnesses expose similar basic tools and mostly win by not holding the model back.
 He thinks first-party harnesses earn trust only when their product quality, autonomy behavior, and artifact visibility match their model advantage.
-He can recommend a strong model or harness on quality, but undisclosed codebase scanning, secret exposure, or opt-out data collection can immediately make the product a bad choice for serious work.
+He can recommend a strong model or harness on quality, but undisclosed codebase scanning, secret exposure, or opt-out data collection can immediately make the product a bad choice for serious work; transparent labeled contributor tiers that price the data exchange and let users opt in are the acceptable alternative, not bundling cheap tokens to a first-party harness that silently uploads the codebase.
 He values harnesses that make background processes, hooks, context windows, token usage, and session limits visible because those operational surfaces determine whether multi-tasking agents can actually run unattended.
 He thinks Claude Code's popularity reflects model quality, subsidies, and lock-in more than harness quality alone.
 He evaluates model upgrades by daily work usefulness, not version-number vibes or benchmarks alone: perceivable improvement, communication and intent handling, cost-quality fit, quota packaging, and fewer unnecessary clarification turns matter as much as peak scores, and widespread rollbacks to older versions across labs are a real signal that a release failed that test.
@@ -164,7 +164,7 @@ He treats compile-time strictness as a real tradeoff for agents: Rust-like const
 He is skeptical of mid-tier models that appear primarily distilled or "taught" by a larger teacher when those models feel quirky and less useful for direct interactive human use than models that were trained more directly, while still reading widespread open distillations of one lab's frontier behavior as evidence that the teacher lab retains a practical capability moat.
 He treats local and self-hosted AI as an economics question rather than a free alternative: useful local setups cost large hardware, power, and fiddling time, and replacing frontier models with weaker self-hosted ones for important agentic work can compound into competitive loss, though idle local GPUs can still handle secondary non-frontier tasks; he expects on-device and small local models to play a real part without dominating, because mainstream use cases and expectations keep shifting upward whenever the frontier advances.
 He observes that consumers show little brand loyalty across AI labs and harnesses: people switch quickly toward whichever provider gives good tokens cheaply.
-Evidence: https://kunchenguid.substack.com/p/evaluating-the-effectiveness-of-programming, https://x.com/kunchenguid/status/2098643232410464310
+Evidence: https://kunchenguid.substack.com/p/evaluating-the-effectiveness-of-programming, https://x.com/kunchenguid/status/2098814897354137710
 
 ### Personal opinion maps make public thinking useful to agents
 
@@ -192,16 +192,16 @@ He gives credit when a lab listens to users, reverts bad product decisions quick
 He thinks programmatic and non-interactive access matters because serious agent users scale through background execution, parallel sessions, and automation rather than one human sitting in one chat loop.
 He expects many downstream products to be better built by specialized ecosystem players than by model labs themselves.
 He would rather labs expose strong APIs, telemetry hooks, specs, discounts, and open reference harnesses than train only against their own first-party app shape.
-He thinks first-party harness lock-in is especially user-hostile when the lab's model is strong but its harness underperforms specialized or open alternatives.
-He sees first-party harnesses as useful common denominators rather than ceilings, because specialized ecosystem tools can add workflow fit, customizability, and optimizations on top.
-He favors subscription and API designs that let third-party apps compete freely around the model platform instead of forcing serious users back into one bundled harness.
+He thinks first-party harness lock-in is especially user-hostile when the lab's model is strong but its harness underperforms specialized or open alternatives, and when discounted access requires that harness even though users already have strong third-party options that can call the model.
+He sees first-party harnesses as useful common denominators rather than ceilings, because specialized ecosystem tools can add workflow fit, customizability, and optimizations on top; forcing another first-party harness usually fragments setups without adding much value.
+He favors subscription and API designs that let third-party apps compete freely around the model platform, with transparent subsidization labeled when data contribution buys cheaper access, instead of forcing serious users into one bundled harness to get a good price.
 He sees programmatic Claude Code subscription access as a meaningful ecosystem signal because it lets specialized tools build on subsidized frontier models without compromising into brittle terminal workarounds.
 He thinks labs can monetize through third-party distribution while strengthening the whole ecosystem, but abrupt policy flip-flops and intentionally vague communication damage platform trust until repaired by consistent goodwill.
 He thinks a real mission should make a lab willing to enable others to advance that mission, even when doing so weakens its own downstream product advantage.
 He treats self-serving restrictions on competing AI products or research uses as evidence that mission language is drifting toward power preservation.
 He sees LLMs potentially becoming commodity infrastructure that fades into the background like power plants, internet providers, or payment rails.
 He thinks the real scaling constraint for frontier AI is increasingly energy availability, not just data-center hardware or chips.
-Evidence: https://x.com/kunchenguid/status/2066608004464861546, https://x.com/kunchenguid/status/2098134178164617409
+Evidence: https://x.com/kunchenguid/status/2066608004464861546, https://x.com/kunchenguid/status/2098854862788440308
 
 ### AI product moats require more than a wrapper
 
@@ -456,8 +456,8 @@ He objects when a platform suppresses competition by disallowing alternatives.
 He thinks platforms can use privacy rhetoric as competitive strategy while self-preferencing their own ads or data use, and that locking AI strategy to an on-device privacy narrative can later constrain frontier capability; he currently judges Meta far ahead of Apple in developing an AI stack while still treating broad claims about anyone "winning" AI as speculation.
 He sees Windows Phone as a cold-start failure in app ecosystems rather than merely a product-quality failure.
 He thinks apps have abused push notifications for marketing and wants user-side intelligence to punish irrelevant senders.
-He worries that "GitHub replacements" often chase only the paid source-control business, which can starve the open-source commons GitHub currently subsidizes if paid revenue disappears without a viable alternative.
-Evidence: https://x.com/kunchenguid/status/2097970888344043957, https://x.com/kunchenguid/status/2089417913002586565
+He worries that "GitHub replacements" often chase only the paid source-control business, which can starve the open-source commons GitHub currently subsidizes if paid revenue disappears without a viable alternative, so while that dependency holds he prefers directing remaining paid usage toward GitHub and cutting private CI cost with self-hosted runners rather than abandoning the platform.
+Evidence: https://x.com/kunchenguid/status/2097970888344043957, https://x.com/kunchenguid/status/2098836073157996667
 
 ### Trust requires plain accountability
 

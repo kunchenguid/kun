@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-09-12_
-_Latest source window: X posts and replies from 2026-09-11 through 2026-09-12, public Substack posts rechecked for content-hash churn (including "Org-Bench" and "I distilled myself, and you should too"), and public YouTube channel records checked on 2026-09-12 with 0 new videos and 0 public transcripts._
-_Latest run analyzed 25 new X items, 2 Substack posts with content-hash churn (0 net-new opinion maps), and 0 new YouTube videos; durable opinion updates came from X threads on vibe-coding as a creation-vs-consumption bubble, multi-lab model-release rollbacks and cost-quality tradeoffs, weak raw token-count proxies, and distillation as a teacher-lab moat signal, while VOICE style guidance was unchanged beyond this metadata refresh._
+_Last updated: 2026-09-13_
+_Latest source window: X posts and replies from 2026-09-12 through 2026-09-13, public Substack posts rechecked for content-hash churn (including "Org-Bench", "Your AGENTS.md is a Neural Net", and "I distilled myself, and you should too"), and public YouTube channel records checked on 2026-09-13 with 0 new videos and 0 public transcripts._
+_Latest run analyzed 15 new X items, 3 Substack posts with content-hash churn (0 net-new opinion maps), and 0 new YouTube videos; durable opinion updates came from X threads on transparent contributor-tier subsidization versus secret harness data collection, token-efficient root-cause debugging as a reason to default a model, and supporting GitHub while the OSS commons still depends on it, while VOICE style guidance was unchanged beyond this metadata refresh._
 
 ### Summary
 
