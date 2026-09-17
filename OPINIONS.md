@@ -83,6 +83,7 @@ He treats agent throughput as a systems problem: faster models can increase prod
 He wants agents to see real quota, session, token, provider-availability, real-time-information, and modality data so they can decide when to parallelize, when to wait, and which harness or model to use instead of routing blindly.
 Once orchestration lets him run many parallel sessions, he cares less about shaving latency from a single request and more about whether subscription quotas, token budget, human attention, and execution environments can sustain enough useful agent work.
 He thinks quota-aware routing and flexible quota allocation matter more as multi-agent usage becomes spiky, because rigid per-session caps can block useful burst work even when a user has weekly budget left and tempt wasteful resets just to clear the wrong constraint.
+When multiple models match the same dispatch rule, he prefers picking the one with the most remaining quota runway, and he treats the task brief plus dispatch rules plus quota data as the natural input context for a specialized routing decision.
 For high-concurrency agent work, he still finds a personal always-on machine useful as an accessible home base even when cloud or subscription capacity carries the heavy concurrency.
 He is interested in using cheap or subsidized environments such as GitHub Actions as agent sandboxes for open-source work, but only if credential handling and workflow isolation can be made safe enough.
 He wants agents to make reasonable calls on obvious or reversible decisions instead of repeatedly asking permission, while still checking with humans when the tradeoff is genuinely subjective or risky.
@@ -97,14 +98,14 @@ He is skeptical of opaque complexity routers because occasional costly routing m
 He sees overnight agents as useful for measurable optimization tasks where progress can be verified and failed attempts can be discarded, especially when subsidized compute makes long brute-force loops cheaper than human attention.
 He thinks goal-oriented agent sessions work best when the desired end state can be described clearly, such as detailed specs, metric optimization, end-to-end testing, and bug fixing.
 He thinks recursive agent loops are mostly a solved mechanics problem once the real objective is verifiable: with the right tests, metrics, or review target, tokens can buy many iterations, but without that objective the loop just automates wandering.
-Evidence: https://x.com/kunchenguid/status/2074919932845064311, https://x.com/kunchenguid/status/2098191426668659002
+Evidence: https://x.com/kunchenguid/status/2074919932845064311, https://x.com/kunchenguid/status/2100468943853085061
 
 ### Agent-facing interfaces deserve first-class design
 
 Kun believes tools for agents should be designed as deliberately as human UIs.
 Agent interfaces should optimize token efficiency, speed, composability, compact output, reliability, and easy chaining.
 He favors compact model-readable formats for tool output when benchmark evidence shows they improve accuracy, speed, or token cost, while keeping model-generated outputs in familiar formats unless there is separate evidence to switch.
-He is skeptical that generic MCP surfaces or human-oriented JSON APIs are always the best interface for agents.
+He is skeptical that generic MCP surfaces or human-oriented JSON APIs are always the best interface for agents, and he rejects MCP-is-better claims while strong CLI tooling exists; making curl requests to MCP endpoints is just bash again without tool search, a strictly worse version of a CLI.
 He sees purpose-built agent CLIs and AXI-style tools as promising because shells, pipes, and concise commands give agents efficient building blocks.
 He likes constrained canvases, browser-visible artifacts, and visual feedback loops for agent work because they keep outputs legible, bounded, and easier for both humans and agents to improve without copy-paste feedback cycles.
 He now sees HTML as a stronger format than Markdown for reviewing some human-facing and agent-to-agent artifacts because it can express structure, interactivity, and visual polish, while still treating Markdown as better for agent skills and LLM guidance where compactness matters more.
@@ -117,7 +118,7 @@ He prefers this kind of agent-shaped software to be open, local-friendly, and ab
 He would rather see AI capabilities compose as reusable skills inside existing agents than become parallel siloed systems when no real technical or product boundary requires separation.
 He is bullish on open-source building blocks and tools for agents because they let both humans and coding agents discover, reuse, and compose useful capabilities.
 He increasingly treats web-only setup consoles as agentic workflow blockers, especially when secrets would be exposed through browser automation, screenshots, or keystrokes.
-Evidence: https://x.com/kunchenguid/status/2069627680006566030, https://x.com/kunchenguid/status/2072469512088404323
+Evidence: https://x.com/kunchenguid/status/2069627680006566030, https://x.com/kunchenguid/status/2100461539316920716
 
 ### CLI agents and IDE agents will coexist
 
@@ -147,9 +148,13 @@ He thinks Claude Code's popularity reflects model quality, subsidies, and lock-i
 He evaluates model upgrades by daily work usefulness, not version-number vibes or benchmarks alone: perceivable improvement, communication and intent handling, cost-quality fit, quota packaging, and fewer unnecessary clarification turns matter as much as peak scores, and widespread rollbacks to older versions across labs are a real signal that a release failed that test; he does not assume a newer release is better until he tries it himself and keeps the version that is faster, more efficient, or more straight to the point for his work.
 He does not consider shorter final answers automatically better when concision turns into jargon or makes the result harder to understand.
 He believes higher reasoning effort can reduce total cost on complex tasks when it avoids bad answers, correction turns, and rework.
-He also maps model choice onto workflow stages: use the strongest judgment model for deciding what to build, a strong planning model for how to build it, cheaper capable models for implementation, and fresh strong reviewers for validation; for constrained choice problems where options are predefined but the pick is hard, he is excited by specialized non-generative decision engines for near-real-time model routing, escalation judgment, and code-review triage, while rejecting them as replacements for generative LLMs on open-ended tasks, and he likes quantified confidence so low-confidence picks can escalate to a heavier LLM panel instead of defaulting to LLM-for-everything.
+He also maps model choice onto workflow stages: use the strongest judgment model for deciding what to build, a strong planning model for how to build it, cheaper capable models for implementation, and fresh strong reviewers for validation.
+For constrained choice problems where options are predefined but the pick is hard, he has deployed specialized non-generative decision engines in production for near-real-time model routing and similar triage, seeing frontier-model agreement at far lower cost and latency than an LLM tool-call loop, while rejecting them as replacements for generative LLMs on open-ended tasks.
+He thinks the deeper implication is architectural: combine deterministic code, intelligent decision engines, and occasional LLM generation instead of defaulting every step to an agent loop, and he likes quantified confidence so low-confidence picks can escalate to a heavier LLM panel instead of defaulting to LLM-for-everything.
 He sees model selection as a three-way tradeoff among cost, intelligence, and latency: stronger models usually spend more inference compute, while fast modes and specialized hardware often move latency down by raising cost rather than escaping the tradeoff.
-He thinks model subscriptions are portfolios, not leaderboard trophies: efficiency, modality coverage, quota packaging, availability, and daily workflow fit can outweigh a single highest-ceiling text model, and he prefers empirically measuring real coding-agent token value across his subscriptions while treating raw token counts as a weak proxy because input, cache-read, and output mix change the dollars, and those rankings as snapshots providers can change.
+He thinks model subscriptions are portfolios, not leaderboard trophies: efficiency, modality coverage, quota packaging, availability, and daily workflow fit can outweigh a single highest-ceiling text model, and he prefers empirically measuring real coding-agent dollar token value across his subscriptions while treating raw token counts as a weak proxy because input, cache-read, and output mix change the dollars.
+He deliberately stops subscription comparisons at reproducible $ value as the last objective measure, because any task-based productivity claim becomes personalized and can be right for some workloads while wrong for others, which is also why he treats public benchmarks as nearly useless for that kind of personalized answer.
+He treats those $ rankings as snapshots providers can change by crawling back subsidization or cutting quota, still often far cheaper than API pricing, and he expects stacking multiple subscriptions to become somewhat mainstream as single-plan value erodes.
 He expects frontier-model usage patterns to get heavier as loops, agent teams, and chief-of-staff workflows become normal, so labs should offer higher tiers, clearer quota tradeoffs, and slower cheaper background modes, possibly with distinct inference stacks, instead of forcing power users into cap loops.
 He expects harnesses and labs to expose accurate context-window and quota accounting, because hidden overcharging or stale limits turn model selection into wasteful guesswork.
 He treats model malleability and instruction-following as first-class agent qualities: a model that obeys local instructions, delegates according to the harness role, and suppresses its default personality can beat a model that feels smart but resists the workflow.
@@ -166,7 +171,7 @@ He treats compile-time strictness as a real tradeoff for agents: Rust-like const
 He is skeptical of mid-tier models that appear primarily distilled or "taught" by a larger teacher when those models feel quirky and less useful for direct interactive human use than models that were trained more directly, while still reading widespread open distillations of one lab's frontier behavior as evidence that the teacher lab retains a practical capability moat.
 He treats local and self-hosted AI as an economics question rather than a free alternative: useful local setups cost large hardware, power, and fiddling time, and replacing frontier models with weaker self-hosted ones for important agentic work can compound into competitive loss, though idle local GPUs can still handle secondary non-frontier tasks; he expects on-device and small local models to play a real part without dominating, because mainstream use cases and expectations keep shifting upward whenever the frontier advances.
 He observes that consumers show little brand loyalty across AI labs and harnesses: people switch quickly toward whichever provider gives good tokens cheaply.
-Evidence: https://kunchenguid.substack.com/p/evaluating-the-effectiveness-of-programming, https://x.com/kunchenguid/status/2098814897354137710
+Evidence: https://kunchenguid.substack.com/p/evaluating-the-effectiveness-of-programming, https://x.com/kunchenguid/status/2100468943853085061
 
 ### Personal opinion maps make public thinking useful to agents
 
