@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-09-17_
-_Latest source window: X posts and replies from 2026-09-16 through 2026-09-17, public Substack posts rechecked for content-hash churn ("Everyone Should Have an OPINIONS.md", "I distilled myself, and you should too"), and public YouTube RSS refresh (1 already-processed video, 0 new transcripts)._
-_Latest run analyzed 26 new X items, 2 Substack posts with content-hash churn (already mapped), and 1 YouTube item without a new transcript; durable opinion updates came from production decision-engine routing, subscription $ methodology boundaries, and MCP-vs-CLI pushback, while VOICE style guidance was unchanged beyond this metadata refresh._
+_Last updated: 2026-09-18_
+_Latest source window: X posts and replies from 2026-09-17 through 2026-09-18, public Substack posts rechecked for content-hash churn ("How I Built a Reproducible Mac Setup with Nix", "Your AGENTS.md is a Neural Net", "I distilled myself, and you should too"), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 30 new X items, 3 Substack posts with content-hash churn (already mapped), and 0 YouTube items; durable opinion updates came from selective-compaction failure modes, vendor-agnostic same-day integration, and freeform routing categories for specialized decision engines, while VOICE style guidance was unchanged beyond this metadata refresh._
 
 ### Summary
 
