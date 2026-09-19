@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-09-18_
-_Latest source window: X posts and replies from 2026-09-17 through 2026-09-18, public Substack posts rechecked for content-hash churn ("How I Built a Reproducible Mac Setup with Nix", "Your AGENTS.md is a Neural Net", "I distilled myself, and you should too"), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 30 new X items, 3 Substack posts with content-hash churn (already mapped), and 0 YouTube items; durable opinion updates came from selective-compaction failure modes, vendor-agnostic same-day integration, and freeform routing categories for specialized decision engines, while VOICE style guidance was unchanged beyond this metadata refresh._
+_Last updated: 2026-09-19_
+_Latest source window: X posts and replies from 2026-09-18 through 2026-09-19, public Substack content-hash churn on "I distilled myself, and you should too" (already mapped), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 21 new X items, 1 Substack post with content-hash churn (already mapped), and 0 YouTube items; durable opinion updates came from task-boundary compaction judgment with precision-to-recall shift, AI-comment detectability after slop-pattern stripping, and labs adopting shared agent conventions such as AGENTS.md, while VOICE style guidance was unchanged beyond this metadata refresh._
 
 ### Summary
 
