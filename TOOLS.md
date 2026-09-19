@@ -161,3 +161,13 @@ quota-axi is a data-only AXI CLI that reports local quota/usage windows for Clau
 It solves agents choosing work without knowing remaining subscription capacity, and humans parsing vendor dashboards that are not shaped for shell automation. Normalized scopes, runway, and attention blocks give routing-aware callers evidence without inventing numbers.
 
 Run `npx -y quota-axi` (or install globally). On macOS, Claude/Cursor Keychain credentials may need a one-time `quota-axi --allow-keychain-prompt` with Always Allow. Use `--provider`, `--json`, and `--full` as needed. Local-first against first-party endpoints; macOS, Linux, and Windows.
+
+## compact-adviser
+
+https://github.com/kunchenguid/compact-adviser
+
+`compact-adviser` is an agent plugin that judges whether an AI coding session has reached a safe checkpoint for `/compact`, with hint or opt-in automatic modes on supported hosts.
+
+It solves the problem of compacting too early or too late by using TypeSafe's Jev model to assess whether work is finished and whether the session is hands-on or coordination work, with a usage-aware threshold.
+
+Install it with the plugin flow for Pi, Claude Code, Codex CLI, or Grok Build, and use Node 22+ plus a TypeSafe API key. Pi and Claude Code can opt into automatic compaction; Codex and Grok are hint-only, and platform-specific setup is required.
