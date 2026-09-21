@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-09-20_
-_Latest source window: X posts and replies from 2026-09-19 through 2026-09-20, public Substack content-hash churn on "The Month After Leaving Big Tech" and "I distilled myself, and you should too" (already mapped), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 9 new X items, 2 Substack posts with content-hash churn (already mapped), and 0 YouTube items; durable opinion updates came from the research-to-adoption-ready product packaging gap versus marketing narratives, plus AI-comment bot-smell after light touch-ups; VOICE style guidance was unchanged beyond this metadata refresh._
+_Last updated: 2026-09-21_
+_Latest source window: X posts and replies from 2026-09-20 through 2026-09-21, public Substack content-hash churn on "Kun's Pi Agent Config" (already mapped), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 8 new X items, 1 Substack post with content-hash churn (already mapped), and 0 YouTube items; durable opinion updates came from idle prompt-cache expiry as a session-cost trap plus Jev as a drop-in subagent router in chief-of-staff orchestrators; VOICE style guidance was unchanged beyond this metadata refresh._
 
 ### Summary
 
