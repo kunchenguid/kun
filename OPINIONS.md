@@ -42,10 +42,10 @@ He has become skeptical of letting agents fully drive TDD by themselves, because
 He still sees value in human-reviewed tests, deterministic gates, and human-in-the-loop variants of TDD, but thinks popular agent skills and viral instruction files should prove that their workflow improves outcomes before being installed by default.
 He treats misunderstood intent, documentation drift, and missed follow-through as first-class AI coding failure modes, not merely style problems.
 He does not trust even strong current models enough for blanket unsupervised merges, so he treats independent review agents as necessary when stakes warrant it: the implementer's trajectory biases it toward missing edge cases, ripple effects, and over-engineering, more implementer compute eventually has worse ROI than another-angle review, and orchestrator-absorbed review does not scale once that orchestrator is busy.
-He matches validation rigor to stakes: expensive adversarial no-mistakes pipelines when he would otherwise ask a human peer to review, and lighter or auto-merge policies for low-harm toy projects where a bad change does not ship immediately and can be tested before release.
+He matches validation rigor to stakes rather than task complexity: expensive adversarial no-mistakes pipelines when he would otherwise ask a human peer to review or when he cares if the change goes horribly wrong, and lighter or auto-merge policies for low-harm work where a bad change does not ship immediately and can be tested before release; he doubts automated complexity routers can make that stake call well.
 He trusts validation pipelines only after calibrating them against his own review over time, closing the gaps he finds, and keeping original user intent clear enough for an independent reviewer to check the implementation against that intent.
 He wants adversarial review with author/reviewer isolation to escalate scope creep to humans and prefer simplification over adding machinery.
-Evidence: https://x.com/kunchenguid/status/2064196342248030352, https://x.com/kunchenguid/status/2097928437960978823
+Evidence: https://x.com/kunchenguid/status/2064196342248030352, https://x.com/kunchenguid/status/2102239379536433551
 
 ### Human accountability must remain explicit
 
@@ -61,6 +61,7 @@ Evidence: https://x.com/kunchenguid/status/2034743250033201335, https://x.com/ku
 Kun thinks effective agent work requires moving from micromanaging steps to directing agents through goals, principles, measurable objectives, and review loops.
 He prefers a higher-level orchestrator that absorbs project juggling, reduces human context switching, and persists project state outside any one model session or vendor memory silo.
 He prefers orchestration that stays observable enough for him to jump in when needed, and by default he suggests one firstmate that absorbs everything until it is overloaded, then spawning second mates, including per-project second mates he can talk to directly so parallel unrelated work stays separated without giving up a single captain; he contrasts a good orchestration app (you remain the CTO with project tools) with firstmate (you hired a CTO), wants that layer harness-agnostic and unopinionated about agent internals, and expects project boundaries to keep collapsing toward one personal-assistant agent across everything as the bitter lesson manifests, even while some people still run one firstmate per domain today.
+He treats direct leaf-node steering as higher-fidelity but non-scaling: talking iteratively to a leaf agent usually gets better results faster, while an orchestrator scales attention at the cost of occasional misalignment and later correction, much like managing a large human org versus doing the work himself; he evaluates that tradeoff by outcomes and rework rate more than by comparing a single upfront prompt.
 By default he prefers hiding raw tool-call noise so he can focus on what to decide next, while remaining able to toggle details when debugging.
 He thinks the qualitative benefit of not manually managing many parallel threads is hard to understand until experienced, so he advises not adopting a heavy tool until the pain makes clear you cannot keep going without help, and specifically recommends waiting on firstmate-class orchestration until juggling many sessions is that kind of clear pain.
 He prefers deterministic harnesses for repeated long-running loops instead of asking one context window to remember everything.
@@ -99,7 +100,7 @@ He is skeptical of opaque complexity routers because occasional costly routing m
 He sees overnight agents as useful for measurable optimization tasks where progress can be verified and failed attempts can be discarded, especially when subsidized compute makes long brute-force loops cheaper than human attention.
 He thinks goal-oriented agent sessions work best when the desired end state can be described clearly, such as detailed specs, metric optimization, end-to-end testing, and bug fixing.
 He thinks recursive agent loops are mostly a solved mechanics problem once the real objective is verifiable: with the right tests, metrics, or review target, tokens can buy many iterations, but without that objective the loop just automates wandering.
-Evidence: https://x.com/kunchenguid/status/2100468943853085061, https://x.com/kunchenguid/status/2101872626968969713
+Evidence: https://x.com/kunchenguid/status/2101872626968969713, https://x.com/kunchenguid/status/2102294506062385364
 
 ### Agent-facing interfaces deserve first-class design
 
@@ -158,7 +159,8 @@ He deliberately stops subscription comparisons at reproducible $ value as the la
 He treats those $ rankings as snapshots providers can change by crawling back subsidization or cutting quota, still often far cheaper than API pricing, and he expects stacking multiple subscriptions to become somewhat mainstream as single-plan value erodes.
 He expects frontier-model usage patterns to get heavier as loops, agent teams, and chief-of-staff workflows become normal, so labs should offer higher tiers, clearer quota tradeoffs, and slower cheaper background modes, possibly with distinct inference stacks, instead of forcing power users into cap loops.
 He expects harnesses and labs to expose accurate context-window and quota accounting, because hidden overcharging or stale limits turn model selection into wasteful guesswork.
-He treats model malleability and instruction-following as first-class agent qualities: a model that obeys local instructions, delegates according to the harness role, and suppresses its default personality can beat a model that feels smart but resists the workflow.
+He treats model malleability and instruction-following as first-class agent qualities: a model that obeys local system prompts closely enough to surface previously ignored harness behaviors, delegates according to the harness role, and suppresses its default personality can beat a model that feels smart but resists the workflow.
+He prefers steady, predictable day-to-day models that build trust quickly over spiky models with occasional genius moments and occasional baffling misses, even when the steady model has not yet produced a wow breakthrough.
 He thinks real-time AI products need enough intelligence for the task, not just low latency or low price; a cheap or small model that cannot follow the job is not actually good enough.
 He thinks thin AI applications can become much more appealing if the underlying model crosses the needed quality bar, so a bad current app may sometimes be a model-frontier problem rather than only an app-design problem.
 He expects durable model advantage to come from better learning algorithms and architectures that improve the cost-intelligence-latency frontier itself, not merely from spending more data, parameters, or test-time compute.
@@ -172,7 +174,7 @@ He treats compile-time strictness as a real tradeoff for agents: Rust-like const
 He is skeptical of mid-tier models that appear primarily distilled or "taught" by a larger teacher when those models feel quirky and less useful for direct interactive human use than models that were trained more directly, while still reading widespread open distillations of one lab's frontier behavior as evidence that the teacher lab retains a practical capability moat.
 He treats local and self-hosted AI as an economics question rather than a free alternative: useful local setups cost large hardware, power, and fiddling time, and replacing frontier models with weaker self-hosted ones for important agentic work can compound into competitive loss, though idle local GPUs can still handle secondary non-frontier tasks; he expects on-device and small local models to play a real part without dominating, because mainstream use cases and expectations keep shifting upward whenever the frontier advances.
 He observes that consumers show little brand loyalty across AI labs and harnesses: people switch quickly toward whichever provider gives good tokens cheaply.
-Evidence: https://kunchenguid.substack.com/p/evaluating-the-effectiveness-of-programming, https://x.com/kunchenguid/status/2100468943853085061
+Evidence: https://kunchenguid.substack.com/p/evaluating-the-effectiveness-of-programming, https://x.com/kunchenguid/status/2102234191639257399
 
 ### Personal opinion maps make public thinking useful to agents
 
@@ -250,8 +252,8 @@ He treats benchmark scores as directional evidence rather than precise real-worl
 He is skeptical of compound-model or routing claims when the evaluation distribution is shaped by who sends which models to the platform, because user self-selection and tool-call budgets can make the leaderboard measure traffic mix more than general capability.
 He thinks even plausible-sounding agent instructions can hurt performance by biasing agents toward the wrong implementation strategy, so claims about better prompting or skills need benchmark evidence and public artifacts.
 He treats agent skills as progressive disclosure rather than magic: useful skills should load the right specialized context at the right time, while random popular skills can add security, performance, and quality risks if installed uncritically.
-He increasingly treats private real-usage eval sets and day-long firstmate trials as stronger filters than public leaderboards, using private cases more to rule out bad models than to crown winners.
-Evidence: https://x.com/kunchenguid/status/2051793120241787092, https://x.com/kunchenguid/status/2090818708403007610
+He increasingly treats private real-usage eval sets and day-long firstmate trials as stronger filters than public leaderboards or social-attention demos such as 3D game showcases, using private cases more to rule out bad models than to crown winners, and he treats chart-only launch judgments as premature.
+Evidence: https://x.com/kunchenguid/status/2090818708403007610, https://x.com/kunchenguid/status/2102234191639257399
 
 ## Software engineering, craft, and process
 
