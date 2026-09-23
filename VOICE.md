@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-09-22_
-_Latest source window: X posts and replies from 2026-09-21 through 2026-09-22, public Substack content-hash churn on "Your AGENTS.md is a Neural Net" and "I distilled myself, and you should too" (already mapped), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 32 new X items, 2 Substack posts with content-hash churn (already mapped), and 0 YouTube items; durable opinion updates came from Grok 4.7 day-1 real-usage traits (system-prompt following, steady vs spiky, chart/demo skepticism), stakes-not-complexity review gates, and leaf-node vs orchestrator fidelity/scale tradeoffs; VOICE style guidance was unchanged beyond this metadata refresh._
+_Last updated: 2026-09-23_
+_Latest source window: X posts and replies from 2026-09-22 through 2026-09-23, public Substack content-hash churn on "Everyone Should Have an OPINIONS.md" (already mapped), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 20 new X items, 1 Substack post with content-hash churn (already mapped), and 0 YouTube items; durable opinion updates came from Opus 5.5 day-1 review traits (justified verbosity, anti-honest-mistake behavioral reliability, creative-surprise vs workhorse split) and coding-agent cost literacy (cached-read dominance, long-context multipliers vs face-value $/token); VOICE style guidance was unchanged beyond this metadata refresh._
 
 ### Summary
 
