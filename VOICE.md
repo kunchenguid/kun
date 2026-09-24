@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-09-23_
-_Latest source window: X posts and replies from 2026-09-22 through 2026-09-23, public Substack content-hash churn on "Everyone Should Have an OPINIONS.md" (already mapped), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 20 new X items, 1 Substack post with content-hash churn (already mapped), and 0 YouTube items; durable opinion updates came from Opus 5.5 day-1 review traits (justified verbosity, anti-honest-mistake behavioral reliability, creative-surprise vs workhorse split) and coding-agent cost literacy (cached-read dominance, long-context multipliers vs face-value $/token); VOICE style guidance was unchanged beyond this metadata refresh._
+_Last updated: 2026-09-24_
+_Latest source window: X posts and replies from 2026-09-23 through 2026-09-24, public Substack "Kun's Pi Agent Config" (already mapped harness preferences), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 23 new X items, 1 Substack post (already mapped), and 0 YouTube items; durable opinion updates came from GPT-6 Luna as slow-mode background workhorse, a moving one-shot definition of slop plus craftsmanship-centered factories, and AI product moats where private use weakens network effects so building the right thing beats speed to market; VOICE style guidance was unchanged beyond this metadata refresh._
 
 ### Summary
 
