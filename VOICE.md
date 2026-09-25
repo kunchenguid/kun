@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-09-24_
-_Latest source window: X posts and replies from 2026-09-23 through 2026-09-24, public Substack "Kun's Pi Agent Config" (already mapped harness preferences), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 23 new X items, 1 Substack post (already mapped), and 0 YouTube items; durable opinion updates came from GPT-6 Luna as slow-mode background workhorse, a moving one-shot definition of slop plus craftsmanship-centered factories, and AI product moats where private use weakens network effects so building the right thing beats speed to market; VOICE style guidance was unchanged beyond this metadata refresh._
+_Last updated: 2026-09-25_
+_Latest source window: X posts and replies from 2026-09-24 through 2026-09-25, public Substack hash refreshes of "Kun's Pi Agent Config" and "I distilled myself, and you should too" (already mapped), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 40 new X items, 2 Substack posts (already mapped; content-hash churn only), and 0 YouTube items; durable opinion updates came from reasoning-effort as a thinking-token ceiling with medium vs xhigh defaults, structured model-routing buckets (orchestrator/premium/planner/implementer/fixer), GPT supervisory-judgment weakness, and product-layer moats needing real network effects rather than usage-data or consumer-engagement optics; VOICE style guidance was unchanged beyond this metadata refresh._
 
 ### Summary
 
