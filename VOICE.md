@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-09-27_
-_Latest source window: X posts and replies from 2026-09-26 through 2026-09-27, public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 45 new X items, 0 Substack posts, and 0 YouTube items; durable opinion updates came from request-level versus task-level model routing, computer use as a self-deprecating capability, own-hardware versus VPS economics for sustained agent work, choice overload across model and effort SKUs, and xhigh as the bitter-lesson effort default; VOICE metadata only (no new style pattern)._
+_Last updated: 2026-09-28_
+_Latest source window: X posts and replies from 2026-09-27 through 2026-09-28, public Substack refresh (2 hash-churn republishes, no new posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 21 new X items, 0 substantive Substack posts, and 0 YouTube items; durable opinion updates came from transcript-driven AGENTS.md compression with isolated eval, agent-utilization economics for own hardware, and Nix plus cloud-backup recovery; VOICE metadata only (no new style pattern)._
 
 ### Summary
 
