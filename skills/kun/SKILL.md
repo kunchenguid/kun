@@ -10,25 +10,42 @@ metadata:
 
 # /kun
 
-The latest actual instructions of this skill needs to be loaded from `kunchenguid/kun`.
-See steps below to load them and follow that to answer the user's request.
-If the files cannot be fetched, stop and say so. Do not guess file contents.
+Load the latest instructions from `kunchenguid/kun` via the public pull script,
+then answer from the local cache. Do not guess file contents.
 
-## Loading instructions (session-cached)
+## Loading instructions
 
-Fetch and read the **FULL** content of files below:
+### 1. Pull (no LLM)
 
-- `https://raw.githubusercontent.com/kunchenguid/kun/main/ENTRY.md`
-- `https://raw.githubusercontent.com/kunchenguid/kun/main/TOOLS.md`
-- `https://raw.githubusercontent.com/kunchenguid/kun/main/OPINIONS.md`
-- `https://raw.githubusercontent.com/kunchenguid/kun/main/VOICE.md`
+Download the public pull script, then run it with Node. Prefer raw GitHub; use
+jsDelivr only as fallback:
 
-Optional fallback if raw.githubusercontent.com fails:
+- `https://raw.githubusercontent.com/kunchenguid/kun/main/scripts/pull-kun.mjs`
+- fallback: `https://cdn.jsdelivr.net/gh/kunchenguid/kun@main/scripts/pull-kun.mjs`
 
-- `https://cdn.jsdelivr.net/gh/kunchenguid/kun@main/<file>`
+```sh
+# cache defaults to $KUN_PULL_DIR or ~/.cache/kun
+node /path/to/pull-kun.mjs --dir <cache>
+```
 
-Rules:
+The script is incremental via `content/MANIFEST.json`: it syncs root docs
+(`ENTRY.md`, `TOOLS.md`, `OPINIONS.md`, `VOICE.md`) and only new/changed
+`content/` files. Do **not** re-fetch every content file by hand.
 
-1. If an instruction file above was already fully read and visible as prior messages in this session, skip re-download and re-read.
-2. Otherwise GET the raw URL (jsDelivr only as fallback) and read their **full** content.
-3. After load, follow `ENTRY.md` exactly to answer the user.
+If the pull fails, **stop and say so**. Do not guess.
+
+### 2. Read from the local cache
+
+After a successful pull, read the **FULL** local copies from `<cache>`:
+
+- `ENTRY.md`
+- `TOOLS.md`
+- `OPINIONS.md`
+- `VOICE.md`
+
+When a question needs Kun's actual words, open matching files under
+`<cache>/content/` (do not dump the whole tree into context).
+
+### 3. Answer
+
+Follow `ENTRY.md` exactly to answer the user.

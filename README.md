@@ -45,21 +45,23 @@ $ npx skills add kunchenguid/kun -g
 
 ## How It Works
 
-The `/kun` skill file itself stays thin on purpose. It fetches the latest knowledge from this repo over public HTTPS, then follows it.
+The `/kun` skill file itself stays thin on purpose. On `/kun`, the agent runs the
+public pull script (no LLM), then reads from a local cache and follows it.
 
 ```
 daily automation                    /kun question
       │                                   │
       ▼                                   ▼
 ┌──────────────────────┐         ┌──────────────────────┐
-│ refresh living docs  │         │ fetch ENTRY + md     │
-│ on main (see below)  │         │ raw.githubusercontent│
-└──────────┬───────────┘         │ (session-cached)     │
+│ refresh living docs  │         │ node pull-kun.mjs    │
+│ on main (see below)  │         │ → ~/.cache/kun       │
+└──────────┬───────────┘         │ (or $KUN_PULL_DIR)   │
            │                     └──────────┬───────────┘
            ▼                                ▼
-   OPINIONS.md  TOOLS.md              follow ENTRY.md
-   VOICE.md  ENTRY.md                 (pick files as needed)
-           \______________________________/
+   OPINIONS.md  TOOLS.md              read ENTRY + docs
+   VOICE.md  ENTRY.md                 (+ selective content/)
+   content/ MANIFEST                        │
+           \______________________________/ │
                           │
                           ▼
                    concrete answer
@@ -67,14 +69,16 @@ daily automation                    /kun question
 
 ### What the skill loads
 
-1. `ENTRY.md` - how to use the other files to answer you.
-2. `TOOLS.md` - Kun's public tools (what they are, what they solve, how to use them).
-3. `OPINIONS.md` - a compact map of durable viewpoints.
-4. `VOICE.md` - how to respond in Kun's voice.
+1. Download `scripts/pull-kun.mjs` from this repo
+   (`raw.githubusercontent.com`, jsDelivr fallback) and run
+   `node … --dir <cache>` (default: `$KUN_PULL_DIR` or `~/.cache/kun`).
+2. Read full local copies of `ENTRY.md`, `TOOLS.md`, `OPINIONS.md`, and
+   `VOICE.md` from that cache.
+3. When a question needs Kun's actual words, open matching files under
+   `content/` in the cache — do not dump the whole tree into context.
+4. If the pull fails, stop and say so; do not guess.
 
-Fetches use `raw.githubusercontent.com` (jsDelivr only as a fallback). No GitHub CLI
-and no GitHub auth are required for end users. If a file was already read in this
-session, `/kun` skips re-download unless you ask to refresh.
+No GitHub CLI and no GitHub auth are required for end users.
 
 ### How the living docs stay fresh
 
@@ -91,7 +95,6 @@ Automation runs in Grok Bot and updates this repo daily (America/Los_Angeles):
 So `/kun` always reasons from the latest committed files on `main`, not from a
 frozen copy inside the skill package.
 
-
 ### Public content ledger + incremental pull
 
 Raw public posts live under `content/` (one markdown file per item) with
@@ -102,8 +105,10 @@ do not treat `content/` as a second opinions dump.
 # Incremental sync into ~/.cache/kun (or $KUN_PULL_DIR / --dir)
 node scripts/pull-kun.mjs
 
-# Or from a raw checkout / clone:
-node /path/to/kun/scripts/pull-kun.mjs --dir ~/.cache/kun
+# Or download the script alone and pull into a cache:
+#   https://raw.githubusercontent.com/kunchenguid/kun/main/scripts/pull-kun.mjs
+#   (jsDelivr: https://cdn.jsdelivr.net/gh/kunchenguid/kun@main/scripts/pull-kun.mjs)
+node /path/to/pull-kun.mjs --dir ~/.cache/kun
 ```
 
 `pull-kun.mjs` fetches remote `content/MANIFEST.json` (raw.githubusercontent.com,
