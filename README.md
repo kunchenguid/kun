@@ -43,6 +43,8 @@ $ npx skills add kunchenguid/kun -g
 /kun <literally anything>
 ```
 
+This is also [available as a Grok Bot](https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE). 
+
 ## How It Works
 
 The `/kun` skill file itself stays thin on purpose. On `/kun`, the agent runs the
