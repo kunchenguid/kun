@@ -82,12 +82,34 @@ Automation runs in Grok Bot and updates this repo daily (America/Los_Angeles):
 
 - `OPINIONS.md` and `VOICE.md` from Kun's public X, Substack, and
   YouTube. New signals are merged and tightened into the existing map first;
-  append only when something is truly new. 
+  append only when something is truly new.
+- `content/` archive of those public posts (plus `content/MANIFEST.json`) for
+  raw-ledger / skill pulls via `scripts/pull-kun.mjs`.
 - `TOOLS.md` for Kun-owned public, non-archived repos with a meaningful
   number of stars.
 
 So `/kun` always reasons from the latest committed files on `main`, not from a
 frozen copy inside the skill package.
+
+
+### Public content ledger + incremental pull
+
+Raw public posts live under `content/` (one markdown file per item) with
+`content/MANIFEST.json` for consumers. Keep `OPINIONS.md` / `VOICE.md` compact;
+do not treat `content/` as a second opinions dump.
+
+```sh
+# Incremental sync into ~/.cache/kun (or $KUN_PULL_DIR / --dir)
+node scripts/pull-kun.mjs
+
+# Or from a raw checkout / clone:
+node /path/to/kun/scripts/pull-kun.mjs --dir ~/.cache/kun
+```
+
+`pull-kun.mjs` fetches remote `content/MANIFEST.json` (raw.githubusercontent.com,
+jsDelivr fallback), downloads only new/changed content files, deletes local files
+removed from the manifest, and hash-syncs `ENTRY.md`, `VOICE.md`, `OPINIONS.md`,
+and `TOOLS.md`. First empty cache = full pull once; thereafter incremental.
 
 ## Contribution
 
