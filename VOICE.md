@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-09-30_
-_Latest source window: X posts and replies from 2026-09-29 through 2026-09-30, public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 15 new X items, 0 Substack posts, and 0 YouTube items; durable opinion updates came from DevDay packaging (linear high-tier multiples / subsidy end), ultrafast burn-rate risk, cheap cache pricing for long-horizon work, lab sign-in/marketplace as bring-your-own-token unlock, frontier-lab clone-plus-modality moat, and consumer-robotics research-to-product lag; VOICE metadata only (no new style pattern)._
+_Last updated: 2026-10-01_
+_Latest source window: X posts and replies from 2026-09-30 through 2026-10-01, public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 22 new X items, 0 Substack posts, and 0 YouTube items; durable opinion updates came from Sol 6.1 real-work judgment/packaging, shareable cloud-agent bot marketplaces, and inaccessible frontier-model announcement theater; VOICE metadata only (no new style pattern)._
 
 ### Summary
 

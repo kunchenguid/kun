@@ -9255,6 +9255,20 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-01T09:23:16.000Z",
+      "id": "2105589354458738945",
+      "path": "content/2026-10-01_x_anthropic-can-do-it-doesn-t-mean-google.md",
+      "sha256": "d4f4bb5518e5c4aae684c6919716f577abcff633befb3215ec867d59135d532b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-01T04:10:13.000Z",
+      "id": "2105510571382849999",
+      "path": "content/2026-10-01_x_great-to-know-yes-this-is-the-same.md",
+      "sha256": "5985b47d64219ab94aa087973f3ebd1418c77b0006839947714720fcb0f91143",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-01T00:50:19.000Z",
       "id": "2105460266398093742",
       "path": "content/2026-10-01_x_i-dont-need-them-to-fully-replicate-humans.md",
@@ -9276,10 +9290,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-01T07:44:48.000Z",
+      "id": "2105564575144034639",
+      "path": "content/2026-10-01_x_if-you-like-drama-here-s-some-drama.md",
+      "sha256": "9b98a63d21c22e3c049c966619db3ada6155e6c5b3e6d043c351ef42f4479985",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-01T07:06:19.000Z",
+      "id": "2105554890298905019",
+      "path": "content/2026-10-01_x_its-mind-boggling-google-would-publicly-announce-something.md",
+      "sha256": "5e02a0dbd3f021b68cd0230d1be8d3326211f71a184a55b1050a5b4d9dd55705",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-01T02:34:33.000Z",
       "id": "2105486496728051928",
       "path": "content/2026-10-01_x_lfg.md",
       "sha256": "f4b1c0861d8d0e44f58c5c39ce2bdc7621cb7ce1481a7addaed8f7e7c1207381",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-01T09:25:27.000Z",
+      "id": "2105589903275041052",
+      "path": "content/2026-10-01_x_maybe-they-are-all-very-happy.md",
+      "sha256": "ce7ae3c79f888ea19f886816d2454f71434e6993f08123884bc4b962bff8fa59",
       "source": "x"
     },
     {
@@ -9288,8 +9323,22 @@
       "path": "content/2026-10-01_x_that-s-the-thing-i-don-t-evaluate.md",
       "sha256": "af2200283b5a6266059421fc321ca698d264078a3bf6f3d6ea2e7d05b270befa",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-01T07:51:58.000Z",
+      "id": "2105566378359222373",
+      "path": "content/2026-10-01_x_to-be-clear-i-know-nothing-about-the.md",
+      "sha256": "910244a36eb9b3fcbbdb8043328ebf95dab503ca6f06431e94b0aafbecad84d7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-01T09:02:00.000Z",
+      "id": "2105583999519449310",
+      "path": "content/2026-10-01_x_yeah-it-s-not-wrong-it-s-a.md",
+      "sha256": "0fbeb1a2fd788bcb0813ee236e91ca331e794e8bcfef6a33b7a9f299a7c138a3",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-01T03:36:16Z",
+  "updated_at": "2026-10-01T10:16:02Z",
   "version": 1
 }
