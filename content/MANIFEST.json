@@ -9262,10 +9262,24 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-01T20:44:15.000Z",
+      "id": "2105760727017632230",
+      "path": "content/2026-10-01_x_fancy-are-you-making-some-of-the-workflows.md",
+      "sha256": "84af6cedefde0804a8093470d93784450a622081f9c0832dc960f2f3f943df8f",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-01T04:10:13.000Z",
       "id": "2105510571382849999",
       "path": "content/2026-10-01_x_great-to-know-yes-this-is-the-same.md",
       "sha256": "5985b47d64219ab94aa087973f3ebd1418c77b0006839947714720fcb0f91143",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-01T16:23:30.000Z",
+      "id": "2105695109916545515",
+      "path": "content/2026-10-01_x_here.md",
+      "sha256": "ed03e9f2b79278a440c15bc415010fe4c6399ad3b012d8d7dba086df57fcd7ca",
       "source": "x"
     },
     {
@@ -9283,6 +9297,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-01T16:10:52.000Z",
+      "id": "2105691930009178154",
+      "path": "content/2026-10-01_x_i-m-very-conflicted-i-m-hopefully-because.md",
+      "sha256": "a44a110f6b5814265ca1c005a7fb6388d5c0e9e3f3dfd09397c9c55869c66c78",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-01T00:22:03.000Z",
       "id": "2105453151474340029",
       "path": "content/2026-10-01_x_if-you-follow-your-own-logic-then-gpt.md",
@@ -9297,10 +9318,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-01T17:52:30.000Z",
+      "id": "2105717506270994860",
+      "path": "content/2026-10-01_x_in-your-world-only-bruh-is-human.md",
+      "sha256": "42480313d51692e37e6c85ca90a17f300cc8c299b4dd40efef70fea2310bf6f0",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-01T18:41:27.000Z",
+      "id": "2105729822974750740",
+      "path": "content/2026-10-01_x_it-may-look-similar-on-surface-but-the.md",
+      "sha256": "eef50f82742067d8407182fb2c5abf607146f0d6c150de2769154f56f9834260",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-01T07:06:19.000Z",
       "id": "2105554890298905019",
       "path": "content/2026-10-01_x_its-mind-boggling-google-would-publicly-announce-something.md",
       "sha256": "5e02a0dbd3f021b68cd0230d1be8d3326211f71a184a55b1050a5b4d9dd55705",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-01T23:46:50.000Z",
+      "id": "2105806675399852090",
+      "path": "content/2026-10-01_x_kun-the-grok-is-here-principal-engineer-at.md",
+      "sha256": "2ebffb949f524246ad5074f6b59d30e595c5a9a1db5965496aa191d1abfcc2b8",
       "source": "x"
     },
     {
@@ -9318,10 +9360,45 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-01T21:43:57.000Z",
+      "id": "2105775751245250924",
+      "path": "content/2026-10-01_x_oh-gosh-that-would-be-even-more-pathetic.md",
+      "sha256": "d213d667b5fc16d4ffc930a969f6d913d0372a6b32ce06eed99ab09a7e6aa8f2",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-01T15:19:31.000Z",
+      "id": "2105679006154817723",
+      "path": "content/2026-10-01_x_right-that-s-obviously-very-problematic-and-i.md",
+      "sha256": "341ac31f1cc560a3fd9fe7e5968a16195fda10910ec1fb1b9b0c14cec07f4c09",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-01T17:47:10.000Z",
+      "id": "2105716164827791732",
+      "path": "content/2026-10-01_x_some-people-dunk-on-the-bumpy-demos-on.md",
+      "sha256": "145385a48ed6c0865ce1d2fb9b490b118ae2608e35a6a17caee9f104da0031fd",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-01T02:17:06.000Z",
       "id": "2105482103911801071",
       "path": "content/2026-10-01_x_that-s-the-thing-i-don-t-evaluate.md",
       "sha256": "af2200283b5a6266059421fc321ca698d264078a3bf6f3d6ea2e7d05b270befa",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-01T23:46:50.000Z",
+      "id": "2105806678478540828",
+      "path": "content/2026-10-01_x_this-is-also-available-as-a-kun-skill.md",
+      "sha256": "05248f75b8124cd10e18ce473e6d88a05a74b4cbe5d5ec3871c42728b8d122e9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-01T23:55:02.000Z",
+      "id": "2105808738821292104",
+      "path": "content/2026-10-01_x_this-is-its-own-bot-once-imported-you.md",
+      "sha256": "a48b4142efc4d4dd9345df8e13ba65191938c7445c922e542f412116c79e6c10",
       "source": "x"
     },
     {
@@ -9332,13 +9409,139 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-01T15:45:43.000Z",
+      "id": "2105685598984188174",
+      "path": "content/2026-10-01_x_what-s-been-shared-suggests-that-chris-did.md",
+      "sha256": "0fb40179464d9c8a57c68f46ae894a52f9ad186ee96a855b93d8d39ed19de6fc",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-01T23:59:43.000Z",
+      "id": "2105809919429799985",
+      "path": "content/2026-10-01_x_would-you-believe-me-if-i-say-my.md",
+      "sha256": "fb2001f9b95c9722550a70134c3a2ca16bb92ddc1d87ced4361f6802968c79d7",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-01T09:02:00.000Z",
       "id": "2105583999519449310",
       "path": "content/2026-10-01_x_yeah-it-s-not-wrong-it-s-a.md",
       "sha256": "0fbeb1a2fd788bcb0813ee236e91ca331e794e8bcfef6a33b7a9f299a7c138a3",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-01T15:51:20.000Z",
+      "id": "2105687015513846252",
+      "path": "content/2026-10-01_x_you-could-say-the-same-about-nokia-before.md",
+      "sha256": "1b050ad941084baf021946de26a46576e4be31b00ac7c8a74986c4d591e996ec",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-02T06:34:25.000Z",
+      "id": "2105909248521830533",
+      "path": "content/2026-10-02_x_for-customer-support-i-want-to-just-type.md",
+      "sha256": "e5a7bf018f1868e0f6f62f593a3f0cee59483699d453fdd4e1ba078bd2802f18",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-02T00:00:35.000Z",
+      "id": "2105810139454562552",
+      "path": "content/2026-10-02_x_good-use-keen-to-hear-how-it-goes.md",
+      "sha256": "660803d50764d753c3e899ab435dfa67129820ccd7f05c476c9e7a61e54c6fa7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-02T05:59:29.000Z",
+      "id": "2105900458267336884",
+      "path": "content/2026-10-02_x_haha-glad-to-be-of-service.md",
+      "sha256": "c8cfe336b7b882d52f5cfbd51c262a7e3e5a26b56134497656f3156a14520a69",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-02T09:23:41.000Z",
+      "id": "2105951847299396087",
+      "path": "content/2026-10-02_x_honestly-no-idea-where-he-found-these-things.md",
+      "sha256": "ded42fb7a38c27305c4d24b312b07ca47046edd1e685d05b24c24a4ae0349ff3",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-02T09:22:59.000Z",
+      "id": "2105951669339275531",
+      "path": "content/2026-10-02_x_i-don-t-think-the-key-thing-is.md",
+      "sha256": "fed781e5b29b2063434d6a50367a073b3430ff91764f74ba1c23f34135f1b684",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-02T03:41:47.000Z",
+      "id": "2105865803564556674",
+      "path": "content/2026-10-02_x_it-knows-a-lot-of-my-philosophy-so.md",
+      "sha256": "3dc510cab0ac068b6a56f88e7c8657a4733116f570ae5cc700e6feb601103736",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-02T00:12:41.000Z",
+      "id": "2105813181943906734",
+      "path": "content/2026-10-02_x_must-have-been-a-crazy-week-cant-wait.md",
+      "sha256": "eed692401b843682724eb33792ed7ce344e7c4b9ddd08700dffb04a67370f23d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-02T06:00:35.000Z",
+      "id": "2105900735905124652",
+      "path": "content/2026-10-02_x_now-that-s-a-good-use.md",
+      "sha256": "1dc473a5629da7681ba967382584b3bcfd9290b2ac69610c8acbed03938de701",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-02T05:37:30.000Z",
+      "id": "2105894926965969318",
+      "path": "content/2026-10-02_x_omg-imagine-claude-telling-me-this-is-load.md",
+      "sha256": "3573b5c076ae03e53fee7982c26b9a2da77942df7d9a43e1c8aa9a2a474f4fd7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-02T08:04:14.000Z",
+      "id": "2105931853815296295",
+      "path": "content/2026-10-02_x_people-who-laugh-and-say-karpathys-latest-tips.md",
+      "sha256": "95c01e7ecda6e2700ed89cf9368c528545b6c05ad824b1c7d03230785d29162c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-02T05:42:29.000Z",
+      "id": "2105896178160423304",
+      "path": "content/2026-10-02_x_right-they-can-choose-their-goals-but-if.md",
+      "sha256": "0b1aa28e70319b6814d6e260b9bbb18f3548ba5bd3885087bf67654e6bbd4b8c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-02T05:25:24.000Z",
+      "id": "2105891880202535263",
+      "path": "content/2026-10-02_x_sigh-must-say-a-few-things-about-this.md",
+      "sha256": "9d450b7c6f39dce6779c08bc28a35c5d2d323e37fc34bc099c87e62cfc7a574f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-02T05:40:10.000Z",
+      "id": "2105895597182194033",
+      "path": "content/2026-10-02_x_surely-there-are-a-lot-more-unethical-ways.md",
+      "sha256": "8504968c9095cd66b094bda6133e0e2844ca11c431dfcb96084906ab11aa2ea3",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-02T05:49:51.000Z",
+      "id": "2105898033649193315",
+      "path": "content/2026-10-02_x_the-core-reason-i-m-nervous-about-this.md",
+      "sha256": "0205f54d820480511921bde827f3184c68e8c30340a717250ad4627cda6c6a9a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-02T05:53:53.000Z",
+      "id": "2105899048662348185",
+      "path": "content/2026-10-02_x_when-sales-are-done-by-bots-buyers-are.md",
+      "sha256": "b1c6dda20a0d13089376d37c983875ccb22a6bb11a70b996cd5fd53e1a21a47d",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-01T10:16:02Z",
+  "updated_at": "2026-10-02T10:13:01Z",
   "version": 1
 }
