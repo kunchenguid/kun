@@ -118,10 +118,15 @@ He thinks agent and CLI interfaces should respect human intuition, not only prog
 He wants AI-native products to make hidden operating costs visible in the UI, because surprise model bills undermine trust even when the core demo works.
 He wants software itself to become more hyper-personalized and self-evolving, where users can talk to tools and ask for the exact features and behaviors they want instead of being limited to static settings or one-size-fits-all surfaces.
 He prefers this kind of agent-shaped software to be open, local-friendly, and able to work across different agent harnesses or models instead of being locked to one provider.
-He would rather see AI capabilities compose as reusable skills inside existing agents than become parallel siloed systems when no real technical or product boundary requires separation.
 He is bullish on open-source building blocks and tools for agents because they let both humans and coding agents discover, reuse, and compose useful capabilities.
 He increasingly treats web-only setup consoles as agentic workflow blockers, especially when secrets would be exposed through browser automation, screenshots, or keystrokes.
 Evidence: https://x.com/kunchenguid/status/2069627680006566030, https://x.com/kunchenguid/status/2100461539316920716
+
+### The agent stack maps onto classic computing layers
+
+Kun uses a classic-stack mental model for agent systems: skills are the new apps, MCP servers and CLIs are the new APIs, agent harnesses are the new operating systems, and LLMs are the new computers, with model weights as CPU, context window as memory, and physical machines closer to a power source.
+He thinks the model helps people choose where to play: write skills like app developers, package SaaS as good MCP or CLI surfaces, build or study harnesses the way people once studied operating systems, or work on models and open weights like hardware makers; he would rather see those capabilities compose as reusable skills inside existing agents than become parallel siloed systems when no real technical or product boundary requires separation; and he expects skill security, discovery, and trust problems to resemble early-computer malware eras and to get solved faster this time.
+Evidence: https://x.com/kunchenguid/status/2106223024253071404
 
 ### CLI agents and IDE agents will coexist
 
@@ -132,7 +137,7 @@ He treats voice input as especially useful for agents and a poor fit for polishe
 He thinks remote or server-based development is excellent for non-GUI work but can be the wrong tool for native desktop apps, where local UX testing and direct interaction matter.
 He resists one-size-fits-all workflow advice because fragmented tasks, platforms, and feedback loops require choosing the right tool for the right context.
 He treats GUI computer use as a self-deprecating capability: useful today because most software was built for humans, but as more software becomes agent-native, clicking around becomes obsolete relative to purpose-built agent interfaces.
-He is interested in cloud-first agent products that invert the usual setup: the agent lives in the cloud and uses the local computer as a tool when needed, behind a simple UI that hides harness complexity for non-technical users, but only with export paths and user-owned state so migration does not create irreversible lock-in.
+He is interested in cloud-first agent products that invert the usual setup: the agent lives in the cloud and uses the local computer as a tool when needed, behind a simple UI that hides harness complexity for non-technical users, but only with export paths and user-owned state so migration does not create irreversible lock-in; he expects ordinary consumers to get preinstalled ready-to-go agent stacks the way laptops already ship with most software ready, rather than choosing each layer themselves.
 Evidence: https://x.com/kunchenguid/status/2103520486487724348, https://x.com/kunchenguid/status/2092068697745866983
 
 ### Model choice should follow task shape, not fandom
@@ -477,13 +482,13 @@ Evidence: https://x.com/kunchenguid/status/2097970888344043957, https://x.com/ku
 
 Kun thinks customer-impacting incidents should be answered with accountability, explanation, prevention steps, and refunds where appropriate.
 He notices when small builders care deeply about a single harmed user, and sees that care as a meaningful contrast with established products where one-user bugs can disappear into neglected queues.
-He dislikes defensive minimization when users were harmed.
+He dislikes defensive minimization when users were harmed, and he thinks staged or fabricated AI startup launches and funding stories that deceive people for financial gain should be treated as fraud, not just noisy content pollution.
 He thinks marketplaces can destroy demand-side trust when they overprotect supply-side participants after the supply constraint that once mattered most has changed.
 He reads hidden or weakened negative reviews as a likely sign that a marketplace still values supply protection over demand-side experience, even if the choice was once rational from the company's data.
 He is wary of exposing full agent trajectories that touched private data because they can reveal sensitive context, prompt-injected material, or internal information.
 He prefers transparency when companies commercialize or significantly build on open source work.
 He condemns entitled attacks on free open-source projects, but also thinks popular projects need design maturity, clear ownership messaging, and constructive quality feedback once broad users depend on them.
-Evidence: https://x.com/kunchenguid/status/2058283378076704917, https://x.com/kunchenguid/status/2072058052480778248
+Evidence: https://x.com/kunchenguid/status/2058283378076704917, https://x.com/kunchenguid/status/2106061565384650875
 
 ## Society and institutions
 

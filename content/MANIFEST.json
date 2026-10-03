@@ -5366,7 +5366,7 @@
       "created_at": "2026-09-09T06:32:04.147Z",
       "id": "214840284",
       "path": "content/2026-09-09_substack_i-distilled-myself-and-you-should-too.md",
-      "sha256": "bdc463490f55a54a33b08137c478558b80fed37d8b3ec7e109a12e5398b31af4",
+      "sha256": "5674bc36940364b96c2fe9edd6a7f06240a8de612d0bdb33e31c5a3920540a68",
       "source": "substack"
     },
     {
@@ -9472,6 +9472,20 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-02T15:19:01.000Z",
+      "id": "2106041267809595673",
+      "path": "content/2026-10-02_x_i-see-i-guess-it-s-hard-to.md",
+      "sha256": "5ac7060b58cf1bf666cc0949550374d958d42b23fbadf37dfc76c1e0fb4f0afd",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-02T16:39:40.000Z",
+      "id": "2106061565384650875",
+      "path": "content/2026-10-02_x_i-wonder-why-they-aren-t-charged-as.md",
+      "sha256": "30ef8a2871fbd4f99269318ce711e632780269a1435607fd7816966748a8189e",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-02T03:41:47.000Z",
       "id": "2105865803564556674",
       "path": "content/2026-10-02_x_it-knows-a-lot-of-my-philosophy-so.md",
@@ -9535,13 +9549,69 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-02T19:35:07.000Z",
+      "id": "2106105719863071037",
+      "path": "content/2026-10-02_x_the-word-you-are-looking-for-is-lie.md",
+      "sha256": "4754fe6ef6284975ddbf8862b9ce45ba32d207d224199d6d97e4f8cdaa565a71",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-02T05:53:53.000Z",
       "id": "2105899048662348185",
       "path": "content/2026-10-02_x_when-sales-are-done-by-bots-buyers-are.md",
       "sha256": "b1c6dda20a0d13089376d37c983875ccb22a6bb11a70b996cd5fd53e1a21a47d",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-03T08:26:17.000Z",
+      "id": "2106299790216843755",
+      "path": "content/2026-10-03_x_but-why-give-up-on-the-idea-that.md",
+      "sha256": "406e8512e4660fdf3c084871339d17dd3f62cd56f2e8dba29d9c869684d7bb95",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-03T03:51:22.000Z",
+      "id": "2106230604794851610",
+      "path": "content/2026-10-03_x_haha-i-can-indeed-think-of-a-few.md",
+      "sha256": "c531ccd78042c566014c5eb89da8a3ce0527b4882e67ff89e7703242e2e34739",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-03T03:38:56.000Z",
+      "id": "2106227474048954799",
+      "path": "content/2026-10-03_x_in-the-early-days-of-computers-people-really.md",
+      "sha256": "ec2ab61c6ee4b370c91d7ac9995ff692b301e045bb0246a12b48d469c0a7ffd1",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-03T03:49:02.000Z",
+      "id": "2106230015381913615",
+      "path": "content/2026-10-03_x_most-average-consumers-today-buy-a-laptop-and.md",
+      "sha256": "468a74f90d71287bbe67b85efe342ce9f0af74c14f9fd17ffe7ef9eb6e47f07f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-03T08:31:22.000Z",
+      "id": "2106301068380680637",
+      "path": "content/2026-10-03_x_remember-all-the-meta-employees-who-got-reassigned.md",
+      "sha256": "058296df6c4359bf283bd031e00884d0c861fdbbf2b5b75ff532de2a2b3939ed",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-03T03:21:15.000Z",
+      "id": "2106223024253071404",
+      "path": "content/2026-10-03_x_there-s-now-a-new-mental-model-for.md",
+      "sha256": "1962ddccab5ab2726152029149e5f6d4d1aaa7de35d905111360b1acc270c014",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-03T03:31:47.000Z",
+      "id": "2106225674860265681",
+      "path": "content/2026-10-03_x_we-re-so-early.md",
+      "sha256": "90a78bb2676c68b16d58ae63904b31c41a518d376cc2441403474b38c511bb0f",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-02T10:13:01Z",
+  "updated_at": "2026-10-03T10:15:52Z",
   "version": 1
 }
