@@ -21,7 +21,7 @@ Kun Chen
 
 Sep 09, 2026
 
-37
+38
 
 6
 
@@ -273,7 +273,7 @@ Distillation is a good thing - it helps scale yourself and improve the alignment
 
 Don’t be afraid of letting go the repeatable part of yourself, because that’s what frees you up to build your real moat. 
 
-37
+38
 
 6
 

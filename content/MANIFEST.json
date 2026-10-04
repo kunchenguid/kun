@@ -2034,7 +2034,7 @@
       "created_at": "2026-08-23T04:09:12.794Z",
       "id": "212348719",
       "path": "content/2026-08-23_substack_your-agents-md-is-a-neural-net.md",
-      "sha256": "081b7b4fbb7e387b1f0ad39750d2f405560cb479f759b15b35780350f3580794",
+      "sha256": "5359ffbc64fa1d2d118c88360a42c4a2544bc5fc2773e4a331e0b3c4b9dd9e09",
       "source": "substack"
     },
     {
@@ -5366,7 +5366,7 @@
       "created_at": "2026-09-09T06:32:04.147Z",
       "id": "214840284",
       "path": "content/2026-09-09_substack_i-distilled-myself-and-you-should-too.md",
-      "sha256": "5674bc36940364b96c2fe9edd6a7f06240a8de612d0bdb33e31c5a3920540a68",
+      "sha256": "bfda4352d2d76001f30f17c47c1c851dd99cd48a94b94f545564c62ad70d98e2",
       "source": "substack"
     },
     {
@@ -9570,6 +9570,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-03T16:10:00.000Z",
+      "id": "2106416486340276543",
+      "path": "content/2026-10-03_x_coding-is-solved-where-is-the-moat-new.md",
+      "sha256": "ae5b3d8ab64f484f52fec3ac4468a80703b44c225e5a59bdffa03105ef8014bb",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-03T03:51:22.000Z",
       "id": "2106230604794851610",
       "path": "content/2026-10-03_x_haha-i-can-indeed-think-of-a-few.md",
@@ -9581,6 +9588,13 @@
       "id": "2106227474048954799",
       "path": "content/2026-10-03_x_in-the-early-days-of-computers-people-really.md",
       "sha256": "ec2ab61c6ee4b370c91d7ac9995ff692b301e045bb0246a12b48d469c0a7ffd1",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-03T20:34:34.000Z",
+      "id": "2106483068307755468",
+      "path": "content/2026-10-03_x_most-apps-today-are-free-to-get-but.md",
+      "sha256": "eab0393182ac30ae01ee73b5752be3a3c1069e2449e14b12cc04debac025afb7",
       "source": "x"
     },
     {
@@ -9605,13 +9619,104 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-03T19:13:57.000Z",
+      "id": "2106462778848587805",
+      "path": "content/2026-10-03_x_untitled.md",
+      "sha256": "f5dde8eba716fcca03b7d574c2c5db078b6e3650b42b11d46479b7acc4b73459",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-03T03:31:47.000Z",
       "id": "2106225674860265681",
       "path": "content/2026-10-03_x_we-re-so-early.md",
       "sha256": "90a78bb2676c68b16d58ae63904b31c41a518d376cc2441403474b38c511bb0f",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-04T05:32:53.000Z",
+      "id": "2106618539994222753",
+      "path": "content/2026-10-04_x_haha-fun-to-see-distilled-expertise-is-becoming.md",
+      "sha256": "9d30a1ff9c95f025f928556c12926f45da0bd17ca325ec96666ee685b9ffeead",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-04T05:36:14.000Z",
+      "id": "2106619383992942785",
+      "path": "content/2026-10-04_x_lol-i-see-that-i-do-agree-with.md",
+      "sha256": "9218ea69de9437eb35fe9e8acb8266b31968daa1cbb09d5c2c791a5303d5c9f5",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-04T05:42:58.000Z",
+      "id": "2106621078516977903",
+      "path": "content/2026-10-04_x_marketing-too-how-they-shape-public-perception-about.md",
+      "sha256": "e297c006a80d9814c1f7fa175658896f91f88cebd2b7c7abfcce4834623fbda4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-04T06:24:02.000Z",
+      "id": "2106631410790596971",
+      "path": "content/2026-10-04_x_my-tv-is-mine-and-it-doesn-t.md",
+      "sha256": "df4bad5363f3f0703e492a810c1065607a2c83781fcd047d3e473e9bf4a0e11b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-04T06:42:48.000Z",
+      "id": "2106636134524797439",
+      "path": "content/2026-10-04_x_oh-i-m-well-aware-of-the-options.md",
+      "sha256": "bf629014b6ed9b3964acb29561d740a70e583a7610e2b38beb73595388578e26",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-04T05:46:51.000Z",
+      "id": "2106622053411680633",
+      "path": "content/2026-10-04_x_right-but-i-think-subsidization-is-coming-to.md",
+      "sha256": "b7f2e60b7602b82b7fbfac3f1c4834eea06a340605d51126fcb6c1dd4a051195",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-04T05:21:08.000Z",
+      "id": "2106615580551971252",
+      "path": "content/2026-10-04_x_take-a-good-look-at-what-these-personal.md",
+      "sha256": "03e47604428abc5706db50813b6662e176ed38d88bfa1ef5633b56efd4f86b2d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-04T05:10:26.000Z",
+      "id": "2106612888987443424",
+      "path": "content/2026-10-04_x_there-s-something-quite-awkward-about-all-the.md",
+      "sha256": "212d8256203164d52797bf2fdf03ab1c5c8a14673eb74011c31652eec1f8294e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-04T05:35:02.000Z",
+      "id": "2106619079012544985",
+      "path": "content/2026-10-04_x_there-was-too-much-code-and-terminal-for.md",
+      "sha256": "5a51ed6c3863ebd4a6a0384372882a89b002f00d8086a134648e20fbd753ea21",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-04T06:52:13.000Z",
+      "id": "2106638504310813183",
+      "path": "content/2026-10-04_x_very-bullish-about-hermes.md",
+      "sha256": "a721a9cf36012a8b001908ae8f79a697cffc66075612cbff74b6db9abfb8d938",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-04T06:04:11.000Z",
+      "id": "2106626415542337852",
+      "path": "content/2026-10-04_x_very-few-traditional-vendors-own-all-the-data.md",
+      "sha256": "7c7738cc9b8f5ab28375544bed70a85e16549d382f15261c50e61303923c46bf",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-04T05:30:36.000Z",
+      "id": "2106617964455948590",
+      "path": "content/2026-10-04_x_you-are-basically-saying-don-t-bother-with.md",
+      "sha256": "e09c5ad7533ed755d4c746ea2cb2e508c0b2e2832d22d86a1bc911493d649678",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-03T10:15:52Z",
+  "updated_at": "2026-10-04T10:19:42Z",
   "version": 1
 }
