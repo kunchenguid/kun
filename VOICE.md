@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-10-04_
-_Latest source window: X posts and replies from 2026-10-03 through 2026-10-04, public Substack content-hash refresh (2 posts already mapped), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 15 new X items, 2 Substack hash refreshes, and 0 YouTube items; durable opinion updates came from personal-agent ownership vs SaaS lock-in, consumer polish for open-source personal agents, attention/identity as moat when coding is commoditized, and skills freemium economics; VOICE metadata only._
+_Last updated: 2026-10-05_
+_Latest source window: X posts and replies from 2026-10-04 through 2026-10-05, public Substack content-hash refresh (1 post already mapped), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 11 new X items, 1 Substack hash refresh, and 0 YouTube items; the durable opinion update sharpened the cloud-inference vs owned-compute split; VOICE metadata only._
 
 ### Summary
 

@@ -2034,7 +2034,7 @@
       "created_at": "2026-08-23T04:09:12.794Z",
       "id": "212348719",
       "path": "content/2026-08-23_substack_your-agents-md-is-a-neural-net.md",
-      "sha256": "5359ffbc64fa1d2d118c88360a42c4a2544bc5fc2773e4a331e0b3c4b9dd9e09",
+      "sha256": "845af52aafcce245ef2166173c67e0deb4f1a69168f17fc22f4e5d58a6ceb227",
       "source": "substack"
     },
     {
@@ -9661,6 +9661,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-04T21:52:28.000Z",
+      "id": "2106865060241166466",
+      "path": "content/2026-10-04_x_not-sure-that-s-true-these-threads-get.md",
+      "sha256": "9148dd1de32833346f50a996a3a7010bda96752e8d42507928f20062a324f1e0",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-04T06:42:48.000Z",
       "id": "2106636134524797439",
       "path": "content/2026-10-04_x_oh-i-m-well-aware-of-the-options.md",
@@ -9696,6 +9703,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-04T21:26:59.000Z",
+      "id": "2106858646709895410",
+      "path": "content/2026-10-04_x_they-are-not-fighting-folks-these-are-people.md",
+      "sha256": "c63684afa130e8ff5457c15d6820a7b94c4144735ef444d4449202b84a8bb440",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-04T06:52:13.000Z",
       "id": "2106638504310813183",
       "path": "content/2026-10-04_x_very-bullish-about-hermes.md",
@@ -9715,8 +9729,71 @@
       "path": "content/2026-10-04_x_you-are-basically-saying-don-t-bother-with.md",
       "sha256": "e09c5ad7533ed755d4c746ea2cb2e508c0b2e2832d22d86a1bc911493d649678",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-04T18:33:54.000Z",
+      "id": "2106815089978536370",
+      "path": "content/2026-10-04_x_yup-done-the-same-math-here-i-think.md",
+      "sha256": "aa5a2771c92cc24e8f9b29aaeb072f62977e1216d998717295032c824241ee87",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T07:03:53.000Z",
+      "id": "2107003827333603355",
+      "path": "content/2026-10-05_x_but-i-didn-t-even-update-my-pi.md",
+      "sha256": "58d073a20c5ebbcbb2e7cd2c7845c311f86221c0613e337e790521467220b558",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T07:19:29.000Z",
+      "id": "2107007753411789266",
+      "path": "content/2026-10-05_x_check-this-out.md",
+      "sha256": "f133983938d9ddfb4725afd668eb4f93fba7feb7fa432f732162344a69f45a42",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T07:07:27.000Z",
+      "id": "2107004725661163687",
+      "path": "content/2026-10-05_x_cool-looks-like-it-s-not-just-me.md",
+      "sha256": "5ff96205f4d586cd3f6e1374afa73df9d001b72c9d0f0bf2149baa622a52f3f8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T06:14:57.000Z",
+      "id": "2106991513238679639",
+      "path": "content/2026-10-05_x_hmm-i-just-got-astra-to-do-so.md",
+      "sha256": "f38d1f4578f745e9c3d31e1588dbcde1829a3e6b742b416e3bee8bc9dae6c233",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T06:21:36.000Z",
+      "id": "2106993188493992443",
+      "path": "content/2026-10-05_x_i-hope-i-didnt-jinx-something.md",
+      "sha256": "79011d156167c018c7c20cdeaf6eb4b60d1d603918f949d5c10c1299401b15f1",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T06:31:58.000Z",
+      "id": "2106995797019795623",
+      "path": "content/2026-10-05_x_in-pi.md",
+      "sha256": "d6e3fcf1e13419a04d1afa55187d3408cacfc9151b346ae315e5157f2baff6c9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T07:00:55.000Z",
+      "id": "2107003080420299119",
+      "path": "content/2026-10-05_x_main-coding-and-technical-planning.md",
+      "sha256": "4e1a9fa4ea9af63623b8b872e42153c3b5f288e34922f6b3ca3ede3c987d4d0c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T06:26:50.000Z",
+      "id": "2106994504582775045",
+      "path": "content/2026-10-05_x_such-big-contrast-with-how-it-was-during.md",
+      "sha256": "e891a69822b7c33460bff3fb0da0a31bd44a3017923a1de964e52be6153f54d0",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-04T10:19:42Z",
+  "updated_at": "2026-10-05T10:12:31Z",
   "version": 1
 }
