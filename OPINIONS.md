@@ -11,7 +11,7 @@ Kun judges coding agents by whether they complete valuable work in messy real co
 He cares about outcomes such as correctness, uptime, reliability, user value, and saved human time more than the amount of code a model or company claims to produce.
 He prefers agents that gather evidence with search, grep, tests, and tools instead of relying on unsupported reasoning.
 He accepts slower and more tool-heavy agents when they produce more trustworthy results, because wrong answers and rework cost more than latency.
-He is skeptical of "just give ambitious goals and leave the model alone" as the main tip when few real-world goals make economic sense to throw at agents unsupervised; practical valuable work often needs human judgment and steering, and he wants both long-horizon autonomy and human-in-the-loop conversation rather than trading one away.
+He is skeptical of "just give ambitious goals and leave the model alone" as the main tip when few real-world goals make economic sense to throw at agents unsupervised; practical valuable work often needs human judgment and steering, and he wants both long-horizon autonomy and human-in-the-loop conversation rather than trading one away, ideally from agents that ask a few anchoring questions without blocking on them, take later steers asynchronously, and surface progress early enough for feedback to redirect the work.
 He sees hallucination as an engineering and incentive problem that can be reduced by training models to admit uncertainty and by surrounding them with verification.
 Evidence: https://x.com/kunchenguid/status/1885867478489976954, https://x.com/kunchenguid/status/2097839769875280269
 
@@ -145,7 +145,8 @@ Evidence: https://x.com/kunchenguid/status/2103520486487724348, https://x.com/ku
 Kun finds current vendor personal agents awkward because none of them is truly "mine": putting life-wide assistance through Muse, Grok Bot, Instinct, Dots, or similar means betting simultaneously on the vendor's data custody, model quality, and product direction, including leakage, bad hires, model lag that forces migration, missing features, and eventual ads.
 He thinks that stake is higher than ordinary SaaS because personal agents are starting to concentrate email, finances, and other sensitive domains in one place, unlike traditional vendors that each own only a slice.
 He is more bullish on open-source personal agents that run on people's own computers, vendor-agnostic and free of SaaS lock-in, but only if those projects stop assuming users are developers who will clone a repo and launch a terminal, and instead ship polished, foolproof, community-maintained consumer UX; marketing and public perception of what the agent is matter as much as the code.
-Evidence: https://x.com/kunchenguid/status/2106612888987443424
+He also sees a creativity case for personal intelligence: unique perspectives like van Gogh's come from a limited lived journey, so one superintelligence fed all the world's data and handed to everyone risks converging people on the same ideas, which pushes him toward intelligences that learn through each owner's own experience and toward humans drawing ideas from real-world experience rather than asking AI for them.
+Evidence: https://x.com/kunchenguid/status/2106612888987443424, https://x.com/kunchenguid/status/2107285031387529231
 
 ### Model choice should follow task shape, not fandom
 
@@ -471,7 +472,8 @@ He prefers social products that sell user value directly, such as ad removal, ov
 He prefers explainers that teach one concept at a time rather than combining multiple concepts for audiences with different background knowledge.
 He thinks X remains unusually promising for good original content when product leadership visibly attacks engagement farming, but cold-start distribution still needs earned trust: borrowed titles or authority can accelerate reach, while durable reputation comes from repeatedly shipping useful things rather than engagement baits or opinions from an unproven voice.
 He wants platform incentive experiments to be long-running and paired with manual scrutiny of the biggest reward recipients, because metric systems can drift toward engagement games even after a good intervention.
-He expects authenticity to matter more as AI-generated content becomes common, and he sees outsourcing one's expressive voice to templated AI as a sign that money or content volume has displaced taste, self-expression, and identity.
+He expects authenticity to matter more as AI-generated content becomes common, and he sees outsourcing one's expressive voice to templated AI as a sign that money or content volume has displaced taste, self-expression, and identity, which is why he writes his own content by hand while freely delegating code.
+He still doubts text watermarking is the fix: labeling the tool instead of the human effort lumps hours of crafted thinking with one-shot slop, unfairly penalizes people such as non-native speakers who only use AI to polish, and is easily stripped by spammers with an uncensored rewording pass, so it burdens ordinary people more than bad actors, like another cookie banner.
 He thinks AI comments remain detectable even after they strip em dashes and other clear slop tells, because they often reiterate the same point without a new perspective and those rhythms stay easy to smell; even light AI touch-ups that leave a bot smell get accounts muted, so natural unpolished voice beats grammar polish, and automated replies that imitate engagement without human thought also waste compute and damage the owner's public identity.
 Evidence: https://x.com/kunchenguid/status/2060024945238008179, https://x.com/kunchenguid/status/2099605005984759820
 

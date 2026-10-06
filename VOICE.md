@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-10-05_
-_Latest source window: X posts and replies from 2026-10-04 through 2026-10-05, public Substack content-hash refresh (1 post already mapped), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 11 new X items, 1 Substack hash refresh, and 0 YouTube items; the durable opinion update sharpened the cloud-inference vs owned-compute split; VOICE metadata only._
+_Last updated: 2026-10-06_
+_Latest source window: X posts and replies from 2026-10-05 through 2026-10-06, public Substack content-hash refresh (1 post already mapped), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 27 new X items, 1 Substack hash refresh, and 0 YouTube items; the durable opinion update covered async-steerable agents, text watermarking, and same-model creativity homogenization; VOICE metadata only._
 
 ### Summary
 

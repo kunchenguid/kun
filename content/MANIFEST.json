@@ -5366,7 +5366,7 @@
       "created_at": "2026-09-09T06:32:04.147Z",
       "id": "214840284",
       "path": "content/2026-09-09_substack_i-distilled-myself-and-you-should-too.md",
-      "sha256": "bfda4352d2d76001f30f17c47c1c851dd99cd48a94b94f545564c62ad70d98e2",
+      "sha256": "d9bc06246f12d7afd55611e6bd811ef4fa0af217e288c620f36cfaebb851da80",
       "source": "substack"
     },
     {
@@ -9738,6 +9738,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-05T18:58:10.000Z",
+      "id": "2107183585124073699",
+      "path": "content/2026-10-05_x_better-than-anthropics-implementation-for-sure.md",
+      "sha256": "156318ec1ba90b611942a8124990df8cbf1694991ee9041ffb63675f24489d55",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-05T07:03:53.000Z",
       "id": "2107003827333603355",
       "path": "content/2026-10-05_x_but-i-didn-t-even-update-my-pi.md",
@@ -9759,10 +9766,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-05T21:44:13.000Z",
+      "id": "2107225371624296913",
+      "path": "content/2026-10-05_x_don-t-always-is-different-from-always-don.md",
+      "sha256": "cf528eeb0e33f4b25ed2fd15eb760a533550a575fe342797ce58960af9b83b41",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T21:11:06.000Z",
+      "id": "2107217038901125447",
+      "path": "content/2026-10-05_x_got-you-covered.md",
+      "sha256": "fa190d96e071d3e845076305bec489fe67526249631ca29639eff6766c83eb19",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-05T06:14:57.000Z",
       "id": "2106991513238679639",
       "path": "content/2026-10-05_x_hmm-i-just-got-astra-to-do-so.md",
       "sha256": "f38d1f4578f745e9c3d31e1588dbcde1829a3e6b742b416e3bee8bc9dae6c233",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T21:01:10.000Z",
+      "id": "2107214536910766193",
+      "path": "content/2026-10-05_x_hmm-who-s-we.md",
+      "sha256": "7babc3e8a504bf73388eb4e2d4e7f6d338c9803707add977c51d6679eff2064f",
       "source": "x"
     },
     {
@@ -9773,10 +9801,52 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-05T15:25:00.000Z",
+      "id": "2107129937715224951",
+      "path": "content/2026-10-05_x_i-just-gave-the-exact-same-task-to.md",
+      "sha256": "8e2452864e2718a96cc570594bf572a928097a247429e20908977811daab9143",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T18:34:12.000Z",
+      "id": "2107177553966624962",
+      "path": "content/2026-10-05_x_im-not-concerned-about-my-text-because-i.md",
+      "sha256": "02551edbb61eb7da22dcca7b04a05c7c0f171b4a7cc949b4ca11819ad39f71fe",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-05T06:31:58.000Z",
       "id": "2106995797019795623",
       "path": "content/2026-10-05_x_in-pi.md",
       "sha256": "d6e3fcf1e13419a04d1afa55187d3408cacfc9151b346ae315e5157f2baff6c9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T15:32:30.000Z",
+      "id": "2107131825630109718",
+      "path": "content/2026-10-05_x_instinct-doesn-t-reveal-nor-allow-changing-the.md",
+      "sha256": "2d074661b9fd88b4d9739b762805f69d4f022be07533dbefb6b0f4797eab40e9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T18:57:39.000Z",
+      "id": "2107183453209022892",
+      "path": "content/2026-10-05_x_just-the-detector-is-researcher-only-right-now.md",
+      "sha256": "482f539d9c89c3a841b4825fa04f1856958ec0aa73ab9fb2a6df38352ee8efca",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T18:09:48.000Z",
+      "id": "2107171410837934440",
+      "path": "content/2026-10-05_x_looks-like-the-watermarks-are-here-to-stay.md",
+      "sha256": "3eec7cec82df019a76c2a9adc01a87159fa6655bfced0fff1bc711bb70650351",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T16:09:28.000Z",
+      "id": "2107141129900872025",
+      "path": "content/2026-10-05_x_lots-of-useful-stuff-here.md",
+      "sha256": "ee4d7f0caabf441edcf672ba837a2c0e7087da08860df5110580a5f7849787f2",
       "source": "x"
     },
     {
@@ -9787,13 +9857,132 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-05T21:07:53.000Z",
+      "id": "2107216227903135827",
+      "path": "content/2026-10-05_x_perfect-question-to-try-kun.md",
+      "sha256": "f66da27e9562b3f1345d553c4871821e60c097f3717349260dcf2cb6f0d203ac",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T20:51:54.000Z",
+      "id": "2107212205385187398",
+      "path": "content/2026-10-05_x_so-now-we-finally-all-agree-we-shouldn.md",
+      "sha256": "5425422c596b5e3b35c8f4eb492d34f5701a2a1898590b4c0242a94206825df8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T17:24:32.000Z",
+      "id": "2107160019066409391",
+      "path": "content/2026-10-05_x_sounds-like-a-good-start-of-the-28.md",
+      "sha256": "e50321dfbe33e5767de89b94f0c6698621f1325de818b309c69e93e385b31b02",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-05T06:26:50.000Z",
       "id": "2106994504582775045",
       "path": "content/2026-10-05_x_such-big-contrast-with-how-it-was-during.md",
       "sha256": "e891a69822b7c33460bff3fb0da0a31bd44a3017923a1de964e52be6153f54d0",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T23:06:37.000Z",
+      "id": "2107246108208665018",
+      "path": "content/2026-10-05_x_there-s-a-chance-neither-of-us-knew.md",
+      "sha256": "34499d1daa14ef0b547410b67cc8317a0632cd918736432032d5cf8ee849ab17",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T21:49:02.000Z",
+      "id": "2107226583522230582",
+      "path": "content/2026-10-05_x_untitled.md",
+      "sha256": "3bef21884eb410c597308a22c7d28e3ed045919fddafb3c989c751a7e71b7865",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T18:43:57.000Z",
+      "id": "2107180005453426853",
+      "path": "content/2026-10-05_x_what-logic-is-that-i-let-a-robot.md",
+      "sha256": "0946ef58f24d95ac178e026943b048b730fc4e5a4c3e737c865716e341a0bc73",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-05T15:42:05.000Z",
+      "id": "2107134236855849087",
+      "path": "content/2026-10-05_x_yeah-i-already-give-it-too-many-things.md",
+      "sha256": "ef69c4e38cf929ac9634d4831ebd34774f563c1cf485b1652c294427daf50cc4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-06T05:57:48.000Z",
+      "id": "2107349586260250829",
+      "path": "content/2026-10-06_x_4-is-not-a-good-number-in-chinese.md",
+      "sha256": "fd12f2f040419d811f7b43dbb530f9984d500fd38e6a7e1f619a6affc40e6a2b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-06T01:41:17.000Z",
+      "id": "2107285031387529231",
+      "path": "content/2026-10-06_x_ai-today-can-easily-create-pictures-that-mimic.md",
+      "sha256": "b1e6fbd0bece5f11476ddbceeb21df1b46bba390c1d39b11b5be56824b39bdec",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-06T02:04:48.000Z",
+      "id": "2107290950271984032",
+      "path": "content/2026-10-06_x_and-ideally-not-the-same-grass-every-day.md",
+      "sha256": "f140d22d5697441d00747beaf26d4b3f5c4839c9bac62510204608267642e806",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-06T02:53:48.000Z",
+      "id": "2107303282456813957",
+      "path": "content/2026-10-06_x_eventually-i-ll-die-yeah.md",
+      "sha256": "78fb35011ca057c59bfd614eb1561c2ad13df6eab3881c8509d90ed16ac59806",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-06T03:12:37.000Z",
+      "id": "2107308017326985524",
+      "path": "content/2026-10-06_x_exactly-the-world-is-full-of-inspiration.md",
+      "sha256": "9aa1106044074b0022ff0c5c4f62ed904a6b3e4630ec0c60d547d8407a770794",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-06T01:53:15.000Z",
+      "id": "2107288043225043224",
+      "path": "content/2026-10-06_x_llm-can-t-hallucinate-are-you-sure.md",
+      "sha256": "751ed394b33e53f44c54fd45021cb2e47d891604764a1b87c97b0bba2d4cb6df",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-06T05:07:44.000Z",
+      "id": "2107336985174270105",
+      "path": "content/2026-10-06_x_super-intelligence-will-probably-never-catch-on-in.md",
+      "sha256": "4071b9b4ca2f0d5e7d0a939942ddb8b8d9394be183a2bca153b59ad2bd1033a2",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-06T03:21:27.000Z",
+      "id": "2107310239804768757",
+      "path": "content/2026-10-06_x_what-matters-is-they-still-have-their-own.md",
+      "sha256": "c129b37367c905284aa319ad713b7e40001c08b054d395e579460732cc5c0cf7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-06T04:26:56.000Z",
+      "id": "2107326716540797200",
+      "path": "content/2026-10-06_x_you-can-go-visit-the-van-gogh-museum.md",
+      "sha256": "229f7aae91a86392c4d050ea3560d4ef60fd387bfcd5a04f448d55f1eff2c8ee",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-06T01:58:18.000Z",
+      "id": "2107289311741931960",
+      "path": "content/2026-10-06_x_yup-i-think-it-just-can-t-be.md",
+      "sha256": "6a91787472d98745f3f52d7b3d83408f014548ece6e30ddf0cea158d3d5e8c8b",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-05T10:12:31Z",
+  "updated_at": "2026-10-06T10:21:26Z",
   "version": 1
 }
