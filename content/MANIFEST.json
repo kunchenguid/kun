@@ -9948,6 +9948,20 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-06T19:08:08.000Z",
+      "id": "2107548477458985363",
+      "path": "content/2026-10-06_x_hmm-interesting-question-when-cost-of-building-becomes.md",
+      "sha256": "ab425464891fd2e6df420fa3aac8c2cd8af2c4b5b61d0c7c691517776da6dc5a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-06T16:41:13.000Z",
+      "id": "2107511508200779885",
+      "path": "content/2026-10-06_x_it-doesnt-require-it-most-programmers-today-dont.md",
+      "sha256": "1deeb2d2160ce4327879534b7150a96b00db2126c445f35b17d25c5dbd174dbe",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-06T01:53:15.000Z",
       "id": "2107288043225043224",
       "path": "content/2026-10-06_x_llm-can-t-hallucinate-are-you-sure.md",
@@ -9969,6 +9983,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-06T22:34:02.000Z",
+      "id": "2107600295287230883",
+      "path": "content/2026-10-06_x_yeah-its-an-interesting-way-of-composing-deterministic.md",
+      "sha256": "1f8402b226138d14e778528b3e6c7a263bed14767f5023c16bcd1d07e0036aad",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-06T04:26:56.000Z",
       "id": "2107326716540797200",
       "path": "content/2026-10-06_x_you-can-go-visit-the-van-gogh-museum.md",
@@ -9981,8 +10002,50 @@
       "path": "content/2026-10-06_x_yup-i-think-it-just-can-t-be.md",
       "sha256": "6a91787472d98745f3f52d7b3d83408f014548ece6e30ddf0cea158d3d5e8c8b",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T03:16:43.000Z",
+      "id": "2107671433413644515",
+      "path": "content/2026-10-07_x_i-for-one-still-really-enjoy-having-an.md",
+      "sha256": "c8383e693a8ad18d1b7e77d54f3e36ef881edefc4af1645ed9ab508e1a0ae0e8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T04:24:27.000Z",
+      "id": "2107688481036308817",
+      "path": "content/2026-10-07_x_i-heard-people-started-carrying-ice-packs.md",
+      "sha256": "c9b42383aa3d408b2311b213582d0bd59e2631bfe2a65652c85c20e52f843dd2",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T04:26:45.000Z",
+      "id": "2107689059665793146",
+      "path": "content/2026-10-07_x_it-s-true-specifically-ones-like-this-which.md",
+      "sha256": "4fc4d4ab93e5894ad98b0ebbfdfeb84fd26b63607bf7ef1dd13faa365ca09179",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T05:08:11.000Z",
+      "id": "2107699487586324632",
+      "path": "content/2026-10-07_x_no-cpu.md",
+      "sha256": "268c24463698e1c763b57e72eebc290215aec85e47b47e8ea21c04d4242dc8b0",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T03:21:24.000Z",
+      "id": "2107672615171355097",
+      "path": "content/2026-10-07_x_tokenmaxxing-is-dead-long-live-cpumaxxing.md",
+      "sha256": "e81057012a171242ba7d5a24e2d67e3a37de05f06dc66a6598a4b7a9bc664c04",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T03:23:55.000Z",
+      "id": "2107673245872980379",
+      "path": "content/2026-10-07_x_untitled.md",
+      "sha256": "c93e3c29d8688776ad6355a000aacfc5773c32f46df7631811c408d483243b4c",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-06T10:21:26Z",
+  "updated_at": "2026-10-07T10:17:37Z",
   "version": 1
 }
