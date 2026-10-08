@@ -2034,7 +2034,7 @@
       "created_at": "2026-08-23T04:09:12.794Z",
       "id": "212348719",
       "path": "content/2026-08-23_substack_your-agents-md-is-a-neural-net.md",
-      "sha256": "845af52aafcce245ef2166173c67e0deb4f1a69168f17fc22f4e5d58a6ceb227",
+      "sha256": "a22ff4d9cf870cfe5cfc180d72eb1a73758bf737d054ad4f3a35ec36aedbe5f9",
       "source": "substack"
     },
     {
@@ -10004,6 +10004,48 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-07T23:13:11.000Z",
+      "id": "2107972535518392566",
+      "path": "content/2026-10-07_x_ah-just-caught-up-on-this-page-which.md",
+      "sha256": "374244a8125ad4be53d2af6b8ae8c84af9667bc5dde168f424f0a2c79f506595",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T16:19:59.000Z",
+      "id": "2107868549792641099",
+      "path": "content/2026-10-07_x_banning-ai-assisted-contributions-to-your-open-source.md",
+      "sha256": "00045bb9144f7cac49ef9e0841913312d3a532b19d3a778f0adaaed04055b8b5",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T23:42:30.000Z",
+      "id": "2107979914788159873",
+      "path": "content/2026-10-07_x_but-burns-tokens-fast-as-well.md",
+      "sha256": "6f057aded01cd4d5f6179c3826a89afcd7d56fb9e0317ad15a41257a04e90a51",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T23:10:49.000Z",
+      "id": "2107971941273682422",
+      "path": "content/2026-10-07_x_can-you-please-clarify-how-this-impacts-3rd.md",
+      "sha256": "4580d8e58a3cabe92462e1ba4ff19c8fb21a7014c116ed660e1fe506ddd2afe8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T20:26:31.000Z",
+      "id": "2107930592340066621",
+      "path": "content/2026-10-07_x_good-answer-to-the-prioritization-question-in-the.md",
+      "sha256": "9c61e6ac315bf4618f8dd4bdd451d36554c5a7e1024187d7ef2b8872e003cae3",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T23:34:21.000Z",
+      "id": "2107977864738111638",
+      "path": "content/2026-10-07_x_holy-crap-this-is-massive-grok-bot-can.md",
+      "sha256": "7d3187d7377bb35d627c7a508ef0bec447266fb292aa226ca19394623f989024",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-07T03:16:43.000Z",
       "id": "2107671433413644515",
       "path": "content/2026-10-07_x_i-for-one-still-really-enjoy-having-an.md",
@@ -10018,6 +10060,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-07T17:52:16.000Z",
+      "id": "2107891773595144330",
+      "path": "content/2026-10-07_x_i-just-asked-them-to-come-up-with.md",
+      "sha256": "98b90d91ea8c6cb908f4c44eeaab0d6cee339f75bf62a09f177aed0fd78ce090",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-07T04:26:45.000Z",
       "id": "2107689059665793146",
       "path": "content/2026-10-07_x_it-s-true-specifically-ones-like-this-which.md",
@@ -10025,10 +10074,59 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-07T17:44:08.000Z",
+      "id": "2107889728083353717",
+      "path": "content/2026-10-07_x_looking-at-things-i-ve-asked-my-agent.md",
+      "sha256": "034d8df4aa493a943171c5f0c847d06b89ed5f3436575c69ecb65c9151bee380",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T23:39:19.000Z",
+      "id": "2107979112929452161",
+      "path": "content/2026-10-07_x_maybe-still-rolling-out-i-already-have-it.md",
+      "sha256": "369752e517c765e1b1904468adaa556c8725273a8ab3f827b52e66c9c26a0efc",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T15:49:41.000Z",
+      "id": "2107860925202206781",
+      "path": "content/2026-10-07_x_my-more-nuanced-take-enterprises-will-heavily-lean.md",
+      "sha256": "bafa7ab5f9f1ce7458518407f8ecb14d2066e1d11b0ddfd21fe9b1c4e1abfe97",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T22:11:01.000Z",
+      "id": "2107956890093473817",
+      "path": "content/2026-10-07_x_nah-for-llm-inference-i-m-still-going.md",
+      "sha256": "c6d87dbf7dc4919af3e08b728e51e733722ffac7870b42f69758b60e3efb669e",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-07T05:08:11.000Z",
       "id": "2107699487586324632",
       "path": "content/2026-10-07_x_no-cpu.md",
       "sha256": "268c24463698e1c763b57e72eebc290215aec85e47b47e8ea21c04d4242dc8b0",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T18:02:55.000Z",
+      "id": "2107894454636237081",
+      "path": "content/2026-10-07_x_oh-shit.md",
+      "sha256": "d422d0cf7b734accd82c19f357c2343c81d701d4bad5bdc3a26a6fc2ecb9933e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T22:08:44.000Z",
+      "id": "2107956318304981310",
+      "path": "content/2026-10-07_x_rt-wait-this-is-super-confusing-is-claude.md",
+      "sha256": "caa80979d19d65adbcbdd458eda9f60f9de7cc9f9f17927f6425055702f5603f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T23:12:51.000Z",
+      "id": "2107972450365722639",
+      "path": "content/2026-10-07_x_they-clarified-here-looks-like-were-safe.md",
+      "sha256": "e6b31c44796d637b9d56e41a07456416cfe990c6397d6bb5483b6e31bad766e8",
       "source": "x"
     },
     {
@@ -10044,8 +10142,239 @@
       "path": "content/2026-10-07_x_untitled.md",
       "sha256": "c93e3c29d8688776ad6355a000aacfc5773c32f46df7631811c408d483243b4c",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T22:08:34.000Z",
+      "id": "2107956274944229628",
+      "path": "content/2026-10-07_x_wait-this-is-super-confusing-is-claude-p.md",
+      "sha256": "46641bdc2909a2237069e2fbcf39e4d9c77e159b0e7a18a33aeea8a33b79ffe0",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T21:56:37.000Z",
+      "id": "2107953266919408087",
+      "path": "content/2026-10-07_x_were-in-a-subsidized-phase-where-these-cloud.md",
+      "sha256": "89cdac174e61d78942054740d0f1ef7c570dd734f243c86eb58c61c12ad06e5c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T17:49:37.000Z",
+      "id": "2107891109284487440",
+      "path": "content/2026-10-07_x_yes-i-started-doing-a-lot-of-offsite.md",
+      "sha256": "5b8bf1ef505c62b92c779a9b98f37162b4d72421cb7a5228b4faacb66216bf17",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T15:55:17.000Z",
+      "id": "2107862333624320372",
+      "path": "content/2026-10-07_x_yup-astra-was-like-my-main-reason-for.md",
+      "sha256": "147d4a7c00ebba91da1965720c4baf607afac41cb3674d73726cf709ea16ea2d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-07T23:36:35.000Z",
+      "id": "2107978424828690664",
+      "path": "content/2026-10-07_x_yup-i-m-now-having-a-hard-time.md",
+      "sha256": "ffdc8ab90e66ff6acb9d2e6c400c7e1a64d42b1f0955189461b624e3b486f4fb",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T04:46:40.000Z",
+      "id": "2108056459485516032",
+      "path": "content/2026-10-08_x_also.md",
+      "sha256": "36275bd8ac88870fdf07d8a1b0db95071bc9775da7be472f67c9fb6d801e3ae9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T04:46:12.000Z",
+      "id": "2108056342959395293",
+      "path": "content/2026-10-08_x_any-data.md",
+      "sha256": "9f5abf2b89ba88e384aa0af1fa143bf05fc96501148f52628e394917e784ced2",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T04:58:59.000Z",
+      "id": "2108059559923531924",
+      "path": "content/2026-10-08_x_caveat.md",
+      "sha256": "aa2b9dc7a4aea5ec37144d6d1acd5459c216d15aca3adc5bce04c5ddf5c5ff9a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T03:26:01.000Z",
+      "id": "2108036163286311392",
+      "path": "content/2026-10-08_x_good-bot.md",
+      "sha256": "59e7bf419a9d773daa06dca54d94f006ef67cd0b96a839a3c15072f8e8270389",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T06:05:39.000Z",
+      "id": "2108076335738544557",
+      "path": "content/2026-10-08_x_good-find-that-s-a-bit-more-structured.md",
+      "sha256": "70e5919ad4a789e8ea671480cf75cd76c4d9b2c31ed6b4f359da2aed6025ad09",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T04:49:30.000Z",
+      "id": "2108057173930709151",
+      "path": "content/2026-10-08_x_haha-so-did-i-one-way-to-break.md",
+      "sha256": "502e18c8d3a3f223fe0a7369e2ebfa273c5a3d1106ac2b4bde1ab774868c2340",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T04:16:16.000Z",
+      "id": "2108048810584760516",
+      "path": "content/2026-10-08_x_i-mentioned-in-my-post-the-44-subset.md",
+      "sha256": "3de14dd8c5470be877f7cc127902f41082588102ac5799e02a0fc9ea7f180026",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T07:42:06.000Z",
+      "id": "2108100607215349859",
+      "path": "content/2026-10-08_x_i-will-post-some-concrete-recommendations-once-my.md",
+      "sha256": "a1a816f31be2c220b6f250ebd7a78c44268905e34119e9dc20a21b3622d61738",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T03:15:50.000Z",
+      "id": "2108033602806272205",
+      "path": "content/2026-10-08_x_if-they-were-purely-ai-written-with-no.md",
+      "sha256": "c54d4b6a4a43c30690cefeec705f241efd1e35e62859f2f481b952a7378034ac",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T03:04:45.000Z",
+      "id": "2108030812776255567",
+      "path": "content/2026-10-08_x_if-you-are-thinking-oh-what-if-we.md",
+      "sha256": "52e311faf86162589b6832c1e9bea54e8ab2ff2cbd075fb16ea3ffdba45dbf53",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T03:04:45.000Z",
+      "id": "2108030810691629403",
+      "path": "content/2026-10-08_x_ok-its-official-ai-written-unit-tests-and.md",
+      "sha256": "0bdae542416ac388bc543c43d861ecbd356d394fbd07e659e06551d0156c265d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T08:44:50.000Z",
+      "id": "2108116395884212553",
+      "path": "content/2026-10-08_x_only-if-the-tests-express-true-intent-better.md",
+      "sha256": "9ad4f46411e14b665873d52dd34e6291ea247612141adde4fdcd5cb743cbf9ee",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T05:41:22.000Z",
+      "id": "2108070227347120478",
+      "path": "content/2026-10-08_x_regression-testing-was-explicitly-covered-evidence-suggests-agents.md",
+      "sha256": "47ab8039aaa43335988e543c0e8aeba5fdcd075995b9b2a3f4d235f1fa03f4e5",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T08:29:25.000Z",
+      "id": "2108112518778614208",
+      "path": "content/2026-10-08_x_regression-testing-was-explicitly-covered-in-the-eval.md",
+      "sha256": "7fea2b4c7a1afe7eb7046643e62fe2ab5873be9a0b8ded5fd8e16521ef95e290",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T09:01:13.000Z",
+      "id": "2108120518792802667",
+      "path": "content/2026-10-08_x_regression-testing-was-literally-covered-in-the-study.md",
+      "sha256": "cc634fbefa5c7647d0cfcb47a7411119e0d5751a31ce86809536ea75c0000496",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T09:03:10.000Z",
+      "id": "2108121009421418501",
+      "path": "content/2026-10-08_x_regression-testing-was-literally-covered-in-the-study_21418501.md",
+      "sha256": "3f0128579e6d8d53489864a5487a82368023ce4a198e080df3d0cd3bea9f7441",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T03:44:11.000Z",
+      "id": "2108040734410723462",
+      "path": "content/2026-10-08_x_right-but-an-original-assertion-failing-could-be.md",
+      "sha256": "b283b32ff9c5fe546d2572ebdf0c75d4672e412e5a2ce84a2bd4133876d56007",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T08:31:50.000Z",
+      "id": "2108113127036571661",
+      "path": "content/2026-10-08_x_right-the-price-increase-has-already-gone-crazy.md",
+      "sha256": "7b60a3e510a5f83c2a8add47be157c21194184bde75f8144a1eb9e979f1fbd72",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T04:36:59.000Z",
+      "id": "2108054021588279475",
+      "path": "content/2026-10-08_x_see-this-also-explained-in-my-post-it.md",
+      "sha256": "b85ea2c7db8097b9c8314ed3a1d6ea5ca1adb7604bc190bea16482afd4a2f2eb",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T04:43:48.000Z",
+      "id": "2108055737188671760",
+      "path": "content/2026-10-08_x_some-people-confused-the-conclusion-as-don-t.md",
+      "sha256": "08c6c25a18271186410d6facfd6422d413e7d9425ad4a89f75b74a4ab2db6a01",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T03:34:38.000Z",
+      "id": "2108038332278309237",
+      "path": "content/2026-10-08_x_that-s-what-the-44-subset-was-for.md",
+      "sha256": "0a5e5230a361e6365c16785bbbf907b0cf2065dd20b8c602965a18d20009eb43",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T05:37:36.000Z",
+      "id": "2108069278914392460",
+      "path": "content/2026-10-08_x_the-fundamental-struggle-is-when-a-test-fails.md",
+      "sha256": "f7e2efaa440fb20d010dcea00de9aa2ab2970cdd4f8d53671af3cec0b8e2225a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T03:17:19.000Z",
+      "id": "2108033974740435301",
+      "path": "content/2026-10-08_x_this-is-specifically-talking-about-tests-written-by.md",
+      "sha256": "2ffb0dbf1502e21df3a57f1248f079f64140cafb5ce10f258e0dc584f90662d4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T04:58:11.000Z",
+      "id": "2108059357888024767",
+      "path": "content/2026-10-08_x_untitled.md",
+      "sha256": "03e666b920514204c4d4ad4deeaeb16bb23f16673818a66348a637f3d372d7fa",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T08:56:36.000Z",
+      "id": "2108119356253392974",
+      "path": "content/2026-10-08_x_we-agree-one-of-my-points-was-don.md",
+      "sha256": "5b6e4156cabdb25441fb58e5baa44aed1be260d8af6d8a2b1c1c35d3c95ae49b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T06:01:11.000Z",
+      "id": "2108075212159987731",
+      "path": "content/2026-10-08_x_we-can-talk-what-s-theoretical-all-day.md",
+      "sha256": "e4d317cf977d4b6c22a739843216e9d22a458675603b84b3db51e37cb9baf447",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T04:52:57.000Z",
+      "id": "2108058041581179079",
+      "path": "content/2026-10-08_x_you-can-have-e2e-tests-most-real-catches.md",
+      "sha256": "22e235a21f4725c9139ce613e61c38a022dcf557de7930042c8ccb34fa74ad0f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T01:37:12.000Z",
+      "id": "2108008779497583058",
+      "path": "content/2026-10-08_x_yup-that-s-what-s-they-are-changing.md",
+      "sha256": "d5d0f48bf229dc981fd18baa61b8828d431562fe9bdec161cf63b6b9de1e91b9",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-07T10:17:37Z",
+  "updated_at": "2026-10-08T10:16:26Z",
   "version": 1
 }
