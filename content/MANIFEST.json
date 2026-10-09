@@ -10186,6 +10186,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-08T23:20:53.000Z",
+      "id": "2108336859743179211",
+      "path": "content/2026-10-08_x_and-they-called-it-a-new-agent.md",
+      "sha256": "d1611f99f045956b50d78ff4177ab7518c8cbf98468eddaa7b1d684ce1b9dad1",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-08T04:46:12.000Z",
       "id": "2108056342959395293",
       "path": "content/2026-10-08_x_any-data.md",
@@ -10197,6 +10204,34 @@
       "id": "2108059559923531924",
       "path": "content/2026-10-08_x_caveat.md",
       "sha256": "aa2b9dc7a4aea5ec37144d6d1acd5459c216d15aca3adc5bce04c5ddf5c5ff9a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T18:07:26.000Z",
+      "id": "2108257977820147996",
+      "path": "content/2026-10-08_x_check-this-out-my-friend-calvin-and-co.md",
+      "sha256": "2d86313c033ef5765cc872140830d5d1e2f70fa67337e4b3c24c3187b36e4c7c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T16:32:29.000Z",
+      "id": "2108234083553984836",
+      "path": "content/2026-10-08_x_damn-this-is-good.md",
+      "sha256": "b97f06d4a6eac44358282b76fe9b046221f5afbbc36e32f34ac9814479ac1427",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T18:38:43.000Z",
+      "id": "2108265853351534719",
+      "path": "content/2026-10-08_x_deepswe-is-already-one-of-the-least-polluted.md",
+      "sha256": "3ebae9310ec8c233941acf3685f62321a15ea1ab4342c59fefa3f35b59b7b885",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T21:32:34.000Z",
+      "id": "2108309602563674462",
+      "path": "content/2026-10-08_x_exactly-its-a-narrative-created-to-invite-regulation.md",
+      "sha256": "bc50c64ab49c73be6d0d897b2ffd824d8b5d8a82f590e0a2b1421129280343b2",
       "source": "x"
     },
     {
@@ -10214,10 +10249,45 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-08T22:38:46.000Z",
+      "id": "2108326264004292810",
+      "path": "content/2026-10-08_x_haha-i-have-a-feeling-some-countries-will.md",
+      "sha256": "d509ac02efd7aca43ff6a6a912c457ffe2d1d36af5e57c362d403092490ace61",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-08T04:49:30.000Z",
       "id": "2108057173930709151",
       "path": "content/2026-10-08_x_haha-so-did-i-one-way-to-break.md",
       "sha256": "502e18c8d3a3f223fe0a7369e2ebfa273c5a3d1106ac2b4bde1ab774868c2340",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T15:41:03.000Z",
+      "id": "2108221141827629126",
+      "path": "content/2026-10-08_x_hey-matt-i-take-the-criticism-about-the.md",
+      "sha256": "d5f3403b4f23dbc76ff45058e0cc4e8ed857c8d0ba505a874798a1d5d419b06d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T21:42:06.000Z",
+      "id": "2108312000904511913",
+      "path": "content/2026-10-08_x_horses-are-life-machines-are-non-life-and.md",
+      "sha256": "0ed103c32012f8933da76be7de514e9f298ab17871f61ca328a4ad70f91010d9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T17:40:38.000Z",
+      "id": "2108251234234962300",
+      "path": "content/2026-10-08_x_i-can-definitely-run-another-opus-pass-when.md",
+      "sha256": "96c9862115e1c8ba01f1e581cdd27f1c66ef2c13272172f78445a60aeda052b5",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T22:13:43.000Z",
+      "id": "2108319959172685990",
+      "path": "content/2026-10-08_x_i-m-not-suggesting-that-humans-should-go.md",
+      "sha256": "d9615036ad2c026e36cc772ee337450c84e82a998aa1621e97066eb501a30c3a",
       "source": "x"
     },
     {
@@ -10249,6 +10319,27 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-08T21:25:35.000Z",
+      "id": "2108307843606823333",
+      "path": "content/2026-10-08_x_llms-are-people-too-dario-seriously-treating-ai.md",
+      "sha256": "c1c1f94b4e485fc30c1b0afda2e8632137f78fc75c3ce38dfb0617407e403ef9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T19:08:43.000Z",
+      "id": "2108273402188595223",
+      "path": "content/2026-10-08_x_no-it-doesnt-do-that-agree-that-would.md",
+      "sha256": "d16ddbaf4a6016918ca78ea3ec14774c261c0c86356c51981228f710710ba91c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T20:47:22.000Z",
+      "id": "2108298229725163768",
+      "path": "content/2026-10-08_x_nothing-was-backtracked-at-all-also-you-double.md",
+      "sha256": "64ba4ecf61c52b20e11390aef6aa4d8ae2677d8f5e08be9c7340d75ffe4df3e9",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-08T03:04:45.000Z",
       "id": "2108030810691629403",
       "path": "content/2026-10-08_x_ok-its-official-ai-written-unit-tests-and.md",
@@ -10260,6 +10351,20 @@
       "id": "2108116395884212553",
       "path": "content/2026-10-08_x_only-if-the-tests-express-true-intent-better.md",
       "sha256": "9ad4f46411e14b665873d52dd34e6291ea247612141adde4fdcd5cb743cbf9ee",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T19:10:18.000Z",
+      "id": "2108273798718079052",
+      "path": "content/2026-10-08_x_perhaps-its-time-for-a-testbench.md",
+      "sha256": "5abfa7e50bee2619fb376ff55cd7d190c09441a3b08a8049a2a4e8f2bf19490a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T19:21:26.000Z",
+      "id": "2108276602597695806",
+      "path": "content/2026-10-08_x_regression-testing-was-already-covered-in-the-eval.md",
+      "sha256": "a29e8ff5ae49e26b6faeb2209e7b1cdd8c172df3b2afccec3ca209e42e00d532",
       "source": "x"
     },
     {
@@ -10298,10 +10403,24 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-08T18:48:30.000Z",
+      "id": "2108268315491860861",
+      "path": "content/2026-10-08_x_right-i-meant-it-s-not-the-only.md",
+      "sha256": "86bc5fd05d2ec457203f073d0703706e60eed21ca53bda49b8f87cbce0f7d1bb",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-08T08:31:50.000Z",
       "id": "2108113127036571661",
       "path": "content/2026-10-08_x_right-the-price-increase-has-already-gone-crazy.md",
       "sha256": "7b60a3e510a5f83c2a8add47be157c21194184bde75f8144a1eb9e979f1fbd72",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T22:50:37.000Z",
+      "id": "2108329242899685778",
+      "path": "content/2026-10-08_x_rt-devs-learn-ml-from-1st-principles-lol.md",
+      "sha256": "1d4ae86e935372aebd6d6e7131b4c3895204784918c013c4097441b2b3f09581",
       "source": "x"
     },
     {
@@ -10333,6 +10452,27 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-08T19:04:56.000Z",
+      "id": "2108272451255996900",
+      "path": "content/2026-10-08_x_the-way-deepswe-grades-regression-is-that-each.md",
+      "sha256": "900b752744088cf78ed46a8ab4a16319a64c8fbefb9a07b102fcda6754599f19",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T22:50:26.000Z",
+      "id": "2108329199362814071",
+      "path": "content/2026-10-08_x_this-is-a-good-take-about-the-why.md",
+      "sha256": "c244ee79c0ed1dc61ea41090e65e484e7b1417d5acb3e1e26e0c6642fab2c386",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T18:10:28.000Z",
+      "id": "2108258744421478670",
+      "path": "content/2026-10-08_x_this-is-misinterpreting-the-post-see.md",
+      "sha256": "49d5a283c4c5436835c95ad4789a414700559379eb9b45e6bb1457a73a79d058",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-08T03:17:19.000Z",
       "id": "2108033974740435301",
       "path": "content/2026-10-08_x_this-is-specifically-talking-about-tests-written-by.md",
@@ -10344,6 +10484,27 @@
       "id": "2108059357888024767",
       "path": "content/2026-10-08_x_untitled.md",
       "sha256": "03e666b920514204c4d4ad4deeaeb16bb23f16673818a66348a637f3d372d7fa",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T17:19:24.000Z",
+      "id": "2108245892843401623",
+      "path": "content/2026-10-08_x_untitled_43401623.md",
+      "sha256": "b50579de32cc8cc8cca8ea21ff41f0f06436d5dd223a2363a70efe6b201186c0",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T15:57:38.000Z",
+      "id": "2108225313394348517",
+      "path": "content/2026-10-08_x_untitled_94348517.md",
+      "sha256": "ba8b8433edf6d2ab2827aade8913ca750258e05cf52dd492adcb1ea0a1696431",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T17:39:15.000Z",
+      "id": "2108250888142049458",
+      "path": "content/2026-10-08_x_very-good-points-here.md",
+      "sha256": "f836f6a40612e159dc77228d2eb4b23cbb5a65ad95a49f89a57b6585c4062d34",
       "source": "x"
     },
     {
@@ -10361,10 +10522,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-08T17:13:55.000Z",
+      "id": "2108244512808243470",
+      "path": "content/2026-10-08_x_woke-up-to-a-hot-discussion-on-testing.md",
+      "sha256": "bfa2e8c50b27a0df9763a4e3448414049e6a2edbf9f53665a506384ee1272dd9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T19:59:59.000Z",
+      "id": "2108286301875449955",
+      "path": "content/2026-10-08_x_yeah-not-for-the-tests-written-by-the.md",
+      "sha256": "7f365fc5c469ce9569234d3983b78f0aac09f090617ba05d34b3eb0658c9d640",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-08T04:52:57.000Z",
       "id": "2108058041581179079",
       "path": "content/2026-10-08_x_you-can-have-e2e-tests-most-real-catches.md",
       "sha256": "22e235a21f4725c9139ce613e61c38a022dcf557de7930042c8ccb34fa74ad0f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-08T16:47:45.000Z",
+      "id": "2108237924462707089",
+      "path": "content/2026-10-08_x_yup-i-suspect-most-ai-written-codebases-mine.md",
+      "sha256": "436ea9909275e92b4281f6f5c9c8b3b3838bec88b5bce69932e4a62d5ad45ad9",
       "source": "x"
     },
     {
@@ -10373,8 +10555,99 @@
       "path": "content/2026-10-08_x_yup-that-s-what-s-they-are-changing.md",
       "sha256": "d5d0f48bf229dc981fd18baa61b8828d431562fe9bdec161cf63b6b9de1e91b9",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-09T02:11:11.000Z",
+      "id": "2108379719725117914",
+      "path": "content/2026-10-09_x_but-if-they-can-identify-who-to-ban.md",
+      "sha256": "291b5b0a86c6b2fe417ddd574ab2c06592911ba750ee65345507d9c0e0996043",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-09T05:41:50.000Z",
+      "id": "2108432732586172504",
+      "path": "content/2026-10-09_x_haha-i-think-they-prepared-for-this.md",
+      "sha256": "d58f85bb38ab18554e87e902b5916d715f7459e68be966617bfe3ef14aa5abce",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-09T03:56:10.000Z",
+      "id": "2108406139427917869",
+      "path": "content/2026-10-09_x_i-agree-with-you-about-abusive-behaviors-being.md",
+      "sha256": "06e94e6b59fc53a4767a67155c7c581ef78e9aef9288bcf3456b06bdc0955208",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-09T06:52:18.000Z",
+      "id": "2108450462496432409",
+      "path": "content/2026-10-09_x_i-didn-t-do-anything-special-just-make.md",
+      "sha256": "ae80b7ed7473c82b56e146ca5ab589c114967ebc48a8abfb39fbabdddf65afeb",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-09T03:04:00.000Z",
+      "id": "2108393012934160679",
+      "path": "content/2026-10-09_x_i-guess-when-you-drop-your-phone-on.md",
+      "sha256": "007ffa62abbe99bdbc719b76694b60f6f3d1412a214f720cf772d5750017ce33",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-09T05:50:46.000Z",
+      "id": "2108434978166194359",
+      "path": "content/2026-10-09_x_i-threw-quite-a-few-things-at-it.md",
+      "sha256": "5cae18a108a060ce58110e9bf90685dd2b805d1f16b81c2128425efa5504151c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-09T05:54:07.000Z",
+      "id": "2108435821074481443",
+      "path": "content/2026-10-09_x_it-can-do-coding-work-too-but-i.md",
+      "sha256": "48fd1303bbeb115266d9335ff66a5d0d7c5fefc2cc5ab8569abef21586d87267",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-09T05:43:35.000Z",
+      "id": "2108433171608183050",
+      "path": "content/2026-10-09_x_it-doesn-t-i-ran-so-much-work.md",
+      "sha256": "2c34bc5d92cfa11e97d44d108641c507b646ee2c09115b7777090dc4d483240f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-09T05:37:10.000Z",
+      "id": "2108431557824500204",
+      "path": "content/2026-10-09_x_my-dot-has-been-running-astra-non-stop.md",
+      "sha256": "809cb6776ca1eafd895016f390a30fde0b33f19216b69e6e74f20190a565ed4e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-09T06:38:45.000Z",
+      "id": "2108447056050450635",
+      "path": "content/2026-10-09_x_oh-how-many-things-did-you-run-to.md",
+      "sha256": "0b22db7417581baee05fdd6ae6816012304d00e1b2e3be6b3e65a6c31b5b2690",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-09T05:48:02.000Z",
+      "id": "2108434289268510911",
+      "path": "content/2026-10-09_x_oh-if-you-do-any-coding-work-there.md",
+      "sha256": "49bb6c7104f16c2fcef607f8862d5bdd71e9c1f3cf2f3b0cac2dee484f25b747",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-09T06:44:28.000Z",
+      "id": "2108448491081204054",
+      "path": "content/2026-10-09_x_yeah-it-actually-already-did-that-by-itself.md",
+      "sha256": "92b60dcab5ea477d49e4f0372202494e58f85a13b7ffcd1728f5853111a65c28",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-09T06:03:47.000Z",
+      "id": "2108438256807551359",
+      "path": "content/2026-10-09_x_you-can-do-coding-work-there-for-free.md",
+      "sha256": "db3fdb0f36e92e544aa04cd8323d6534d7d1c8f3141d03ec935b8bc69666a514",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-08T10:16:26Z",
+  "updated_at": "2026-10-09T10:16:36Z",
   "version": 1
 }
