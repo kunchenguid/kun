@@ -308,13 +308,14 @@ Evidence: https://x.com/kunchenguid/status/2087774590978429202, https://www.yout
 
 ### Code quality decays without active stewardship
 
-Kun thinks codebases naturally drift toward entropy unless senior engineers actively hold the quality bar.
+Kun thinks codebases naturally drift toward entropy unless senior engineers actively hold the quality bar, and he counts being easy for others to maintain and evolve as part of good code: modules that work well but are so obscure, untested, and undocumented that only the original authors dare touch them are not good code.
 He prefers review cultures that require authors to explain how changes were tested rather than making reviewers personally rediscover every bug.
 He believes solo ownership can burn people out and reduce quality when collaboration, shared context, peer motivation, accountability, and contributor growth would be better.
 He would rather starve lower-priority projects than spread people so thin that every project has only one isolated owner.
 He wants principal engineers to remove processes where small changes require excessive meetings and approvals.
 He holds popular open-source projects that users depend on to a production-service reliability bar, even when high AI-assisted velocity makes that bar expensive to maintain.
 He treats bad code slipping into high-volume codebases as a complexity and scale problem, not uniquely an AI problem, and prefers validation pipelines, custom per-codebase guardrails, and culture over micromanagement.
+He rejects the idea that agents make maintainability irrelevant because code is now easy to change: the maintainers are increasingly agents from a few model families, which makes maintainability measurable as token cost per feature (a messy codebase can cost many times more to extend than a clean one with the same functionality), and he doubts agents can safely change high-stakes code that lacks documented intent and guardrails.
 Evidence: https://x.com/kunchenguid/status/2072122394035302448, https://x.com/kunchenguid/status/2073110193869848982
 
 ### Pull requests will evolve under agentic workflows
@@ -395,7 +396,7 @@ He thinks enterprise rollout fails when companies merely provide tools and expec
 Adoption requires education, value discovery, planning, workflow redesign, and incentive changes.
 He thinks companies cannot solve model choice and token cost by imposing a single default from the top; teams need to find their own efficiency frontier, with broad baseline access and higher tiers earned by demonstrated ROI.
 He sees tokenmaxxing as an incentive, subsidy, vendor-narrative, and behavior-change problem, not just an infrastructure bill: unlimited token budgets resemble unlimited contractor budgets, so companies need allocation rigor instead of FOMO-driven burn.
-Useful adoption still depends on whether the extra compute creates real work output, quality, and business value.
+Useful adoption still depends on whether the extra compute creates real work output, quality, and business value, and he suspects people overestimate how fast AI will move the real economy because many businesses, like a local dental office, are bound by hard bottlenecks that do not scale with AI, so boosting their knowledge work changes little.
 He advises employees to create visible AI success stories tied to team goals, engineering efficiency, or painful tech debt rather than maximizing token spend for its own sake.
 He expects FOMO-driven AI spend to pull back when the subsidy or panic cycle cools, while real demand can still rebuild more slowly around proven workflows and ROI.
 He thinks internal AI-tool decisions are shaped by brand optics, dogfooding pressure, vendor strategy, data capture, and internal politics as much as by direct usage bills.

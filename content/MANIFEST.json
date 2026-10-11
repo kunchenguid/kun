@@ -10676,13 +10676,174 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-10T21:32:01.000Z",
+      "id": "2109034238880501884",
+      "path": "content/2026-10-10_x_an-interesting-thought-experiment-two-dental-businesses-1.md",
+      "sha256": "b9ce3576ee3edd99ec84b6415e4d3192c77ae82721cd0247d1bac3ae3d216606",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-10T21:52:20.000Z",
+      "id": "2109039353146314987",
+      "path": "content/2026-10-10_x_but-do-you-think-ai-will-help-bring.md",
+      "sha256": "480a474d47faedbba11371c0875f50d43480981dc7211300b3897851f23da670",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-10T04:21:04.000Z",
       "id": "2108774793491390562",
       "path": "content/2026-10-10_x_how-much-longer-do-we-get-to-enjoy.md",
       "sha256": "fbe2d76de8930750fab9878b8f4c431cbc9cd782e70186bee4f06e540eac5c73",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-10T21:42:07.000Z",
+      "id": "2109036783698907328",
+      "path": "content/2026-10-10_x_in-firstmate-this-is-simply-ahoy.md",
+      "sha256": "a42abdc63d3c22210179862d6479e7bf0fd09b0b621b18c8b18231c8b5167a10",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-10T22:08:58.000Z",
+      "id": "2109043540542288353",
+      "path": "content/2026-10-10_x_just-a-typical-example-of-a-local-small.md",
+      "sha256": "d48f6a49867439b5196743923a96c146420576a5a2ffc010934e80e94189e59c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-10T21:48:19.000Z",
+      "id": "2109038343040491851",
+      "path": "content/2026-10-10_x_most-humans-i-talked-to-in-dental-offices.md",
+      "sha256": "7fd87a1d3c4f9898f83223e31390c3233d3d390934d4dbdcaf889568fcbc7cf1",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-10T18:02:54.000Z",
+      "id": "2108981614873371048",
+      "path": "content/2026-10-10_x_none-of-the-second-mates-and-crewmates-in.md",
+      "sha256": "3b1e429e451e803cdffdf7f55bbf4899519e9957db8f99d6b31ce21172ad98d1",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-10T18:49:31.000Z",
+      "id": "2108993345280422008",
+      "path": "content/2026-10-10_x_set-a-clear-and-ambitious-target.md",
+      "sha256": "ffa655d6292d49f69790bf2154c949abaca1727a245f15363bda9deddea0168f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-10T22:14:45.000Z",
+      "id": "2109044996439724246",
+      "path": "content/2026-10-10_x_very-reasonable.md",
+      "sha256": "09466613498e37ba5e650527ab58f857ab6e131227a4367198846ed2672b27ed",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-10T21:39:14.000Z",
+      "id": "2109036056545046853",
+      "path": "content/2026-10-10_x_why-customer-service-can-t-be-ai.md",
+      "sha256": "35a4ffd4eba59e5946a79a70e1ba28714f5bb086b28a06919e9184cbde94ad43",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T03:45:05.000Z",
+      "id": "2109128124789313688",
+      "path": "content/2026-10-11_x_don-t-think-of-an-elephant.md",
+      "sha256": "95f5dfd448ed214b07d4459938b1c2235161babc7285aa134caf8fc30a646ca0",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T04:21:40.000Z",
+      "id": "2109137330812657814",
+      "path": "content/2026-10-11_x_dont-think-of-an-elephant.md",
+      "sha256": "3a070fbcf0ee53bc1ed8f61614ae2b531749bfda31d9ccc22988a73cb7f1c543",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T02:04:37.000Z",
+      "id": "2109102843185774968",
+      "path": "content/2026-10-11_x_fascinating.md",
+      "sha256": "f9b6daef3d51e06fad28649cdd3775a85a3778964ae87857b65612509e018a43",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T03:55:52.000Z",
+      "id": "2109130837929456066",
+      "path": "content/2026-10-11_x_haha-tell-your-agent-don-t-think-of.md",
+      "sha256": "8c93f84041ef12965753316de621999781a69c03c8772ee81e4560424fbe761f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T03:01:31.000Z",
+      "id": "2109117159951790521",
+      "path": "content/2026-10-11_x_i-think-there-s-a-4th-property-for.md",
+      "sha256": "732bcd0e6dba477f453b0cfcad2d2b3f748a8caf0a618ed13c4018014bf6e17e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T04:03:00.000Z",
+      "id": "2109132636178579772",
+      "path": "content/2026-10-11_x_lol-what.md",
+      "sha256": "72efac8fe61da3c22f391e6f1cd998e577afe6247d65104f09c23c11b574957e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T03:07:52.000Z",
+      "id": "2109118759084728618",
+      "path": "content/2026-10-11_x_now-i-m-really-curious-what-happened-to.md",
+      "sha256": "8757da947f2a7e08dfdf7003b4ed6b40978a8e0a4655970607e8a75f025d67fe",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T00:04:43.000Z",
+      "id": "2109072667739648284",
+      "path": "content/2026-10-11_x_oh-why.md",
+      "sha256": "8eb6d548edbd03abc261c2b65e6750ec818c465da1313e06c6fa5f93de9d7ebc",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T03:22:36.000Z",
+      "id": "2109122465826034132",
+      "path": "content/2026-10-11_x_right-now-what-i-m-wondering-is-how.md",
+      "sha256": "22cbb6ac8025ff8f63e17cb692613955589502c4bd71a86c1501ac414cab3a65",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T03:52:31.000Z",
+      "id": "2109129997382193289",
+      "path": "content/2026-10-11_x_with-agents-this-can-actually-be-quantified-imagine.md",
+      "sha256": "e1ca9895d6ef67bd224b1fc81baff526ed077c8118c9bac46a1d164339bf1b53",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T02:02:57.000Z",
+      "id": "2109102423994470534",
+      "path": "content/2026-10-11_x_wow-isn-t-that-a-massive-advantage-in.md",
+      "sha256": "91961caf9a7fe23a10754ec4e2f803b3dd52c8659d1be3031e21eb78b73d0c30",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T04:09:14.000Z",
+      "id": "2109134205045358602",
+      "path": "content/2026-10-11_x_yeah-agree-i-think-in-the-agentic-era.md",
+      "sha256": "5c9d26d09408026da3656570b65bfaebb8d4790ab5552efa6821e8498c5184e2",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T05:47:54.000Z",
+      "id": "2109159033622106596",
+      "path": "content/2026-10-11_x_yeah-many-argue-that-s-bad-for-any.md",
+      "sha256": "c78ea18af99798bff5ea716cf944ee09072f4c114e66244d195b10763bc19daf",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T02:01:06.000Z",
+      "id": "2109101957692731512",
+      "path": "content/2026-10-11_x_yeah-the-interesting-thing-is-once-we-look.md",
+      "sha256": "5d99d33a7b0290c83564ff299bc172f2e4abfcb0588b0e8e2e26eb203a98f9a5",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-10T10:12:07Z",
+  "updated_at": "2026-10-11T10:18:05Z",
   "version": 1
 }
