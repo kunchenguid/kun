@@ -10746,6 +10746,20 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-11T20:45:50.000Z",
+      "id": "2109385006233886735",
+      "path": "content/2026-10-11_x_ah-got-it-yup-totally-agree-i-just.md",
+      "sha256": "0f4a15ffe2fc40fc5b2702fa34eea638b18a58520c50a1060cf2dbaa23094be7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T18:13:19.000Z",
+      "id": "2109346621607858331",
+      "path": "content/2026-10-11_x_but-most-people-don-t-even-want-to.md",
+      "sha256": "62a8a916ff0d0dfdd9c8f62c4f9e03e443691c0bed90da1e41ed588307b61ef9",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-11T03:45:05.000Z",
       "id": "2109128124789313688",
       "path": "content/2026-10-11_x_don-t-think-of-an-elephant.md",
@@ -10781,6 +10795,27 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-11T20:41:56.000Z",
+      "id": "2109384022292078626",
+      "path": "content/2026-10-11_x_i-think-your-pov-is-potentially-biased-slightly.md",
+      "sha256": "70b8a00362a41d811d1166c348b4d9cabac3dd8e631617e5a058a6b822d8bffe",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T18:25:26.000Z",
+      "id": "2109349673949700477",
+      "path": "content/2026-10-11_x_in-terms-of-moat-i-think-network-effect.md",
+      "sha256": "e756c0ae3f982590c46023533ee308a0272efcf643ad0e90fdaf585f83a04e76",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T20:03:17.000Z",
+      "id": "2109374299119423492",
+      "path": "content/2026-10-11_x_it-was-close-to-impossible-without-ai-either.md",
+      "sha256": "a2657dca172c6332f9d188490e871c2b60a6878070c380c2338a008f7f72cf29",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-11T04:03:00.000Z",
       "id": "2109132636178579772",
       "path": "content/2026-10-11_x_lol-what.md",
@@ -10806,6 +10841,20 @@
       "id": "2109122465826034132",
       "path": "content/2026-10-11_x_right-now-what-i-m-wondering-is-how.md",
       "sha256": "22cbb6ac8025ff8f63e17cb692613955589502c4bd71a86c1501ac414cab3a65",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T19:53:44.000Z",
+      "id": "2109371892293591145",
+      "path": "content/2026-10-11_x_some-people-are-predicting-that-even-businesses-will.md",
+      "sha256": "d204b3aeb4f2bee6faef673b2173e4d7b119e32c8a424f67d7352b5a2af9a260",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-11T17:58:37.000Z",
+      "id": "2109342926140842100",
+      "path": "content/2026-10-11_x_the-most-disgusting-part-of-this-is-if.md",
+      "sha256": "f4728846c90f11a6a09a25b4b2c30ea5dcff9cf323cd943f1b3ae85a3c899435",
       "source": "x"
     },
     {
@@ -10842,8 +10891,36 @@
       "path": "content/2026-10-11_x_yeah-the-interesting-thing-is-once-we-look.md",
       "sha256": "5d99d33a7b0290c83564ff299bc172f2e4abfcb0588b0e8e2e26eb203a98f9a5",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-12T07:55:59.000Z",
+      "id": "2109553652520439917",
+      "path": "content/2026-10-12_x_bingo.md",
+      "sha256": "3edad76371b1a93d48909a197b60e7728e694b5dacacd8633998b02a68ede36a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-12T05:10:18.000Z",
+      "id": "2109511959267987544",
+      "path": "content/2026-10-12_x_initially-i-thought-it-s-just-an-awareness.md",
+      "sha256": "717c5a80228188bf4cee82f87e5e48743e1038bac9672a8d177af9c2dbbde215",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-12T00:44:14.000Z",
+      "id": "2109444999259787682",
+      "path": "content/2026-10-12_x_very-interesting-discussions-under-this-ai-vs-human.md",
+      "sha256": "72b4a0ec06947d226aa64ed114593fb728c5434b9b88962c5618b6d62c419541",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-12T03:30:54.000Z",
+      "id": "2109486942098506022",
+      "path": "content/2026-10-12_x_what-is-phase-3.md",
+      "sha256": "1a9410167d919acd69b469f3dc9baa85a73aeb3eb300590f86e27022149df470",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-11T10:18:05Z",
+  "updated_at": "2026-10-12T10:17:32Z",
   "version": 1
 }

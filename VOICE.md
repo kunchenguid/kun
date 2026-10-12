@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-10-11_
-_Latest source window: X posts and replies from 2026-10-10 through 2026-10-11, public Substack refresh (0 new or changed posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 23 new X items, 0 Substack items, and 0 YouTube items; the durable opinion updates added maintainability as part of good code (measurable as agent token cost per feature) and hard non-AI bottlenecks slowing real-economy impact; VOICE patterns (thought-experiment question posts, short evidence-seeking replies) were only confirmed, so no style guidance changed._
+_Last updated: 2026-10-12_
+_Latest source window: X posts and replies from 2026-10-11 through 2026-10-12, public Substack refresh (0 new or changed posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 11 new X items, 0 Substack items, and 0 YouTube items; the durable opinion updates sharpened AI copycat clones as IP free-riding, trust over fading network effects as the moat, active AI dislike as a perception problem, and single non-AI bottlenecks capping near-term gains; VOICE patterns (one-word agreement replies, short clarifying questions, emoji-softened asides) were only confirmed, so no style guidance changed._
 
 ### Summary
 
