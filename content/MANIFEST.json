@@ -2034,7 +2034,7 @@
       "created_at": "2026-08-23T04:09:12.794Z",
       "id": "212348719",
       "path": "content/2026-08-23_substack_your-agents-md-is-a-neural-net.md",
-      "sha256": "a22ff4d9cf870cfe5cfc180d72eb1a73758bf737d054ad4f3a35ec36aedbe5f9",
+      "sha256": "4faf9e8d9de911c5463437a4ed9e24f428c1043733203c489c4638489b4e4e3f",
       "source": "substack"
     },
     {
@@ -10893,6 +10893,20 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-12T18:46:03.000Z",
+      "id": "2109717247455608978",
+      "path": "content/2026-10-12_x_100.md",
+      "sha256": "9634da57ecc6d2694e52ab8ce9d9e724f2f7c9da8a3684963658019c49d26bbc",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-12T19:08:01.000Z",
+      "id": "2109722777502802309",
+      "path": "content/2026-10-12_x_a-different-type-of-compute-though-many-people.md",
+      "sha256": "c19f2b3c5c70f58b8fc1197e1023b5bf85ec7ce428cd89500f7e265273f24ab4",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-12T07:55:59.000Z",
       "id": "2109553652520439917",
       "path": "content/2026-10-12_x_bingo.md",
@@ -10900,10 +10914,66 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-12T19:41:45.000Z",
+      "id": "2109731264572142072",
+      "path": "content/2026-10-12_x_i-have-a-few-fixed-runner-slots-so.md",
+      "sha256": "38e385a52dc2276eb07334a101dd99bbe7b10b995212d7c9fdafb2aeea5bb680",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-12T18:49:24.000Z",
+      "id": "2109718093190902226",
+      "path": "content/2026-10-12_x_i-just-asked-my-agent-to-set-it.md",
+      "sha256": "92aae0b0f4cf69846665c5687bfc04fb771b545a9a06faa33129589bdfd2f613",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-12T18:50:31.000Z",
+      "id": "2109718372871270585",
+      "path": "content/2026-10-12_x_i-think-in-most-cases-even-after-the.md",
+      "sha256": "4c60cea5981bebc588b95d2ef667ef7c4bb953b7130979fe274fbef1c72e7f9e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-12T18:36:23.000Z",
+      "id": "2109714814335602916",
+      "path": "content/2026-10-12_x_im-considering-a-mac-studio-too-because-my.md",
+      "sha256": "b0a5ddc4689dd95e9051d7e53543beeecd22a7cc667201f004eb3bafd5d54eeb",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-12T05:10:18.000Z",
       "id": "2109511959267987544",
       "path": "content/2026-10-12_x_initially-i-thought-it-s-just-an-awareness.md",
       "sha256": "717c5a80228188bf4cee82f87e5e48743e1038bac9672a8d177af9c2dbbde215",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-12T18:34:11.000Z",
+      "id": "2109714264516915363",
+      "path": "content/2026-10-12_x_its-insane-how-much-we-can-save-by.md",
+      "sha256": "b540b589d19a83650be5229beba9ce31877b6266b41950958d487221c3f1de9b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-12T19:04:23.000Z",
+      "id": "2109721861454184540",
+      "path": "content/2026-10-12_x_no-infra-just-asked-my-agent-to-set.md",
+      "sha256": "eb748b983e74ca91ec8bb567979f0316a87109ce6a233764e0a03711012305e0",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-12T18:42:21.000Z",
+      "id": "2109716319956615461",
+      "path": "content/2026-10-12_x_thats-the-way-to-go.md",
+      "sha256": "64faecee433312ffe656668732491983e7b859cbf648ba902cf85bb5414d5007",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-12T18:40:56.000Z",
+      "id": "2109715963235233972",
+      "path": "content/2026-10-12_x_they-have-been-very-generous-at-supporting-oss.md",
+      "sha256": "44736bb921bd00d1752a67e76eb59f1fd48eb86fae8efb83fe346642f15abc45",
       "source": "x"
     },
     {
@@ -10919,8 +10989,120 @@
       "path": "content/2026-10-12_x_what-is-phase-3.md",
       "sha256": "1a9410167d919acd69b469f3dc9baa85a73aeb3eb300590f86e27022149df470",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-12T23:16:04.000Z",
+      "id": "2109785200649720286",
+      "path": "content/2026-10-12_x_wow-this-might-just-be-the-cleanest-server.md",
+      "sha256": "6878e8248f4054e3a8d015203f5a980e83d21e5f1b4c8319182e39c9fb3f2320",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T00:36:15.000Z",
+      "id": "2109805381291798861",
+      "path": "content/2026-10-13_x_edit-see-clarification-below-200-individual-plan-is.md",
+      "sha256": "4c6077922c554af71f4c6f75b80f70a75f6675111aaca1341f4e6a0d11e14a9a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T00:05:43.000Z",
+      "id": "2109797694684479669",
+      "path": "content/2026-10-13_x_huge-change-consolidating-x-cursor-grok-subscriptions-now.md",
+      "sha256": "e26664d844054847ad318ca6a5242cc84902c1b2230c8b6c9024f9ab99998853",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T05:40:23.000Z",
+      "id": "2109881919555211280",
+      "path": "content/2026-10-13_x_i-explored-this-a-while-ago-this-is.md",
+      "sha256": "271ce8b3a54f5dc5f50cf76e5d91645f309aaccf76199cea99743a224f287cdc",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T05:48:56.000Z",
+      "id": "2109884070352285913",
+      "path": "content/2026-10-13_x_in-terms-of-how-users-interact-sure-but.md",
+      "sha256": "9243c6a97bde3a87c2b320844da6dedc9cffac8bf57b50d13dd23fa7f625e631",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T08:26:35.000Z",
+      "id": "2109923744491950203",
+      "path": "content/2026-10-13_x_it-s-an-agents-can-t-vibe-code.md",
+      "sha256": "694aa1f5ec4f4bb509f7a417ec6137d36a9736ec059041d12402d1ff14c274f4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T05:30:16.000Z",
+      "id": "2109879371058332062",
+      "path": "content/2026-10-13_x_let-me-break-down-software-is-dead-for.md",
+      "sha256": "e7dbb0d001a5cbf067611311bae86c92fdc5b60bdf8f7fe2c66afc9b94885b2d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T06:05:45.000Z",
+      "id": "2109888302706991536",
+      "path": "content/2026-10-13_x_love-your-take-i-for-one-feel-very.md",
+      "sha256": "9598c45bc0313c313000608b51ceda528c9a2d123688a16200a03aa432305241",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T00:26:06.000Z",
+      "id": "2109802825060663390",
+      "path": "content/2026-10-13_x_oh-good-clarification-yeah-it-would-be-helpful.md",
+      "sha256": "138f3a98ce299bbb47766230f1a13261b57ccefcf7b79819a66e2e90b7f73758",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T06:19:40.000Z",
+      "id": "2109891801457016895",
+      "path": "content/2026-10-13_x_ok-just-one-more-example-and-ill-shut.md",
+      "sha256": "0f4e21d2e776d685e8dce6fef352e96de606aec0fabed5f23378ffcab5c35f01",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T06:58:46.000Z",
+      "id": "2109901643689214101",
+      "path": "content/2026-10-13_x_people-all-think-that-at-first-then-next.md",
+      "sha256": "0e4943e43cd380ef47614d146f9edaa815f5945879c53735b2a6e77d384b9c94",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T00:26:52.000Z",
+      "id": "2109803020330607073",
+      "path": "content/2026-10-13_x_poteto-just-clarified-below-looks-like-200-for.md",
+      "sha256": "5457d74afcc25bd110150d311b49cf562f4742c2435283f85fe677ef65dcced7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T06:01:37.000Z",
+      "id": "2109887260951003265",
+      "path": "content/2026-10-13_x_sometimes-i-write-just-to-hear-the-sound.md",
+      "sha256": "9bd7004c04f36c0eeaacc0a58d78371dcdbe5af297e9f494805b1511ce9a7c41",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T00:27:10.000Z",
+      "id": "2109803093387002106",
+      "path": "content/2026-10-13_x_ty.md",
+      "sha256": "fe9beff4cad4362bfacf4887435cdfb0870968475ae70f8b4e48ca0124a003bf",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T05:54:45.000Z",
+      "id": "2109885534713856078",
+      "path": "content/2026-10-13_x_yeah-totally-this-is-unchartered-territory-with-lots.md",
+      "sha256": "7f60f890da05cd6695a382f80f97b5ba8eafe03da56909536b0b1f6de6271a7a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T06:09:34.000Z",
+      "id": "2109889261613072618",
+      "path": "content/2026-10-13_x_zuck-was-right-all-along.md",
+      "sha256": "05c4227adfbd60881272613874b9302205d700ec55a03e82c3bb518daca72e82",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-12T10:17:32Z",
+  "updated_at": "2026-10-13T10:22:23Z",
   "version": 1
 }
