@@ -10998,10 +10998,38 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-13T22:44:02.000Z",
+      "id": "2110139526945632377",
+      "path": "content/2026-10-13_x_100-free-trial-is-hard-to-do-because.md",
+      "sha256": "31715ac0949a5806f69963463a3042a79cb98e9c35026acc7ee04123d0ad7587",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T16:34:44.000Z",
+      "id": "2110046590375428488",
+      "path": "content/2026-10-13_x_and-when-you-call-them-out-they-all.md",
+      "sha256": "4500190fdcabbc8ef3dd82dae3d8abce665934c847bfaafbd9a3c0a78c9a7873",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T20:33:33.000Z",
+      "id": "2110106688640647581",
+      "path": "content/2026-10-13_x_but-you-just-said-it-s-inconsistent-why.md",
+      "sha256": "203cfd3a03070d0ab1bedf466a3b779c220bd42b0b72dcf98a1faecfa5922998",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-13T00:36:15.000Z",
       "id": "2109805381291798861",
       "path": "content/2026-10-13_x_edit-see-clarification-below-200-individual-plan-is.md",
       "sha256": "4c6077922c554af71f4c6f75b80f70a75f6675111aaca1341f4e6a0d11e14a9a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T16:17:21.000Z",
+      "id": "2110042216307814578",
+      "path": "content/2026-10-13_x_hmmm-apple-s-new-product-is-a-big.md",
+      "sha256": "c859f8480773859df7d282f4d0494d4317b57ff1661b24171048b05510ccbb89",
       "source": "x"
     },
     {
@@ -11012,10 +11040,38 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-13T16:37:12.000Z",
+      "id": "2110047212130693344",
+      "path": "content/2026-10-13_x_i-actually-tried-to-use-the-reverse-engineered.md",
+      "sha256": "437aecbb5c56256dd3de3497c9c9ad21f042f2c60645ec13cc36c4826c28df5f",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-13T05:40:23.000Z",
       "id": "2109881919555211280",
       "path": "content/2026-10-13_x_i-explored-this-a-while-ago-this-is.md",
       "sha256": "271ce8b3a54f5dc5f50cf76e5d91645f309aaccf76199cea99743a224f287cdc",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T20:38:56.000Z",
+      "id": "2110108044185243802",
+      "path": "content/2026-10-13_x_i-get-what-you-mean-but-i-m.md",
+      "sha256": "e7cb04fb88e57ae70982230f83ef086af8f9b0fca2da416b60a6471a710f25bf",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T16:11:24.000Z",
+      "id": "2110040717930512469",
+      "path": "content/2026-10-13_x_i-sell-wut.md",
+      "sha256": "74fe2e99807059eabf31bbd1dc1fb9ed974d4b747253803d72d56f6f5ea9c6aa",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T20:22:35.000Z",
+      "id": "2110103932085338564",
+      "path": "content/2026-10-13_x_im-not-testing-muse-wonder-because-1-without.md",
+      "sha256": "f5320293980f373515772e6ab2d168e0dd575f203ead2890ecad1bec75f0d862",
       "source": "x"
     },
     {
@@ -11033,6 +11089,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-13T15:30:55.000Z",
+      "id": "2110030530293174568",
+      "path": "content/2026-10-13_x_it-s-just-illustrative-to-paint-the-picture.md",
+      "sha256": "15e3e1f698fbd143d8b4612f868c7174e82f59038d2cce63f60e9489d1eac8a7",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-13T05:30:16.000Z",
       "id": "2109879371058332062",
       "path": "content/2026-10-13_x_let-me-break-down-software-is-dead-for.md",
@@ -11040,10 +11103,24 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-13T15:53:42.000Z",
+      "id": "2110036263957066122",
+      "path": "content/2026-10-13_x_lol-go-check-the-commit-history-this-guy.md",
+      "sha256": "df9cbd439bec32e066f00e19cfe4323e37363566a3a9ac2a5e46d47957089f9f",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-13T06:05:45.000Z",
       "id": "2109888302706991536",
       "path": "content/2026-10-13_x_love-your-take-i-for-one-feel-very.md",
       "sha256": "9598c45bc0313c313000608b51ceda528c9a2d123688a16200a03aa432305241",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T20:29:12.000Z",
+      "id": "2110105595961565292",
+      "path": "content/2026-10-13_x_not-in-a-tos-compliant-way-but-anthropic.md",
+      "sha256": "36791099ae949beffabe1d0d38c57fe7c1436e2b19ccb960c34faafc855d1440",
       "source": "x"
     },
     {
@@ -11082,6 +11159,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-13T20:45:04.000Z",
+      "id": "2110109588200849421",
+      "path": "content/2026-10-13_x_thanks-ill-continue-to-share-my-review-on.md",
+      "sha256": "9d93a6b1b9fbc2e5d78f018213da719eb555bfa8e5f25bfb72c3051cde06288f",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-13T00:27:10.000Z",
       "id": "2109803093387002106",
       "path": "content/2026-10-13_x_ty.md",
@@ -11096,13 +11180,90 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-13T20:41:33.000Z",
+      "id": "2110108704859398637",
+      "path": "content/2026-10-13_x_yes-people-can-use-the-agents-sdk-which.md",
+      "sha256": "56c1a0905450057d1adeb9663076f1904f7665b46222181026a5f7bac5b3288c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-13T16:31:30.000Z",
+      "id": "2110045775262851329",
+      "path": "content/2026-10-13_x_you-mean-this-category.md",
+      "sha256": "9c7fc3a3bb91eebde7359af3cf6920815652ac92232ef4d0fac4b39c9c939488",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-13T06:09:34.000Z",
       "id": "2109889261613072618",
       "path": "content/2026-10-13_x_zuck-was-right-all-along.md",
       "sha256": "05c4227adfbd60881272613874b9302205d700ec55a03e82c3bb518daca72e82",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T05:02:17.000Z",
+      "id": "2110234716729463195",
+      "path": "content/2026-10-14_x_hot-ai-startup-character-ai-just-filed-for.md",
+      "sha256": "430a159e18e5bdbcf8d7e72ae74f56c5045bcb6736b05132123794129e5caa26",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T00:14:29.000Z",
+      "id": "2110162290473582804",
+      "path": "content/2026-10-14_x_i-want-to-make-suggestions-that-if-heard.md",
+      "sha256": "780a73f8bc43aa88a76fac5cc7bdc34a320b4071cc1b310990c3392e69fe2aab",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T05:35:52.000Z",
+      "id": "2110243168998531547",
+      "path": "content/2026-10-14_x_if-it-s-that-easy-you-don-t.md",
+      "sha256": "ef3abddfdbb68f160521b24e6eabe97bfe6adb8d4cae7e8f828f5fab1479d760",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T03:12:21.000Z",
+      "id": "2110207051741970853",
+      "path": "content/2026-10-14_x_local-box-to-avoid-renting-vps-local-gpu.md",
+      "sha256": "00ade6bd1491a3ffbf645edee4f8fc5e4ffcba11e44dbfe7872f3d5b6d4db27a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T05:29:50.000Z",
+      "id": "2110241651746816435",
+      "path": "content/2026-10-14_x_the-lawsuits-probably-made-things-worse-but-even.md",
+      "sha256": "7a070bc328858a98a75004377533fdd01696a8f96ceca6197ae3b6b3fd53366a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T05:15:36.000Z",
+      "id": "2110238066728448037",
+      "path": "content/2026-10-14_x_they-actually-tried-ads-and-in-app-purchases.md",
+      "sha256": "19dc4ada65458671d709023952e502ff4a752fdf23a13fc58c7b5db8dc699496",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T05:16:55.000Z",
+      "id": "2110238399869444282",
+      "path": "content/2026-10-14_x_they-did-do-in-app-advertising-didnt-help.md",
+      "sha256": "0ad8e46ad5905557f28830241213747db22dc18c8afe62ce9c51b76dc17d57e6",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T03:00:01.000Z",
+      "id": "2110203949588550109",
+      "path": "content/2026-10-14_x_this-is-already-happening-a-lot-of-emails.md",
+      "sha256": "461d3649bfd49028248ddfade5ce48d85486169fd9df911fe4b9d345689b2901",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T05:30:09.000Z",
+      "id": "2110241729521897595",
+      "path": "content/2026-10-14_x_trillion-dollar-question.md",
+      "sha256": "c47187e99d2c33fef4ea8ad5cd18493f8bf0542eee8e15406432c18e5316f09f",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-13T10:22:23Z",
+  "updated_at": "2026-10-14T10:18:50Z",
   "version": 1
 }

@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-10-13_
-_Latest source window: X posts and replies from 2026-10-12 through 2026-10-13, public Substack refresh (1 changed post, like-count only), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 26 new X items, 1 Substack item, and 0 YouTube items; the durable opinion updates sharpened the case against on-the-fly personal software (token, compute, and wall-clock cost plus aggregate duplication) and the "strong core, headless service, fluid interface" future; VOICE sharpened the rebuttal-post arc (break-down hook, steelman, sarcastic reductio, explicit constructive pivot, closing question)._
+_Last updated: 2026-10-14_
+_Latest source window: X posts and replies from 2026-10-13 through 2026-10-14, public Substack refresh (0 new or changed posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 23 new X items, 0 Substack items, and 0 YouTube items; the durable opinion updates sharpened why catching-up labs should not gate access (subsidize broadly, including third-party harnesses) and why engagement, network effects, and data do not save AI products whose compute costs exceed what users pay; VOICE style patterns were already captured, so only this metadata changed._
 
 ### Summary
 
