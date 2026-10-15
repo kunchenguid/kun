@@ -158,7 +158,7 @@
       "created_at": "2026-05-05T18:31:28.508Z",
       "id": "196571741",
       "path": "content/2026-05-05_substack_everyone-should-have-an-opinions-md.md",
-      "sha256": "9787cec182bfbf9c126ab29fd19ab5bc225e0f687fc0c4a579e2fd160cfb0691",
+      "sha256": "3077ab13c20e004b11084fd4361ba657b9837306a119676f67581bc98c090ddf",
       "source": "substack"
     },
     {
@@ -11201,10 +11201,45 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-14T22:27:40.000Z",
+      "id": "2110497795136512491",
+      "path": "content/2026-10-14_x_1-firstmates-built-in-stow-can-help-you.md",
+      "sha256": "c923e2446abaa3da5072bb36bb882c7cf4dedcef000861d55545e0d0c19fc328",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T19:01:39.000Z",
+      "id": "2110445951110496438",
+      "path": "content/2026-10-14_x_based-on-my-interactions-no-most-of-these.md",
+      "sha256": "7eab35df9bb744e73f5684ecb864860335b7d682fb80c315f22ac7cbda0861f4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T17:05:23.000Z",
+      "id": "2110416692111413585",
+      "path": "content/2026-10-14_x_haha-great-analogy.md",
+      "sha256": "7c6d4a64681d92db51b1ed0797624c8aebbc125b0ddead9d3cec1ff32163cd9a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T23:47:29.000Z",
+      "id": "2110517884103672044",
+      "path": "content/2026-10-14_x_haha-right-i-wonder-what-those-i-printed.md",
+      "sha256": "25646abee2a4064149ab55a8210174fb414485e4a2a0666e7a61579a2bc046ac",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-14T05:02:17.000Z",
       "id": "2110234716729463195",
       "path": "content/2026-10-14_x_hot-ai-startup-character-ai-just-filed-for.md",
       "sha256": "430a159e18e5bdbcf8d7e72ae74f56c5045bcb6736b05132123794129e5caa26",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T17:01:07.000Z",
+      "id": "2110415618721902830",
+      "path": "content/2026-10-14_x_i-dont-they-have-a-strong-stance-on.md",
+      "sha256": "e0ed521f85567228d1521c46efd5ef1563b0e8d489f393aa8698b3f76a2a0e94",
       "source": "x"
     },
     {
@@ -11226,6 +11261,62 @@
       "id": "2110207051741970853",
       "path": "content/2026-10-14_x_local-box-to-avoid-renting-vps-local-gpu.md",
       "sha256": "00ade6bd1491a3ffbf645edee4f8fc5e4ffcba11e44dbfe7872f3d5b6d4db27a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T21:23:47.000Z",
+      "id": "2110481720051216813",
+      "path": "content/2026-10-14_x_most-software-of-value-isnt-just-made-of.md",
+      "sha256": "a2ee1def6ead1174a085b2e009c21e14a7640d6964f99130400dfb6b38819ad8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T16:42:11.000Z",
+      "id": "2110410852025458810",
+      "path": "content/2026-10-14_x_over-the-past-couple-of-weeks-i-heard.md",
+      "sha256": "2ca191d3639ce39a998a3d76e26ef212b8488abde04c0cbb577528787d98b435",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T17:00:20.000Z",
+      "id": "2110415419207225503",
+      "path": "content/2026-10-14_x_right-but-i-think-were-a-niche-segment.md",
+      "sha256": "812ce0a95f4089992737a9c4ea0ad5cc8dae914f36380cd2b901e60dc2fe1075",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T20:06:44.000Z",
+      "id": "2110462330610094582",
+      "path": "content/2026-10-14_x_right-but-most-physical-goods-are-also-more.md",
+      "sha256": "dc6e8386606cdb1adf4baa9d1360ce6d31350d507b6011196b220f0346514bc2",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T21:28:49.000Z",
+      "id": "2110482986093478396",
+      "path": "content/2026-10-14_x_same-for-software-right-replace-your-argument-word.md",
+      "sha256": "7d3f384b5bba30f0899f5937b059028c3d13eed490f4e1b877da39c7fcd29f35",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T19:59:40.000Z",
+      "id": "2110460551122002276",
+      "path": "content/2026-10-14_x_saw-a-good-comment-on-software-is-dead.md",
+      "sha256": "476e175b71e83044470bea41461d6efcc01ac9f96d93ae61b9eb8762753092f9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T20:18:28.000Z",
+      "id": "2110465284234780945",
+      "path": "content/2026-10-14_x_technically-3d-print-an-object-from-your-phone.md",
+      "sha256": "5068238dae540ba55c61eaa8fecdbcfad1fef2a293766b91740f04d3e5e25694",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T19:38:40.000Z",
+      "id": "2110455268165509224",
+      "path": "content/2026-10-14_x_the-b2b-point-is-not-that-people-will.md",
+      "sha256": "7af30a4edec383f2bd72275c5e0b2d19d86870b72c2405a0f23fc7bf3d32df1e",
       "source": "x"
     },
     {
@@ -11262,8 +11353,92 @@
       "path": "content/2026-10-14_x_trillion-dollar-question.md",
       "sha256": "c47187e99d2c33fef4ea8ad5cd18493f8bf0542eee8e15406432c18e5316f09f",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T20:29:56.000Z",
+      "id": "2110468167609049465",
+      "path": "content/2026-10-14_x_yeah-totally-agree-and-thatll-be-a-beautiful.md",
+      "sha256": "07e3b7edd34c02fc67d22951b8fec05dd037722ee596bcbd5107e47bf324cb6d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-14T18:21:50.000Z",
+      "id": "2110435931258052663",
+      "path": "content/2026-10-14_x_yup-and-i-wish-anthropic-would-do-the.md",
+      "sha256": "81e3660e46ed0c60ead8220521ed459f30f02787012b4d62a7ff48238f887e73",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-15T07:53:59.000Z",
+      "id": "2110640313199141171",
+      "path": "content/2026-10-15_x_i-m-today-years-old-when-i-learned.md",
+      "sha256": "e111df6bc06c2c4f293f1e7fdd7b627a550f3efc14c7c4a82543d2a2e4ac30cb",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-15T00:34:31.000Z",
+      "id": "2110529718324002882",
+      "path": "content/2026-10-15_x_locally-people-have-bought-10k-rigs-to-run.md",
+      "sha256": "2b4d19140406d2b0ac54d0286c98ef3acf8334050c4993d895584acbf8c47c21",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-15T00:05:37.000Z",
+      "id": "2110522447644811489",
+      "path": "content/2026-10-15_x_our-kids-started-escaping-the-sandbox.md",
+      "sha256": "53843345326fd41ffdab4a3d416d9c56150ea14938b5c6037d4329a289563161",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-15T08:43:31.000Z",
+      "id": "2110652781522812948",
+      "path": "content/2026-10-15_x_right-and-a-reasoning-model-can-think-jev.md",
+      "sha256": "de600f455dffc274d54beeae8486aea50a987a50fad0e104ec1b556a390605a0",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-15T07:58:13.000Z",
+      "id": "2110641381102465428",
+      "path": "content/2026-10-15_x_right-but-i-can-see-many-use-cases.md",
+      "sha256": "3e7bcd25a88b1a5f7f83d428c3e8f1b9b5b2464091d0db6139d9bd5c892cb9f6",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-15T05:47:50.000Z",
+      "id": "2110608566847688707",
+      "path": "content/2026-10-15_x_so-far-in-tibos-28d-challenge-of-ship.md",
+      "sha256": "692f2906b193af39c9cbebcc92f01575fbec4d625722fe50a678b211718a4768",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-15T08:05:32.000Z",
+      "id": "2110643220019638516",
+      "path": "content/2026-10-15_x_so-fast-i-almost-thought-it-was-a.md",
+      "sha256": "e9cd15683a630c0d0588a163e7bdaa0aebf14f86528a8e42d612a32786944727",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-15T04:27:35.000Z",
+      "id": "2110588370619678957",
+      "path": "content/2026-10-15_x_solved-this-a-few-months-ago-with-firstmate.md",
+      "sha256": "a48fe709a16e7bd20ea3b1e57cc02fe0e50f221962684b1f738ded9fe80eab2a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-15T06:21:41.000Z",
+      "id": "2110617086183760248",
+      "path": "content/2026-10-15_x_theres-ultrafast.md",
+      "sha256": "db0ff3d176b68178ccd34a3b9ad75295802755cf300102f60133b10c3273fa9b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-15T02:43:40.000Z",
+      "id": "2110562222330319082",
+      "path": "content/2026-10-15_x_untitled.md",
+      "sha256": "446d43d2795a2bd1cb9a930a7b8847bae8c7963528bc6f1e4bb6180c67b8e874",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-14T10:18:50Z",
+  "updated_at": "2026-10-15T10:18:11Z",
   "version": 1
 }
