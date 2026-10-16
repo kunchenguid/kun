@@ -11369,6 +11369,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-15T19:55:58.000Z",
+      "id": "2110822008653296062",
+      "path": "content/2026-10-15_x_i-didnt-say-anything-that-implies-that-most.md",
+      "sha256": "e898431c10f0e64a7e812f0cecfe21f191ead0839dc6659777f31259a8665af2",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-15T07:53:59.000Z",
       "id": "2110640313199141171",
       "path": "content/2026-10-15_x_i-m-today-years-old-when-i-learned.md",
@@ -11376,10 +11383,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-15T23:20:51.000Z",
+      "id": "2110873569156837721",
+      "path": "content/2026-10-15_x_i-want-it-ultra-cheap-ultra-fast-native.md",
+      "sha256": "8cb4f6e77fe8698ef772485ec74dc89c74d045d3f3e14ed92a2722efbc9d39e3",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-15T18:43:17.000Z",
+      "id": "2110803715108294695",
+      "path": "content/2026-10-15_x_ive-been-bashing-on-software-is-dead-for.md",
+      "sha256": "d79560b9a608bb18f9c8a83612d6ad548c4487b2c9f1f0eb52d2a3304cfe667c",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-15T00:34:31.000Z",
       "id": "2110529718324002882",
       "path": "content/2026-10-15_x_locally-people-have-bought-10k-rigs-to-run.md",
       "sha256": "2b4d19140406d2b0ac54d0286c98ef3acf8334050c4993d895584acbf8c47c21",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-15T19:49:55.000Z",
+      "id": "2110820485777023061",
+      "path": "content/2026-10-15_x_operational-cost-still-has-to-be-paid-of.md",
+      "sha256": "1f3ec8b7732b79ee18d0cae766d52d2d9dab055fc12d973170800954f52b7027",
       "source": "x"
     },
     {
@@ -11425,10 +11453,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-15T20:22:22.000Z",
+      "id": "2110828651738812530",
+      "path": "content/2026-10-15_x_the-definition-of-a-developer-will-change-significantly.md",
+      "sha256": "f46d6541a9ffd88a62780fa862b87c92028eb5cd5656eeeef8bb82e99805fc5c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-15T20:01:48.000Z",
+      "id": "2110823475174846686",
+      "path": "content/2026-10-15_x_the-price-drop-and-value-shift-you-just.md",
+      "sha256": "5ac20affb3c9ecfcc91760605026ab171ec5c4a25081ba1f9b284a91ed34ff93",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-15T06:21:41.000Z",
       "id": "2110617086183760248",
       "path": "content/2026-10-15_x_theres-ultrafast.md",
       "sha256": "db0ff3d176b68178ccd34a3b9ad75295802755cf300102f60133b10c3273fa9b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-15T23:23:15.000Z",
+      "id": "2110874173182751207",
+      "path": "content/2026-10-15_x_under-3-minutes-this-is-more-of-a.md",
+      "sha256": "8f7d7aae58fb5588c6ce42ad0d8ab14c4f3a3977e4644248179d2c749ef55b65",
       "source": "x"
     },
     {
@@ -11437,8 +11486,57 @@
       "path": "content/2026-10-15_x_untitled.md",
       "sha256": "446d43d2795a2bd1cb9a930a7b8847bae8c7963528bc6f1e4bb6180c67b8e874",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-15T19:45:56.000Z",
+      "id": "2110819482394612095",
+      "path": "content/2026-10-15_x_untitled_94612095.md",
+      "sha256": "38ec3b826ddf2744be8633cf01394ad3f063472d347df2f155a34f769c622a43",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-15T22:08:21.000Z",
+      "id": "2110855323687014595",
+      "path": "content/2026-10-15_x_what-a-list.md",
+      "sha256": "032d421f700c5d78dcf235a3318436b47853fd9ab056b53d6a05d499d1de1f21",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-16T04:52:39.000Z",
+      "id": "2110957069126045843",
+      "path": "content/2026-10-16_x_good-info-wish-they-had-some-communication-on.md",
+      "sha256": "ba3d41681a963c4731728bdb3d4810dca0208780b1491f1f5029b234f3a5797b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-16T08:01:34.000Z",
+      "id": "2111004609011700097",
+      "path": "content/2026-10-16_x_how.md",
+      "sha256": "daca862cf3d36ddb7adfcbe0021f70037aad1f83742b0e1665f006bfc6c5d86f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-16T04:42:41.000Z",
+      "id": "2110954560739291430",
+      "path": "content/2026-10-16_x_i-did-say-this-was-only-part-1.md",
+      "sha256": "142d33fdcc1e5938f049f343fdc276e9b54ac63aa1b6dd6f94275199eb3aa753",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-16T07:25:19.000Z",
+      "id": "2110995487755218992",
+      "path": "content/2026-10-16_x_quite-a-rabbit-hole-haha-noted.md",
+      "sha256": "2f4733e339483d83e4e1cc6307c9e6ff31670749602d21c7650c084e6089ef90",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-16T04:41:43.000Z",
+      "id": "2110954317129961881",
+      "path": "content/2026-10-16_x_what-s-going-on-with-deepswe-official-chart.md",
+      "sha256": "d05122b862bff9739fe2d62f7c5a04f637553184fbe9d9ce3bb943588cc40699",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-15T10:18:11Z",
+  "updated_at": "2026-10-16T10:18:32Z",
   "version": 1
 }
