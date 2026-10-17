@@ -2034,7 +2034,7 @@
       "created_at": "2026-08-23T04:09:12.794Z",
       "id": "212348719",
       "path": "content/2026-08-23_substack_your-agents-md-is-a-neural-net.md",
-      "sha256": "4faf9e8d9de911c5463437a4ed9e24f428c1043733203c489c4638489b4e4e3f",
+      "sha256": "82fc3fffb8aa474fa6574ef16ba4eb3c872f3ecf963fb6d749004190045d3ddc",
       "source": "substack"
     },
     {
@@ -11502,6 +11502,20 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-16T18:48:00.000Z",
+      "id": "2111167292478521694",
+      "path": "content/2026-10-16_x_and-the-disconnect-between-the-hype-bubble-and.md",
+      "sha256": "ea8513a911ecfce07333e5ad6c7581211838d2c991c5439c8f6a7880b80a5e32",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-16T18:41:26.000Z",
+      "id": "2111165639402606742",
+      "path": "content/2026-10-16_x_bingo-thats-what-it-is.md",
+      "sha256": "e4b3e45df4bd78bcda5ef5b68dc7aa972a4625c0d1c73db320faf83c6912f943",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-16T04:52:39.000Z",
       "id": "2110957069126045843",
       "path": "content/2026-10-16_x_good-info-wish-they-had-some-communication-on.md",
@@ -11523,10 +11537,45 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-16T18:46:56.000Z",
+      "id": "2111167024097611824",
+      "path": "content/2026-10-16_x_i-have-not-seen-research-suggesting-that-yet.md",
+      "sha256": "124e828336167bdd052b44fda9760948bb4bb4e2e41cf56d20a6453d4d462d69",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-16T18:11:51.000Z",
+      "id": "2111158194773094877",
+      "path": "content/2026-10-16_x_if-you-missed-part-1-here-it-is.md",
+      "sha256": "831718f882fcfbeec70273366c13f309af7e3af44a50db700dc68f896beddae1",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-16T18:48:22.000Z",
+      "id": "2111167382484111853",
+      "path": "content/2026-10-16_x_part-2-is-here.md",
+      "sha256": "00032195e5832106465d9d10ce5fc71d11cf79a47e3360b49fb4b21f1e08f221",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-16T18:11:51.000Z",
+      "id": "2111158192931762335",
+      "path": "content/2026-10-16_x_part-2-of-software-is-taking-off-many.md",
+      "sha256": "ca99281a9a8d96b7313b2f0c10b6b1b678ad03d6a1d5c3019306c54c824c2e33",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-16T07:25:19.000Z",
       "id": "2110995487755218992",
       "path": "content/2026-10-16_x_quite-a-rabbit-hole-haha-noted.md",
       "sha256": "2f4733e339483d83e4e1cc6307c9e6ff31670749602d21c7650c084e6089ef90",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-16T19:56:58.000Z",
+      "id": "2111184646360989992",
+      "path": "content/2026-10-16_x_some-repricing-is-actually-pretty-healthy.md",
+      "sha256": "06fec2e8eb282914dfd74fbef12bf9ac94e5c4ff44a0e171a086caefe333c5d0",
       "source": "x"
     },
     {
@@ -11535,8 +11584,43 @@
       "path": "content/2026-10-16_x_what-s-going-on-with-deepswe-official-chart.md",
       "sha256": "d05122b862bff9739fe2d62f7c5a04f637553184fbe9d9ce3bb943588cc40699",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-17T00:52:29.000Z",
+      "id": "2111259018169868629",
+      "path": "content/2026-10-17_x_funny-thing-free-open-source-alternatives-for-those.md",
+      "sha256": "181095db4270c8227975c72d48dfa4ddd2cec3e51e7052b8dd221176761c317a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-17T05:12:42.000Z",
+      "id": "2111324502319935790",
+      "path": "content/2026-10-17_x_i-experienced-its-limitation-firsthand-biggest-problem-with.md",
+      "sha256": "62f403260443149b2667b0a596b51f5aec87fa773032fd9459087ab3ffa5d6da",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-17T02:10:50.000Z",
+      "id": "2111278732464074941",
+      "path": "content/2026-10-17_x_interesting-write-up-from-ceo-of-e2b-but.md",
+      "sha256": "d5842a23e11541734222fe119fb5fd884157e89635e85157368f633371b09083",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-17T04:51:53.000Z",
+      "id": "2111319261964910870",
+      "path": "content/2026-10-17_x_none-of-my-posts-in-this-series-so.md",
+      "sha256": "b1102e9efd98de3fbc3cd917d328393b26f83f5b8df959f9a69d1265c58feb8f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-17T04:32:55.000Z",
+      "id": "2111314488578449501",
+      "path": "content/2026-10-17_x_your-example-actually-argues-against-software-is-dead.md",
+      "sha256": "ff9b524c2b75b8a74dd2ceb706b6df34fda606ad40b9ed18e1b543308214cf5f",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-16T10:18:32Z",
+  "updated_at": "2026-10-17T10:20:56Z",
   "version": 1
 }
