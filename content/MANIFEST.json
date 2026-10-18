@@ -11586,10 +11586,24 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-17T21:31:43.000Z",
+      "id": "2111570878542827668",
+      "path": "content/2026-10-17_x_didnt-my-post-just-walked-through-the-durable.md",
+      "sha256": "9514a39ebd6575ae101d21e893550df61402540a54cdfdcefe0f8fbb76808dd6",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-17T00:52:29.000Z",
       "id": "2111259018169868629",
       "path": "content/2026-10-17_x_funny-thing-free-open-source-alternatives-for-those.md",
       "sha256": "181095db4270c8227975c72d48dfa4ddd2cec3e51e7052b8dd221176761c317a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-17T17:27:14.000Z",
+      "id": "2111509355153744032",
+      "path": "content/2026-10-17_x_haha-this-topic-is-so-hot-these-days.md",
+      "sha256": "63a6840ea3d0764e43cf03e561ec51dd8d5d785e5092365a3516261744e4d0b7",
       "source": "x"
     },
     {
@@ -11600,10 +11614,24 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-17T19:15:44.000Z",
+      "id": "2111536656591540383",
+      "path": "content/2026-10-17_x_if-you-missed-previous-parts-start-here.md",
+      "sha256": "e6837dc5dbcdd18fc2e7945879caded562d2131e2ebdbbfe2a49e1d2ab3547bb",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-17T02:10:50.000Z",
       "id": "2111278732464074941",
       "path": "content/2026-10-17_x_interesting-write-up-from-ceo-of-e2b-but.md",
       "sha256": "d5842a23e11541734222fe119fb5fd884157e89635e85157368f633371b09083",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-17T22:51:19.000Z",
+      "id": "2111590913499926612",
+      "path": "content/2026-10-17_x_mle-will-not-hold-long-either.md",
+      "sha256": "e9c49b426c46e334b775da93b9c1ec2ecf6d2f9ae2d8f3a4f280dbe7e268f0ed",
       "source": "x"
     },
     {
@@ -11614,13 +11642,69 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-17T21:05:52.000Z",
+      "id": "2111564374271992291",
+      "path": "content/2026-10-17_x_part-3-is-here.md",
+      "sha256": "48b6415aa88ddababd43b4420fd988ab99afc7cd227de465cb3b6e31bf65788c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-17T19:15:43.000Z",
+      "id": "2111536655442264387",
+      "path": "content/2026-10-17_x_part-3-of-software-is-taking-off-theres.md",
+      "sha256": "3be986b0fe7fc62239ce9284892cd6daa2eb1184d379c5ac9ccbe6fc927e84b4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-17T21:51:01.000Z",
+      "id": "2111575736482238515",
+      "path": "content/2026-10-17_x_tl-dr-read-the-whole-thing.md",
+      "sha256": "4d21fa10ceb8301665b95af03e2b2a309b0e998d0c4aa1a0cbb90f114ec85c6d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-17T19:47:11.000Z",
+      "id": "2111544573088677926",
+      "path": "content/2026-10-17_x_will-cover-that-in-another-part-of-this.md",
+      "sha256": "95e136e57c603cbc4ab6da195e57c34c6d1711527ec1342d246a0fa562456784",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-17T20:18:02.000Z",
+      "id": "2111552336661512328",
+      "path": "content/2026-10-17_x_you-are-still-thinking-software-code.md",
+      "sha256": "b2de8eaf82e2423145076fce5ca31bb76b25708015e5863463427befd162d29b",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-17T04:32:55.000Z",
       "id": "2111314488578449501",
       "path": "content/2026-10-17_x_your-example-actually-argues-against-software-is-dead.md",
       "sha256": "ff9b524c2b75b8a74dd2ceb706b6df34fda606ad40b9ed18e1b543308214cf5f",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-18T05:17:08.000Z",
+      "id": "2111688007501967646",
+      "path": "content/2026-10-18_x_imdb-9-4-holy-sh-t-i-m.md",
+      "sha256": "2318a946e4fcc1b2f0a5f5955599069647fa139f8b0c8f1e1f83880c15e79658",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-18T04:41:31.000Z",
+      "id": "2111679042277855473",
+      "path": "content/2026-10-18_x_there-is-a-way.md",
+      "sha256": "94e5b3f0a54f25a7ffec30e5ecdb508aae5e7135bf8c92977347f2105cfb102a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-18T04:17:27.000Z",
+      "id": "2111672985111470379",
+      "path": "content/2026-10-18_x_this-is-a-great-write-up-i-ve.md",
+      "sha256": "4da652c8bf9bcde0c44ab5a5aa7922be3a8799a39388ee7cd660d85afefd78ea",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-17T10:20:56Z",
+  "updated_at": "2026-10-18T10:14:09Z",
   "version": 1
 }

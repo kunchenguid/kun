@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-10-17_
-_Latest source window: X posts and replies from 2026-10-16 through 2026-10-17, public Substack refresh (0 new posts; 1 like-count refresh), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 12 new X items, 1 Substack refresh, and 0 YouTube items; the durable opinion updates folded part 2 of "software is taking off" (democratized tools make different, net-new things rather than replacing professional businesses) into the anti-"software is dead" map, added healthy repricing of captive B2B margins, and noted why linear chat breaks down as the interface to a many-topic orchestrator; VOICE unchanged beyond metadata (multi-exhibit hindsight posts, "rephrase it honestly" dunks, and reply rebuttals already captured)._
+_Last updated: 2026-10-18_
+_Latest source window: X posts and replies from 2026-10-17 through 2026-10-18, public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 12 new X items, 0 Substack items, and 0 YouTube items; the durable opinion updates folded part 3 of "software is taking off" ("software = code" is the misconception: networks, infrastructure, business models, compliance, and licensing are the value) into the anti-"software is dead" map and sharpened the career advice against falling in love with tools; VOICE unchanged beyond metadata (enumerated-mechanism rebuttals and series posts already captured)._
 
 ### Summary
 
