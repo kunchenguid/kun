@@ -221,7 +221,7 @@
       "created_at": "2026-08-01T17:39:50.765Z",
       "id": "209396564",
       "path": "content/2026-08-01_substack_kuns-pi-agent-config.md",
-      "sha256": "24ff1f341b8f45678d324344f9bfa837a011df1031c102bbe7171fc8866b6813",
+      "sha256": "11d6082697053d54dd4969ce84fcbe71adcfcb34b4afa757fc3c7e68bb6cf0a6",
       "source": "substack"
     },
     {
@@ -11684,6 +11684,48 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-18T15:27:59.000Z",
+      "id": "2111841732308668832",
+      "path": "content/2026-10-18_x_a-lot-of-the-shortcomings-we-are-seeing.md",
+      "sha256": "6531d1357c5c361649aea49f248a5892b7ff02090d14c816599a41c3b62fec92",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-18T19:12:04.000Z",
+      "id": "2111898125426389289",
+      "path": "content/2026-10-18_x_but-then-how-was-pi-ai-drawing-from.md",
+      "sha256": "c11c7ae90a496e22417e9be65dadc1e26871c8213898542b2f4ab66434ae5daa",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-18T19:09:12.000Z",
+      "id": "2111897403133657382",
+      "path": "content/2026-10-18_x_did-pi-ai-do-request-shaping-to-misrepresent.md",
+      "sha256": "631bcfb79722ac85bc9a5b6aa425f254863b3ed23ad19ecf1b154dd5ed16d9db",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-18T19:14:47.000Z",
+      "id": "2111898805356666958",
+      "path": "content/2026-10-18_x_did-you-have-a-proxy-or-something-by.md",
+      "sha256": "b80003e847f0188f7fa9ce15b7ad1a7c126ad3c106935f16c273d45ab18ea164",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-18T15:49:19.000Z",
+      "id": "2111847099390423098",
+      "path": "content/2026-10-18_x_i-think-the-profession-will-still-be-here.md",
+      "sha256": "0eafd7af3704bb510fec21919d56e987de029426549e9052b4d81750acab7039",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-18T15:46:27.000Z",
+      "id": "2111846378066559020",
+      "path": "content/2026-10-18_x_i-think-there-is-a-way-i-don.md",
+      "sha256": "2784fd426d77be91f3fd2bd36a2bb09404dd6a6c8770b70549d34587c563835e",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-18T05:17:08.000Z",
       "id": "2111688007501967646",
       "path": "content/2026-10-18_x_imdb-9-4-holy-sh-t-i-m.md",
@@ -11698,13 +11740,328 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-18T17:13:27.000Z",
+      "id": "2111868270693564636",
+      "path": "content/2026-10-18_x_there-s-already-a-ton-of-investment-in.md",
+      "sha256": "0b65a3eb2b48b6db0b5a7cfb23a09dde5c7747b8c7797013ad2f6b260b767fb9",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-18T04:17:27.000Z",
       "id": "2111672985111470379",
       "path": "content/2026-10-18_x_this-is-a-great-write-up-i-ve.md",
       "sha256": "4da652c8bf9bcde0c44ab5a5aa7922be3a8799a39388ee7cd660d85afefd78ea",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-18T19:06:13.000Z",
+      "id": "2111896651753554142",
+      "path": "content/2026-10-18_x_wut-is-pi-durable-calling-claude-agents-sdk.md",
+      "sha256": "2b1235f4d90055ebed731474967a8278d510eb111a733144c6144b66d1ca81e1",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-18T20:07:43.000Z",
+      "id": "2111912129737699553",
+      "path": "content/2026-10-18_x_yeah-that-s-my-hypothesis-for-how-it.md",
+      "sha256": "a3a6f30a30cd3634f909e1b7d2d83011beb4f67134688bd9c9bf8e73dc970da0",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-18T20:24:24.000Z",
+      "id": "2111916325694324948",
+      "path": "content/2026-10-18_x_yes-through-the-sdk-not-through-direct-api.md",
+      "sha256": "3f2b9f815ebbf5e0ff4ce9d31773f6f3934ed97467b9a510ce953d7d02e08b3e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-18T16:02:41.000Z",
+      "id": "2111850463348023389",
+      "path": "content/2026-10-18_x_yup-it-s-not-general-at-all-we.md",
+      "sha256": "6cc36870ba8bc331ec4ade9637084a7e2c7f26b68342f4444c42062e92e9e2b3",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T00:02:58.000Z",
+      "id": "2111971331659166157",
+      "path": "content/2026-10-19_x_agents-just-enabled-a-new-type-of-work.md",
+      "sha256": "7442d0a7c79469bef949e87f97bb1f554242b6c0849cac9182fb658ceb280f72",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T15:41:54.000Z",
+      "id": "2112207620274892937",
+      "path": "content/2026-10-19_x_bingo-if-the-training-tasks-need-to-run.md",
+      "sha256": "f365ad71a9a47f8118f7738a70962780321ed2ccf9433587260541fe78970b87",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T15:31:50.000Z",
+      "id": "2112205086135083113",
+      "path": "content/2026-10-19_x_exactly-time-to-post-train-a-model-that.md",
+      "sha256": "b7167ee6c53f53b07f56d1c1a09e9769b143bdf8dc1bb58f20d67af3afba8775",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T19:23:20.000Z",
+      "id": "2112263348935143738",
+      "path": "content/2026-10-19_x_have-you-checked-out-my-latest-high-throughput.md",
+      "sha256": "a6acf4c283cf81fbd0c723e095b8c3ec8c542acce033e545f04e05ec44155835",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T04:01:34.000Z",
+      "id": "2112031377868910887",
+      "path": "content/2026-10-19_x_hearthstone-until-11-04-then-it-ll-be.md",
+      "sha256": "8fe54e063fa874f45065a1158c00b6662d45aae7139ec709285e3123736dad20",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T18:30:00.000Z",
+      "id": "2112249924104646798",
+      "path": "content/2026-10-19_x_i-actually-do-auto-merge-in-some-of.md",
+      "sha256": "40034b4aea2a27f037027941a6d7845e8e99494ad11d3bdac7a977e8d20d59ef",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T00:13:01.000Z",
+      "id": "2111973860015047056",
+      "path": "content/2026-10-19_x_i-didn-t-have-to-workout-when-i.md",
+      "sha256": "9a8b24797c3798343fc9e8182004b34b86bbdd8a90a9fa981bf73c65922f10ea",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T22:18:37.000Z",
+      "id": "2112307458848997803",
+      "path": "content/2026-10-19_x_i-got-slightly-surprised-by-this-so-sharing.md",
+      "sha256": "fe6dd43d831a1a5f9ad1793a14f4195848a73b6a2ddf02f1b2e97ed0a4046b39",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T22:23:16.000Z",
+      "id": "2112308630511132836",
+      "path": "content/2026-10-19_x_i-tried-all-three-of-those-instinct-and.md",
+      "sha256": "34d7d1e9176c19bd2eb78db73742cc7e8e920fb5c33805e68e14b4fd12813988",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T22:40:24.000Z",
+      "id": "2112312940921815186",
+      "path": "content/2026-10-19_x_i-use-grok-bot-mainly-for-my-open.md",
+      "sha256": "6dc4ea6c4a6e91c365b19e0dcd0fbb489c39f33dc0c16ff3fcadacfb714a3a34",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T23:07:18.000Z",
+      "id": "2112319709312139534",
+      "path": "content/2026-10-19_x_i-went-for-the-unified-200-plan-but.md",
+      "sha256": "0f38cbceb38b7611e489b2df43230093270fca6964b32ac7426851f6f3e361ac",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T15:23:23.000Z",
+      "id": "2112202961862750604",
+      "path": "content/2026-10-19_x_ironically-llms-themselves-have-not-internalized-the-bitter.md",
+      "sha256": "6239c24fdf2467474a707c163a8b92505ac36a1f8a22a651ff02541501876171",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T18:21:50.000Z",
+      "id": "2112247870925795772",
+      "path": "content/2026-10-19_x_my-key-learning-is-that-we-should-not.md",
+      "sha256": "a482f10728a78a7374828d9a741fd030bf4b69ab21bb7bfc27a3eaf5874b9c0c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T22:41:45.000Z",
+      "id": "2112313281688051740",
+      "path": "content/2026-10-19_x_right-i-had-the-grandfathered-combo-earlier-but.md",
+      "sha256": "21d536248edefb722dd83137e838aae308a7ae11ed196b06e5dcc2f5c551989c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T15:23:59.000Z",
+      "id": "2112203112585032048",
+      "path": "content/2026-10-19_x_rt-s-lavish-axi-interactive-pages-with-parallel.md",
+      "sha256": "e571305093c7b113f41af37ddbb354791f8e1daddf74b8a1ecf982a70cdb0a97",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T18:10:46.000Z",
+      "id": "2112245086725841047",
+      "path": "content/2026-10-19_x_sharing-a-very-high-value-loop-i-run.md",
+      "sha256": "05341c873fb2f9e46bb599d91813d43082ec2a87f3596e13606d141fc03a0cda",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T18:42:11.000Z",
+      "id": "2112252991122407771",
+      "path": "content/2026-10-19_x_smarter-test-selection-to-speed-up-test-suite.md",
+      "sha256": "be78cdb4cb8760fa431971a209d36a245ca117bc2d372f207d92227ebd19d994",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T22:46:04.000Z",
+      "id": "2112314367811424657",
+      "path": "content/2026-10-19_x_sounds-cool-where-is-it-i-cant-find.md",
+      "sha256": "70b2aeb28947d10c3b8fdb212b72151af822041136a8e75b63a8f3aba7d2dbac",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T04:39:19.000Z",
+      "id": "2112040874922397934",
+      "path": "content/2026-10-19_x_that-s-a-problem-for-11-04-haha.md",
+      "sha256": "ba32210e758e2e36820c25ad40d1d50aecadb18f645e9376f0744c359203e4f6",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T00:34:31.000Z",
+      "id": "2111979271065686519",
+      "path": "content/2026-10-19_x_the-ultimate-loop-engineering-is-when-our-life.md",
+      "sha256": "e30f5c1e885a3d12a61472b0ed615e61684361fa76cba0bf52fc8601d163b4de",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T19:17:16.000Z",
+      "id": "2112261818320347454",
+      "path": "content/2026-10-19_x_this-loop-can-be-used-with-or-without.md",
+      "sha256": "eb9bbb48ee59e9321ba6560b26f8c2d93c03b68d9fcf421a639807fcc14d3d86",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T23:07:55.000Z",
+      "id": "2112319863926726742",
+      "path": "content/2026-10-19_x_untitled.md",
+      "sha256": "639689530b09c2f5b04895cf6868fdec328acd585abe6d3b9234bffc0b7f71d1",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T23:08:03.000Z",
+      "id": "2112319900106772926",
+      "path": "content/2026-10-19_x_untitled_06772926.md",
+      "sha256": "abda29d99fa1d538d2538ccca9c6920221b0f518b08a3095a6e85bcb2c8e93fe",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-19T18:29:08.000Z",
+      "id": "2112249707573702748",
+      "path": "content/2026-10-19_x_yeah-its-incredible-how-much-this-improved-my.md",
+      "sha256": "77b75a06d17c8d211bedfea35e3a89d97a2871aebdcf0dd1d3f0b99ee96cfa95",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T00:58:18.000Z",
+      "id": "2112347641950687315",
+      "path": "content/2026-10-20_x_can-probably-ask-to-do-the-math.md",
+      "sha256": "848a11752da69d68aaf07ebd8e9254bc4bc21fdd57f0415329accdb28e5fb167",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T04:32:15.000Z",
+      "id": "2112401486881935486",
+      "path": "content/2026-10-20_x_do-you-have-a-chief-of-chief-of.md",
+      "sha256": "3884c9832ba19c39e31f6424db72e4e28677d5310dfd6403e38cfb85e897aadb",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T03:40:37.000Z",
+      "id": "2112388492701692215",
+      "path": "content/2026-10-20_x_for-ordering-grocery-and-stuff-i-feel-like.md",
+      "sha256": "799458e469f020cbc3c5adc409b7ff5556b2835cbb8f147739350b9fafea96ec",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T00:13:49.000Z",
+      "id": "2112336449173610700",
+      "path": "content/2026-10-20_x_i-keep-the-local-one-and-the-grok.md",
+      "sha256": "85792446c09ad2056f69642f8ae075a2cb0df4b1fb1459453f8a1c175aef974d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T02:42:49.000Z",
+      "id": "2112373946872189253",
+      "path": "content/2026-10-20_x_interesting-so-it-s-no-added-value-compared.md",
+      "sha256": "e652a770404d1bbc92d0a31a38528965108f4aee5f759b4352795e0f35e26ac9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T05:45:23.000Z",
+      "id": "2112419889793433639",
+      "path": "content/2026-10-20_x_lol-if-i-can-influence-sales-numbers-i.md",
+      "sha256": "4c9a61939a0dcab26df95d4dd89c95f37ad6fc07478ecce0d92f987d69454bd7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T05:25:43.000Z",
+      "id": "2112414941970145509",
+      "path": "content/2026-10-20_x_more-and-more-products-are-straight-blocking-access.md",
+      "sha256": "21b6f8ceb8b1798c6f9869ea8cd3900b87d6349bf9a0cd616df0409459767a1c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T03:51:16.000Z",
+      "id": "2112391171595235819",
+      "path": "content/2026-10-20_x_similar-experience-and-i-feel-like-that-s.md",
+      "sha256": "263c6da5b5fde06d8d216da43d7a05af1022d0f5de94b1e73e3145d3262f7c9b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T02:36:55.000Z",
+      "id": "2112372460125569207",
+      "path": "content/2026-10-20_x_something-i-m-very-curious-about-if-you.md",
+      "sha256": "80361a9f74a9ccae74b93f5bcc9f7f82d4b8cea0f87d979a25bc365d88c772fe",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T01:14:19.000Z",
+      "id": "2112351673746370984",
+      "path": "content/2026-10-20_x_something-transient-there.md",
+      "sha256": "b4fc549eabbed00d5a1daa9fdf23d0819df5e69afb19079c0569ab7006bdebcc",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T05:28:38.000Z",
+      "id": "2112415675948114401",
+      "path": "content/2026-10-20_x_there-are-known-ranges.md",
+      "sha256": "c9785040b0b6bef96df4ec4a5d0c6d1a5db5dae09ee065cbed1d15f766f9b77b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T03:04:03.000Z",
+      "id": "2112379291799527758",
+      "path": "content/2026-10-20_x_this-resonates-a-lot-i-definitely-agree-shareable.md",
+      "sha256": "892854181afea709cdb01fceb49e805eac988a463c75c6b532759425c68af4f8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T02:57:51.000Z",
+      "id": "2112377729681338624",
+      "path": "content/2026-10-20_x_this-seems-like-a-common-concern.md",
+      "sha256": "458e5dedfce925c9d953833f238b3a30197acfd9e4d11da04483f497f84fc454",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T01:40:45.000Z",
+      "id": "2112358325400801779",
+      "path": "content/2026-10-20_x_untitled.md",
+      "sha256": "0aa3b99eaac8c171101a8e6dcca63bc9b6fa72af3db0354c214a06588963ea8f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T02:50:56.000Z",
+      "id": "2112375987715613111",
+      "path": "content/2026-10-20_x_very-true-vendor-lock-in-risk-is-real.md",
+      "sha256": "386a3af5cba65668b330c2f9c5dc097246c8e9ab9fc7d3ecd051e34dfecfd124",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T03:05:08.000Z",
+      "id": "2112379563775058196",
+      "path": "content/2026-10-20_x_your-x-premium-sub-should-have-already-given.md",
+      "sha256": "b3c81cf87354925eec24e64a9fa11b62d11035c83de956820f1d5f26d006e0ba",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-18T10:14:09Z",
+  "updated_at": "2026-10-20T10:15:00Z",
   "version": 1
 }

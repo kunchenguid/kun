@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-10-18_
-_Latest source window: X posts and replies from 2026-10-17 through 2026-10-18, public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 12 new X items, 0 Substack items, and 0 YouTube items; the durable opinion updates folded part 3 of "software is taking off" ("software = code" is the misconception: networks, infrastructure, business models, compliance, and licensing are the value) into the anti-"software is dead" map and sharpened the career advice against falling in love with tools; VOICE unchanged beyond metadata (enumerated-mechanism rebuttals and series posts already captured)._
+_Last updated: 2026-10-20_
+_Latest source window: X posts and replies from 2026-10-18 through 2026-10-20, public Substack refresh (0 new posts; 1 like-count refresh), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 51 new X items, 1 Substack item (like-count only), and 0 YouTube items; the durable opinion updates added the post-training explanation for weak default agent code (task-level RLVR rewards, sequential same-branch training hypothesis, and models that hard-code logic instead of prompting), plus a daily self-audit loop example and residential IPs as a possible human signal; VOICE unchanged beyond metadata (question-chain diagnosis posts and brief workflow self-own jokes already captured)._
 
 ### Summary
 
