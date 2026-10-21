@@ -11950,6 +11950,20 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-20T19:44:26.000Z",
+      "id": "2112631044591780227",
+      "path": "content/2026-10-20_x_a-lot-less-humans-needed-for-the-same.md",
+      "sha256": "0f3e0364b45fcb9176b3eeffc2a8e13984ace5aec17edd8adbc9c0a067ce1193",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T22:02:32.000Z",
+      "id": "2112665798296912317",
+      "path": "content/2026-10-20_x_agreed-i-miss-all-my-days-in-neovim.md",
+      "sha256": "36a94f5777e41d92f803c7ce230cf1832d3c1c648490a773e2e3970704391416",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-20T00:58:18.000Z",
       "id": "2112347641950687315",
       "path": "content/2026-10-20_x_can-probably-ask-to-do-the-math.md",
@@ -11971,10 +11985,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-20T21:07:25.000Z",
+      "id": "2112651927049970058",
+      "path": "content/2026-10-20_x_i-just-discovered-my-9y-old-son-and.md",
+      "sha256": "8ae7cf82601e87ea3df19ac82dfca2317051906c402219a879c4e560d1d1628a",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-20T00:13:49.000Z",
       "id": "2112336449173610700",
       "path": "content/2026-10-20_x_i-keep-the-local-one-and-the-grok.md",
       "sha256": "85792446c09ad2056f69642f8ae075a2cb0df4b1fb1459453f8a1c175aef974d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T19:20:59.000Z",
+      "id": "2112625142979576250",
+      "path": "content/2026-10-20_x_if-you-missed-previous-parts-start-here.md",
+      "sha256": "7896b05ab3b06df3a06b2b94bd132bc4db57a6b291c4cb434952a3abe239c049",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T20:22:57.000Z",
+      "id": "2112640739750617114",
+      "path": "content/2026-10-20_x_interesting-model-from-my-experience-though-i-think.md",
+      "sha256": "adda82a835c12411ce595b19cf85779b8c40bc3af8df6217fb0c943c80c00f0d",
       "source": "x"
     },
     {
@@ -11996,6 +12031,34 @@
       "id": "2112414941970145509",
       "path": "content/2026-10-20_x_more-and-more-products-are-straight-blocking-access.md",
       "sha256": "21b6f8ceb8b1798c6f9869ea8cd3900b87d6349bf9a0cd616df0409459767a1c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T19:20:59.000Z",
+      "id": "2112625144434983336",
+      "path": "content/2026-10-20_x_my-explanation-for-why-writing-good-code-will.md",
+      "sha256": "c76f7401cf21a52a8fbccae1d3b0b833e2c6eb73c7570c9636e1885a8102c7a8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T19:59:43.000Z",
+      "id": "2112634890906984807",
+      "path": "content/2026-10-20_x_my-operating-assumption-is-for-every-x-amount.md",
+      "sha256": "f02371d04467f92bd127d9633df6dceaa1780bc1270a7ea803ffb3abc2f5b040",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T19:20:58.000Z",
+      "id": "2112625141209514289",
+      "path": "content/2026-10-20_x_part-4-of-software-is-taking-off-through.md",
+      "sha256": "d9ea4aa0a68cb3e9c41a8892ff128d440f4a619e11fbc6722cedeb6c575286aa",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T21:43:23.000Z",
+      "id": "2112660979456852276",
+      "path": "content/2026-10-20_x_right-this-is-presenting-some-really-interesting-questions.md",
+      "sha256": "1924e0e18573c5ae5ae11235998d826954be486f52ba67c65782085b8ea02656",
       "source": "x"
     },
     {
@@ -12027,6 +12090,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-20T22:04:51.000Z",
+      "id": "2112666380323676266",
+      "path": "content/2026-10-20_x_these-are-artifacts-of-llm-post-training-fighting.md",
+      "sha256": "d33f22c17921421b7bcd4ee5bbfc9f900125837912ba2b1635cf27dad9ed345b",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-20T03:04:03.000Z",
       "id": "2112379291799527758",
       "path": "content/2026-10-20_x_this-resonates-a-lot-i-definitely-agree-shareable.md",
@@ -12048,10 +12118,38 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-20T19:36:08.000Z",
+      "id": "2112628954129691013",
+      "path": "content/2026-10-20_x_very-likely-i-think-many-specialized-roles-will.md",
+      "sha256": "9e90840489a6df26565430ee7b5d97d0a1cf4766e8354bfe585a019d3f205b71",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-20T02:50:56.000Z",
       "id": "2112375987715613111",
       "path": "content/2026-10-20_x_very-true-vendor-lock-in-risk-is-real.md",
       "sha256": "386a3af5cba65668b330c2f9c5dc097246c8e9ab9fc7d3ecd051e34dfecfd124",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T21:30:30.000Z",
+      "id": "2112657739323453876",
+      "path": "content/2026-10-20_x_we-honestly-have-no-idea-how-it-ll.md",
+      "sha256": "2c49e87e18a15c47fc2be31b1ea72f6c96541df997fa709f2125142a43be6555",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T22:07:17.000Z",
+      "id": "2112666993057013764",
+      "path": "content/2026-10-20_x_where-do-you-think-the-sentiment-originate-from.md",
+      "sha256": "1153fe428040a36c8740683216f8d2524f8d866d775a368b5b068534d6452d72",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-20T21:33:19.000Z",
+      "id": "2112658445426176149",
+      "path": "content/2026-10-20_x_wow-seeing-multiple-comments-saying-this-looks-like.md",
+      "sha256": "fad413abd46f786e5a7fbdafb4bf6539006fecb9ba2c3a10cacde60bf87a2e1d",
       "source": "x"
     },
     {
@@ -12060,8 +12158,92 @@
       "path": "content/2026-10-20_x_your-x-premium-sub-should-have-already-given.md",
       "sha256": "b3c81cf87354925eec24e64a9fa11b62d11035c83de956820f1d5f26d006e0ba",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T04:24:10.000Z",
+      "id": "2112761840044548172",
+      "path": "content/2026-10-21_x_derek-was-my-former-manager-vp-of-eng.md",
+      "sha256": "f85346f1fe50fb89e117d110115dd7213267bf88e1897742271a450de8d00f7b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T01:33:22.000Z",
+      "id": "2112718856594796624",
+      "path": "content/2026-10-21_x_heres-the-chart-for-wall-time-again-grok.md",
+      "sha256": "230f368496a3b8bdba28386eae651e160fb16927bebf2e6431d0d30f08418cf4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T03:10:53.000Z",
+      "id": "2112743398683877581",
+      "path": "content/2026-10-21_x_i-mean-it-s-still-a-cache-miss.md",
+      "sha256": "f0aacf962d8fa6a2eed3965199c03ad22bd3e00b5e9d33f19fa9395eabd258ed",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T01:17:33.000Z",
+      "id": "2112714875264979449",
+      "path": "content/2026-10-21_x_interesting-data-from-my-most-recent-2000-real.md",
+      "sha256": "4ecc67dc777ad5e5d60f85471584cd11b41851d10b73dfaf76e1007b9717858e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T01:33:37.000Z",
+      "id": "2112718918343352482",
+      "path": "content/2026-10-21_x_posted-wall-time-chart-here.md",
+      "sha256": "508a7fde52028ac5810c669ec54eaf2b2bab692686783fd0621940d9b5a1569a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T01:37:11.000Z",
+      "id": "2112719817115574285",
+      "path": "content/2026-10-21_x_they-are-pretty-meaty-specs-i-do-have.md",
+      "sha256": "6e4f967ed0f0ebae1a0d5d22ae40eec467c6357cdef664c96babafedfe656c46",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T02:55:29.000Z",
+      "id": "2112739524036149506",
+      "path": "content/2026-10-21_x_wait-what-permanent-prompt-caching-for-subscription-users.md",
+      "sha256": "0ae13294a2c5f2d654ff43efb980662f720e3526a94efbf1fb8806d1b1cc8e69",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T05:15:49.000Z",
+      "id": "2112774838129713179",
+      "path": "content/2026-10-21_x_we-worked-together-on-content-verticals-like-microsoft.md",
+      "sha256": "0a292ebef2e59ad9b7269c9af654494b3a6f26eb4810d794feef414080216bfe",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T02:57:31.000Z",
+      "id": "2112740034562736261",
+      "path": "content/2026-10-21_x_within-each-type-of-task-they-are-routed.md",
+      "sha256": "7eefcef38f55aed2a9b4c6c716e59648ddbaf29e2625d096586bdb419e0f5080",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T02:58:53.000Z",
+      "id": "2112740377124069708",
+      "path": "content/2026-10-21_x_yeah-when-the-spec-is-already-well-defined.md",
+      "sha256": "c43b0d2dd2cc6c08cf3afce8a342603fb6403189e217b40a1b72cae9a858832d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T00:25:22.000Z",
+      "id": "2112701743939342633",
+      "path": "content/2026-10-21_x_you-may-be-dismissing-it-too-fast-if.md",
+      "sha256": "2357fd264f437b0cb3b0bb6e733aad61e3433fa94431091f92f15b4505b891b9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T04:38:20.000Z",
+      "id": "2112765403449676119",
+      "path": "content/2026-10-21_x_yup.md",
+      "sha256": "5a33ccea8cd7f300beba696ebcf2b5c445591a1c5bb8a1cab63c2e0e1b478555",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-20T10:15:00Z",
+  "updated_at": "2026-10-21T10:14:22Z",
   "version": 1
 }
