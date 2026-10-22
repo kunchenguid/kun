@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-10-21_
-_Latest source window: X posts and replies from 2026-10-20 through 2026-10-21, public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 26 new X items, 0 Substack items, and 0 YouTube items; the durable opinion updates tightened the software-engineering-profession view (solving problems with software, "writing very good code" fading within 1-3 years), added a compute-times-human-attention labor model to AI reallocation, and noted preferring validation over fighting cosmetic post-training artifacts; VOICE unchanged beyond metadata (personal-anecdote argument posts and data-chart replies already captured)._
+_Last updated: 2026-10-22_
+_Latest source window: X posts and replies from 2026-10-21 through 2026-10-22, public Substack refresh (0 new posts, 1 metadata-only refresh), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 18 new X items, 1 Substack metadata refresh, and 0 YouTube items; the durable opinion updates extended career resilience with the relay-messages-to-agents trap (build agents or skills and remove yourself from the loop) and added a need-plus-trust explanation for personal-agent non-adoption; VOICE unchanged beyond metadata (advice posts with a short punchy closer and poll-result follow-up questions already captured)._
 
 ### Summary
 

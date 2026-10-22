@@ -2034,7 +2034,7 @@
       "created_at": "2026-08-23T04:09:12.794Z",
       "id": "212348719",
       "path": "content/2026-08-23_substack_your-agents-md-is-a-neural-net.md",
-      "sha256": "82fc3fffb8aa474fa6574ef16ba4eb3c872f3ecf963fb6d749004190045d3ddc",
+      "sha256": "4fc433d1cb04031d381c363ee46bbbdd0afd2dc90c9d003316e7214acd39f728",
       "source": "substack"
     },
     {
@@ -12181,10 +12181,59 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-21T20:21:46.000Z",
+      "id": "2113002826716877278",
+      "path": "content/2026-10-21_x_i-thought-dots-runs-astra.md",
+      "sha256": "7726401aeb19f8b561b53ccec25a452b760fc9178c1c3e814a8ea449e0e58751",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T23:57:34.000Z",
+      "id": "2113057135873712546",
+      "path": "content/2026-10-21_x_in-order-to-be-proactive-it-needs-to.md",
+      "sha256": "14636880403102ccab9791e3a30fdb08b0f73e3a7f35c983998ff4e2be320e53",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-21T01:17:33.000Z",
       "id": "2112714875264979449",
       "path": "content/2026-10-21_x_interesting-data-from-my-most-recent-2000-real.md",
       "sha256": "4ecc67dc777ad5e5d60f85471584cd11b41851d10b73dfaf76e1007b9717858e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T19:09:34.000Z",
+      "id": "2112984659953152284",
+      "path": "content/2026-10-21_x_interesting-read-walking-through-a-practical-example-of.md",
+      "sha256": "d597999b27552f717282d21b5ddcc31449a79674b0fa67c3eebac819b59fc575",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T19:40:40.000Z",
+      "id": "2112992485823914355",
+      "path": "content/2026-10-21_x_it-s-interesting-how-anthropic-has-the-best.md",
+      "sha256": "fee60970894cd401ea631cf88c6aef5354bf0b64b708b4fa0bdf22780a45aaaa",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T19:46:09.000Z",
+      "id": "2112993863132643810",
+      "path": "content/2026-10-21_x_oh-why.md",
+      "sha256": "4c9e26f80c6e3667b38f2d4ec243a63e34cae189ecf146cad88730465437f70e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T19:47:11.000Z",
+      "id": "2112994122571391135",
+      "path": "content/2026-10-21_x_other-companies-bots-can-use-that-too-grok.md",
+      "sha256": "76a16782b3b7e67518a949b09a576b37ad64af0ef81ccec2433e0dc59d7ab47e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T23:39:23.000Z",
+      "id": "2113052559397245146",
+      "path": "content/2026-10-21_x_poll-result-on-why-people-havent-adopted-personal.md",
+      "sha256": "bbb3eec86848bac3780ea29abab12efbeca593738f1b6e95372d23df6bf48a3b",
       "source": "x"
     },
     {
@@ -12195,10 +12244,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-21T18:12:46.000Z",
+      "id": "2112970364968112470",
+      "path": "content/2026-10-21_x_rt-tripwire-i-built-a-security-watcher-grok.md",
+      "sha256": "61046471262f92f7ba82452c9d0cdeb2588b2aaef56218a349d6d6b01a8fa055",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-21T01:37:11.000Z",
       "id": "2112719817115574285",
       "path": "content/2026-10-21_x_they-are-pretty-meaty-specs-i-do-have.md",
       "sha256": "6e4f967ed0f0ebae1a0d5d22ae40eec467c6357cdef664c96babafedfe656c46",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T19:15:19.000Z",
+      "id": "2112986106153365562",
+      "path": "content/2026-10-21_x_untitled.md",
+      "sha256": "90feaa3cc875c945b09965e1e8f25dd9ae87ffe2d238c453f4988be127772df1",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-21T18:13:21.000Z",
+      "id": "2112970510858621321",
+      "path": "content/2026-10-21_x_very-useful-at-a-time-when-everything-s.md",
+      "sha256": "b9b132170ba687a194ab7e60f418ab3b7f442091370a00b77d7a1069a2a4f502",
       "source": "x"
     },
     {
@@ -12242,8 +12312,64 @@
       "path": "content/2026-10-21_x_yup.md",
       "sha256": "5a33ccea8cd7f300beba696ebcf2b5c445591a1c5bb8a1cab63c2e0e1b478555",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-22T02:43:00.000Z",
+      "id": "2113098767050355047",
+      "path": "content/2026-10-22_x_absolutely-bonkers-for-a-company-whose-job-is.md",
+      "sha256": "1fa40cff19ea9c93b3901fc7da3c028a5a34f64abd406bc9f77041e38218c2d3",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-22T04:20:47.000Z",
+      "id": "2113123377674387940",
+      "path": "content/2026-10-22_x_be-very-careful-if-you-find-yourself-simply.md",
+      "sha256": "4bc92d6b14ed29b9e3537c8b25558f543a838c75d1ef7ab33ea1c1e6266fb43b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-22T00:39:05.000Z",
+      "id": "2113067582429487198",
+      "path": "content/2026-10-22_x_good-analysis.md",
+      "sha256": "247fb33581fc118b75f0c4a40c290fb7bdcd5d2695a408e47fb76d3b2ceb1ac4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-22T02:35:10.000Z",
+      "id": "2113096796960612525",
+      "path": "content/2026-10-22_x_haha-you-know-the-culture-well.md",
+      "sha256": "a2d9196108a4b57917ef16ffe7105c75785e561109f60867836ec2d528065025",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-22T04:46:02.000Z",
+      "id": "2113129728882405887",
+      "path": "content/2026-10-22_x_i-don-t-recommend-being-that-meat-proxy.md",
+      "sha256": "e714293070ea66c77d16b69bb5bbd698dde9c88a7e2f042fdc9e18df7070d05a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-22T02:34:25.000Z",
+      "id": "2113096609655590979",
+      "path": "content/2026-10-22_x_i-think-most-of-the-keys-were-just.md",
+      "sha256": "cc9585e86648d7d304ac448186a9e185164bf9f694c521543ceb671349551dc5",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-22T02:23:55.000Z",
+      "id": "2113093967135072373",
+      "path": "content/2026-10-22_x_see-if-emudhra-was-chinese-they-would-never.md",
+      "sha256": "4ad625c07d44e00eef9c2883ac500c7ab8ca9309eae8ea2db0839b4e32c2c505",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-22T05:33:49.000Z",
+      "id": "2113141755562676658",
+      "path": "content/2026-10-22_x_that-s-a-good-thing-seriously-you-ll.md",
+      "sha256": "7b98cb7c8c0c3263aca4d2608e3805421471287b9b4887a217eb91a5b67b9fa1",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-21T10:14:22Z",
+  "updated_at": "2026-10-22T10:18:26Z",
   "version": 1
 }
