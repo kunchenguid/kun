@@ -12368,8 +12368,106 @@
       "path": "content/2026-10-22_x_that-s-a-good-thing-seriously-you-ll.md",
       "sha256": "7b98cb7c8c0c3263aca4d2608e3805421471287b9b4887a217eb91a5b67b9fa1",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-23T04:43:29.000Z",
+      "id": "2113491478215623120",
+      "path": "content/2026-10-23_x_fleet-learning-compounds.md",
+      "sha256": "3d903fa0c3931dfcf61f5ffb34b1990fe4ed0fce3ef107eddcd5dcaa7d852f37",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-23T04:41:59.000Z",
+      "id": "2113491098714952083",
+      "path": "content/2026-10-23_x_gotta-make-a-clean-screenshot.md",
+      "sha256": "e28c6c7076d8fe9c68992657ce800bf2274921a8dd43df56e1c26e314467ea53",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-23T04:39:16.000Z",
+      "id": "2113490414867263590",
+      "path": "content/2026-10-23_x_i-believe-omp-works-already-haven-t-looked.md",
+      "sha256": "3ed2b8e352480fb2ab3d135ee03306982d425d7549c191863c2ba38731164e4b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-23T04:48:21.000Z",
+      "id": "2113492699626291639",
+      "path": "content/2026-10-23_x_i-can-piece-together-pretty-much-everything-myself.md",
+      "sha256": "96e8b3cb24c61c57538dafed22270f675959990ad158b912af18faeef9600aa4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-23T04:32:26.000Z",
+      "id": "2113488697178141083",
+      "path": "content/2026-10-23_x_i-just-got-into-rex-beta-so-firstmate.md",
+      "sha256": "78bc98dc32aaf1a4a0d8f4cfae37dabfa69ffe4b265a6d7655248ef1f6792492",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-23T04:45:26.000Z",
+      "id": "2113491969582481613",
+      "path": "content/2026-10-23_x_i-like-it-so-far-very-performant-and.md",
+      "sha256": "475e99b620fbd924ffeba49825c10bcf2c8b1f091767885b6a7ad43d750b9dea",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-23T08:34:04.000Z",
+      "id": "2113549503269851247",
+      "path": "content/2026-10-23_x_keen-to-hear-how-it-goes.md",
+      "sha256": "6c22d7269e4d210a6c1e134a37ab6344cc59de6a092c28ff41547514dd8cb569",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-23T08:33:16.000Z",
+      "id": "2113549302807330947",
+      "path": "content/2026-10-23_x_not-exactly-because-it-doesn-t-have-the.md",
+      "sha256": "ec68f468efb9aa023567dcc161167d0a76c8f38eb409d4560ee204a57d618f55",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-23T06:26:10.000Z",
+      "id": "2113517316231352327",
+      "path": "content/2026-10-23_x_thats-ahoy.md",
+      "sha256": "a3c818e2fa3e3696433775b20661611f8fbb24287d8ae55c30979641b785fd11",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-23T04:42:26.000Z",
+      "id": "2113491213114565012",
+      "path": "content/2026-10-23_x_untitled.md",
+      "sha256": "2b9c87a66abd4a391df8a4704155d324f6f2469d1ca198408eb421270c905ade",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-23T05:01:51.000Z",
+      "id": "2113496098321142027",
+      "path": "content/2026-10-23_x_untitled_21142027.md",
+      "sha256": "c6353909fce3f96fda8dada0db0dac81c09d565f06127b6dc164b8d7231f165e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-23T07:39:40.000Z",
+      "id": "2113535815133561271",
+      "path": "content/2026-10-23_x_when-my-firstmate-grok-bot-orchestrates-work-through.md",
+      "sha256": "2ba0c53383a1da77181a0ad49342ff7e1cf35df106addaffeb147562a89d4803",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-23T08:27:01.000Z",
+      "id": "2113547731793055776",
+      "path": "content/2026-10-23_x_yeah-i-use-grok-bot-mostly-for-automation.md",
+      "sha256": "84378997533c6c9b2633fcaae700d8de58e9d966010f5a0ed7a8ef59df781e9a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-23T07:53:03.000Z",
+      "id": "2113539182941638885",
+      "path": "content/2026-10-23_x_yes-and-that-comes-for-free-because-grok.md",
+      "sha256": "27e46eb87d8af6e42d658b8950db4e7bcdd5f909cfaedcb69458dce4fc03590e",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-22T10:18:26Z",
+  "updated_at": "2026-10-23T10:15:13Z",
   "version": 1
 }

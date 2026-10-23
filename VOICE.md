@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-10-22_
-_Latest source window: X posts and replies from 2026-10-21 through 2026-10-22, public Substack refresh (0 new posts, 1 metadata-only refresh), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 18 new X items, 1 Substack metadata refresh, and 0 YouTube items; the durable opinion updates extended career resilience with the relay-messages-to-agents trap (build agents or skills and remove yourself from the loop) and added a need-plus-trust explanation for personal-agent non-adoption; VOICE unchanged beyond metadata (advice posts with a short punchy closer and poll-result follow-up questions already captured)._
+_Last updated: 2026-10-23_
+_Latest source window: X posts and replies from 2026-10-22 through 2026-10-23, public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 14 new X items, 0 Substack items, and 0 YouTube items; the durable opinion updates added orchestrator-driven instruction improvement for crew agents (fleet learning compounds) and a preference for one cohesive terminal, multiplexer, and session-management tool over a stitched-together stack; VOICE unchanged beyond metadata (launch posts with plain feature lists and terse reply quips already captured)._
 
 ### Summary
 
