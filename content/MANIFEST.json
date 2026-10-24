@@ -12433,6 +12433,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-23T23:25:07.000Z",
+      "id": "2113773744925921289",
+      "path": "content/2026-10-23_x_totally-agree-minimizing-human-attention-is-the-key.md",
+      "sha256": "2c4aab8c40440ba55959067f83e12d3f9fd4039c0085ccc4299a30882fa64d35",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-23T04:42:26.000Z",
       "id": "2113491213114565012",
       "path": "content/2026-10-23_x_untitled.md",
@@ -12466,8 +12473,78 @@
       "path": "content/2026-10-23_x_yes-and-that-comes-for-free-because-grok.md",
       "sha256": "27e46eb87d8af6e42d658b8950db4e7bcdd5f909cfaedcb69458dce4fc03590e",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-23T16:05:05.000Z",
+      "id": "2113663008350347412",
+      "path": "content/2026-10-23_x_yes-theres-an-export-button-in-the-top.md",
+      "sha256": "1cb4e1a5d140289d73292c9a7934b1d0d2fc1817c0c610bf28874f20bc7e06c5",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-24T04:55:13.000Z",
+      "id": "2113856816954400810",
+      "path": "content/2026-10-24_x_deep.md",
+      "sha256": "850b42e01e0406d437c383d7280baf9ed2b22f6ded9b1ff3eefb1ba04448451d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-24T00:18:20.000Z",
+      "id": "2113787138944942239",
+      "path": "content/2026-10-24_x_gnhf-has-a-lot-of-knobs-for-budget.md",
+      "sha256": "4b6f11335537685deb9d26ff22087ae823d6ebc366077a6f22cf828f045c0c71",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-24T04:50:27.000Z",
+      "id": "2113855619421892660",
+      "path": "content/2026-10-24_x_i-just-realized-the-book-three-body-problem.md",
+      "sha256": "da98618615437e063b5d7de628cae7715ec691c854a5aea6c0e3b1ff5aa68447",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-24T06:06:33.000Z",
+      "id": "2113874770441928745",
+      "path": "content/2026-10-24_x_isnt-it-another-extreme-though-essentially-its-a.md",
+      "sha256": "e90da7fbc21613d9d7cff08cd8ca5758790ccf5287d18aa92413e870a4c34877",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-24T04:15:18.000Z",
+      "id": "2113846773991285208",
+      "path": "content/2026-10-24_x_omg-it-s-true-best-of-luck-excited.md",
+      "sha256": "476fb02f0d6b00b419b33a5886f61b910a97ddc5df3e6f2194c78e4e94657106",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-24T06:09:22.000Z",
+      "id": "2113875478973153645",
+      "path": "content/2026-10-24_x_people-building-ai-keep-saying-it-already-is.md",
+      "sha256": "20da785cf7bd1fbaeffe416a3cb9fde799633fd3b5fdaf3b451f195070d59633",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-24T08:05:10.000Z",
+      "id": "2113904618434699327",
+      "path": "content/2026-10-24_x_the-version-you-have-likely-already-has-this.md",
+      "sha256": "cec94076654f6444e4bb4b7141c6721a61d0612e9a025c201b3f80849d588a5c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-24T05:46:38.000Z",
+      "id": "2113869758525485399",
+      "path": "content/2026-10-24_x_true-i-m-only-thinking-about-the-pro.md",
+      "sha256": "fee6343d9307931dd909948f789caaa63dcb24c718846004637e19ccc6d853cb",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-24T06:46:12.000Z",
+      "id": "2113884749332938833",
+      "path": "content/2026-10-24_x_yeah-i-understand-what-you-mean-the-slightly.md",
+      "sha256": "a77c8b68ea6c4bf370b02f068f25926f078382abdfada6b5c9295b18697b1feb",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-23T10:15:13Z",
+  "updated_at": "2026-10-24T10:13:56Z",
   "version": 1
 }
