@@ -12482,6 +12482,27 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-24T18:11:05.000Z",
+      "id": "2114057102427914682",
+      "path": "content/2026-10-24_x_a-lot-of-people-were-impressed-by-dessa.md",
+      "sha256": "5eb3ab5473ea54aac1c034682f80f3f9317085121676d017e117ef456bf42c13",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-24T18:24:05.000Z",
+      "id": "2114060373829779753",
+      "path": "content/2026-10-24_x_ah-very-true.md",
+      "sha256": "2085f6c8c8a757a53f1faf7662d0b5f315802a73bf91fea98fc0d04b9e9bdc13",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-24T20:17:40.000Z",
+      "id": "2114088958091293022",
+      "path": "content/2026-10-24_x_check-out-thinking-machines-approach-way-better.md",
+      "sha256": "627a9e903685661ee1abacc62e611f64b0359b82ef79f087fa2c5cb1b255dd80",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-24T04:55:13.000Z",
       "id": "2113856816954400810",
       "path": "content/2026-10-24_x_deep.md",
@@ -12500,6 +12521,13 @@
       "id": "2113855619421892660",
       "path": "content/2026-10-24_x_i-just-realized-the-book-three-body-problem.md",
       "sha256": "da98618615437e063b5d7de628cae7715ec691c854a5aea6c0e3b1ff5aa68447",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-24T18:22:14.000Z",
+      "id": "2114059909759422953",
+      "path": "content/2026-10-24_x_if-its-another-model-doing-the-thinking-and.md",
+      "sha256": "0e86e5b3ac87208cc3890abfa75bfaeff8b4c80110eed0cd6df60fb7a8bc4be3",
       "source": "x"
     },
     {
@@ -12524,10 +12552,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-24T22:44:09.000Z",
+      "id": "2114125825025188170",
+      "path": "content/2026-10-24_x_rt-took-about-5-min-to-setup-firstmate.md",
+      "sha256": "7d025593e57efb48350b2a7c6e3658e5155b5eda5345cf70b9bdf674d2611fdd",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-24T18:26:38.000Z",
+      "id": "2114061015877108016",
+      "path": "content/2026-10-24_x_the-main-value-prop-of-this-model-is.md",
+      "sha256": "173b194b51c44862ebad3c6e0a14c37136990509f81441808e2fa2eb8548f207",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-24T08:05:10.000Z",
       "id": "2113904618434699327",
       "path": "content/2026-10-24_x_the-version-you-have-likely-already-has-this.md",
       "sha256": "cec94076654f6444e4bb4b7141c6721a61d0612e9a025c201b3f80849d588a5c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-24T20:37:58.000Z",
+      "id": "2114094068561309740",
+      "path": "content/2026-10-24_x_there-are-already-unified-models.md",
+      "sha256": "179bfacdee0eb2d0ada6c4d8b3ebc08e508d64ccbffec4e47436adb3a9e616b3",
       "source": "x"
     },
     {
@@ -12538,13 +12587,76 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-24T22:45:19.000Z",
+      "id": "2114126115602419757",
+      "path": "content/2026-10-24_x_untitled.md",
+      "sha256": "4e84bd127f4d86a6dcb5394f9041a1faf922a8c78c26a3b8a25d6173f74a0131",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-24T06:46:12.000Z",
       "id": "2113884749332938833",
       "path": "content/2026-10-24_x_yeah-i-understand-what-you-mean-the-slightly.md",
       "sha256": "a77c8b68ea6c4bf370b02f068f25926f078382abdfada6b5c9295b18697b1feb",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-25T05:50:43.000Z",
+      "id": "2114233173085491464",
+      "path": "content/2026-10-25_x_exactly.md",
+      "sha256": "e81eb2a4f9b7a280fcd0ecd9b34024c89b5cde75a77f346f474d23dfdb49f8ca",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-25T05:34:46.000Z",
+      "id": "2114229158511616437",
+      "path": "content/2026-10-25_x_i-don-t-think-a-smaller-mac-is.md",
+      "sha256": "8c39ca5e853f48fd81086a238ab2305d4ed5fbaf4999bd92ee31557632e2bff4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-25T03:29:50.000Z",
+      "id": "2114197718679900362",
+      "path": "content/2026-10-25_x_many-people-seem-to-think-the-doomsday-scenario.md",
+      "sha256": "e18ecb20df862957e80d5c16bc50e01500a059e13ba0e1436acf26fae8467ad8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-25T04:17:18.000Z",
+      "id": "2114209663046889922",
+      "path": "content/2026-10-25_x_right-the-recent-hacks-were-a-preview-of.md",
+      "sha256": "44adfc08995edbd530199c2f960cdcc3913c5650a81e89c13de58e62d6b84061",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-25T05:17:24.000Z",
+      "id": "2114224786708877504",
+      "path": "content/2026-10-25_x_something-feels-wrong-that-so-many-people-would.md",
+      "sha256": "8b02efd2c4cf1e0da496f54f33603d6a6145b5397d64bf2f77eba78a2fad3f1c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-25T08:26:43.000Z",
+      "id": "2114272432949493786",
+      "path": "content/2026-10-25_x_untitled.md",
+      "sha256": "cb0f50c8e6e83b075b0dfa91ce615ee669b12f38f3130bc2f8e0bddb99dddd03",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-25T08:23:12.000Z",
+      "id": "2114271546743427402",
+      "path": "content/2026-10-25_x_want-to-know-why-anthropic-employees-suddenly-started.md",
+      "sha256": "6ca9ebf73477e53852d21584b0d492e093a11a0939fe7af7b61542ade4528bde",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-25T05:43:33.000Z",
+      "id": "2114231367504683491",
+      "path": "content/2026-10-25_x_why-does-our-society-keep-giving-money-to.md",
+      "sha256": "aa1401d87b70199f17adc30c56f8b9d16dabdf364c3288fa85323659f12ccc0f",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-24T10:13:56Z",
+  "updated_at": "2026-10-25T10:17:38Z",
   "version": 1
 }
