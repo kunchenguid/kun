@@ -186,7 +186,7 @@
       "created_at": "2026-06-10T14:02:53.503Z",
       "id": "201346080",
       "path": "content/2026-06-10_substack_evaluating-the-effectiveness-of-programming-languages-for-agents.md",
-      "sha256": "b3c948d9fad15f315a22ba969a47053539a67521d820652d614cf221069e176a",
+      "sha256": "1896ceb00100d2e4fb6d23bda02a04484fefd946261d2ac7acffac01e4927830",
       "source": "substack"
     },
     {
@@ -12615,6 +12615,20 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-25T18:20:02.000Z",
+      "id": "2114421746116055269",
+      "path": "content/2026-10-25_x_i-think-formal-verification-is-probably-only-useful.md",
+      "sha256": "1c2f1d75cfbd76aa7e5c5f72eeac2a933686f50a2a46da6f1f4347a7f4621731",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-25T20:35:33.000Z",
+      "id": "2114455848709935324",
+      "path": "content/2026-10-25_x_ive-been-thinking-that-this-can-go-even.md",
+      "sha256": "611e9610206e6b6b6cc515365740a6bc711c7501ad0bd1d4027669f695abc322",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-25T03:29:50.000Z",
       "id": "2114197718679900362",
       "path": "content/2026-10-25_x_many-people-seem-to-think-the-doomsday-scenario.md",
@@ -12655,8 +12669,50 @@
       "path": "content/2026-10-25_x_why-does-our-society-keep-giving-money-to.md",
       "sha256": "aa1401d87b70199f17adc30c56f8b9d16dabdf364c3288fa85323659f12ccc0f",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-26T03:08:09.000Z",
+      "id": "2114554647411351966",
+      "path": "content/2026-10-26_x_chatgpt-chat-chatgpt-work-codex-dots-claude-web.md",
+      "sha256": "f660a56d09f8ffb97909fc02ceaabd88a557623d562546660683053e61e2d133",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-26T03:15:48.000Z",
+      "id": "2114556573905453060",
+      "path": "content/2026-10-26_x_even-within-each-lab-they-keep-adding-more.md",
+      "sha256": "4c35d6650140213ae107908d6cae116e97b2838067b04a7d7814bdd94cc433c7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-26T03:26:03.000Z",
+      "id": "2114559153570263147",
+      "path": "content/2026-10-26_x_i-like-multiple-labs-competing-with-each-other.md",
+      "sha256": "98272ca19cd58bdba7a47e69609a8b959a97c6bd47d15852e66d7e6f2ab0128d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-26T03:23:03.000Z",
+      "id": "2114558398046011646",
+      "path": "content/2026-10-26_x_is-it-really-impossible-to-design-a-consistent.md",
+      "sha256": "4518509e00b4825cb351fbad3d4ca0ae3d170bf6c4a24c536746c9030f2fd5d8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-26T04:15:05.000Z",
+      "id": "2114571495171313999",
+      "path": "content/2026-10-26_x_oh-gosh-no.md",
+      "sha256": "bff7307b11e97af50b4d1c8e282712dfd318ef09303ee7a89ec59172d8c95c28",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-26T03:46:34.000Z",
+      "id": "2114564315110080831",
+      "path": "content/2026-10-26_x_what-are-you-seeing-as-the-replacement-for.md",
+      "sha256": "a8c2e56856365ca87af0465336b47def6473875c156fad5aab3ebdd015f2b301",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-25T10:17:38Z",
+  "updated_at": "2026-10-26T10:11:59Z",
   "version": 1
 }

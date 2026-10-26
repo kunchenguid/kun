@@ -21,7 +21,7 @@ Kun Chen
 
 Jun 10, 2026
 
-23
+24
 
 4
 
@@ -175,7 +175,7 @@ Thanks for reading Kun's Field Notes! Subscribe for free to receive new posts an
 
 Subscribe
 
-23
+24
 
 4
 
