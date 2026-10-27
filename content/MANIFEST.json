@@ -12699,10 +12699,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-26T15:55:59.000Z",
+      "id": "2114747882515710150",
+      "path": "content/2026-10-26_x_last-year-i-was-absolutely-right-this-year.md",
+      "sha256": "7a635f8d72664e3226a01dbb8dfafef4d7946a89bcf8511523b8d3142fb2ac13",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-26T23:26:57.000Z",
+      "id": "2114861368398753943",
+      "path": "content/2026-10-26_x_merged.md",
+      "sha256": "dc14dde4af5a597c8b6fc34cc1e1453b65fdb9bf3280726a876e7374a821d585",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-26T04:15:05.000Z",
       "id": "2114571495171313999",
       "path": "content/2026-10-26_x_oh-gosh-no.md",
       "sha256": "bff7307b11e97af50b4d1c8e282712dfd318ef09303ee7a89ec59172d8c95c28",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-26T18:30:35.000Z",
+      "id": "2114786785708622177",
+      "path": "content/2026-10-26_x_that-doesnt-apply-here-because-a-failed-session.md",
+      "sha256": "b7ec6b477d8963fc05dc4a7a830e598085bba72e5a0856490b983fa063868fad",
       "source": "x"
     },
     {
@@ -12711,8 +12732,78 @@
       "path": "content/2026-10-26_x_what-are-you-seeing-as-the-replacement-for.md",
       "sha256": "a8c2e56856365ca87af0465336b47def6473875c156fad5aab3ebdd015f2b301",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-26T18:27:20.000Z",
+      "id": "2114785967441924370",
+      "path": "content/2026-10-26_x_with-a-lot-of-users-you-can-actually.md",
+      "sha256": "2b20c8fe4b272b89497d1ed6ed05e563a0c616f572b6b569df1b4197c661e8a7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-26T19:03:13.000Z",
+      "id": "2114794998357209167",
+      "path": "content/2026-10-26_x_you-can-have-at-least-one-user-which.md",
+      "sha256": "112842aae196eca7b113bf10c1bdaf1fb55d2c6e58565ca1efc9e871118865a0",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-26T17:33:49.000Z",
+      "id": "2114772499686998221",
+      "path": "content/2026-10-26_x_you-can-make-almost-any-program-self-improve.md",
+      "sha256": "1cd10a5357cba8456cf6734c188f4d91e4e785d498c271dafc296366bb166d3c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-26T20:47:24.000Z",
+      "id": "2114821215944949880",
+      "path": "content/2026-10-26_x_yup-i-never-recommend-something-i-havent-proven.md",
+      "sha256": "3f6e32c10ecbb5d776e19201ad911cd8e4aa880c96646f671b90e87c27857e5d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-27T05:07:49.000Z",
+      "id": "2114947153328267429",
+      "path": "content/2026-10-27_x_agent-being-able-to-find-problems-in-their.md",
+      "sha256": "8b23098519b1116c692420988ba91e8870d9d90bef4d04bf74ecffaee5e21813",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-27T01:58:37.000Z",
+      "id": "2114899536984547460",
+      "path": "content/2026-10-27_x_buyout-is-the-new-layoff-who-said-microsoft.md",
+      "sha256": "fb7ce540a59ce6f0007f231cc60cafd071ebdf31673c9c493d9203d5a2becb91",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-27T05:19:46.000Z",
+      "id": "2114950160275144801",
+      "path": "content/2026-10-27_x_honestly-i-think-people-who-can-still-read.md",
+      "sha256": "76e037af3c0e97c9b5757f1ed03d14ca5479720d45ade5938bdfa33207bad594",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-27T07:07:08.000Z",
+      "id": "2114977180677804312",
+      "path": "content/2026-10-27_x_if-you-use-firstmate-it-has-built-in.md",
+      "sha256": "3a41edd023e9b8465352eb8055c210fc31051d8452c84db877ac4c30957d6214",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-27T04:18:45.000Z",
+      "id": "2114934805397946559",
+      "path": "content/2026-10-27_x_or-just-ride-into-the-sunset-anyway.md",
+      "sha256": "65938ac459c434587b26054ab6427c5e3bc339abdcbc36e4163ba4983d2dc130",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-27T05:07:53.000Z",
+      "id": "2114947170080379139",
+      "path": "content/2026-10-27_x_rt-agent-being-able-to-find-problems-in.md",
+      "sha256": "68c9c0fa4ba2cadbc9b032a80559aa3f6fd70bfc46243db44d617052ef305e76",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-26T10:11:59Z",
+  "updated_at": "2026-10-27T10:13:09Z",
   "version": 1
 }
