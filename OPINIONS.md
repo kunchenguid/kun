@@ -497,10 +497,10 @@ Evidence: https://x.com/kunchenguid/status/2097970888344043957, https://x.com/ku
 
 Kun thinks customer-impacting incidents should be answered with accountability, explanation, prevention steps, and refunds where appropriate.
 He notices when small builders care deeply about a single harmed user, and sees that care as a meaningful contrast with established products where one-user bugs can disappear into neglected queues.
-He dislikes defensive minimization when users were harmed, and he thinks staged or fabricated AI startup launches and funding stories that deceive people for financial gain should be treated as fraud, not just noisy content pollution.
+He dislikes defensive minimization when users were harmed, and he thinks staged or fabricated AI startup launches, funding stories, and revenue claims that deceive people for financial gain should be treated as fraud, not just noisy content pollution; he sanity-checks headline ARR with simple arithmetic, since a run rate that implies 100k paying founders would be impossible to miss socially.
 He thinks marketplaces can destroy demand-side trust when they overprotect supply-side participants after the supply constraint that once mattered most has changed.
 He reads hidden or weakened negative reviews as a likely sign that a marketplace still values supply protection over demand-side experience, even if the choice was once rational from the company's data.
-He is wary of exposing full agent trajectories that touched private data because they can reveal sensitive context, prompt-injected material, or internal information.
+He is wary of exposing full agent trajectories that touched private data because they can reveal sensitive context, prompt-injected material, or internal information, and he warns that agent sessions are already being sold for money (valued for the human steering and good/bad feedback more than the output), so users should vet installed tools that may silently upload them rather than trust every middleman, without overreacting by abandoning AI tools.
 He prefers transparency when companies commercialize or significantly build on open source work.
 He condemns entitled attacks on free open-source projects, but also thinks popular projects need design maturity, clear ownership messaging, and constructive quality feedback once broad users depend on them.
 Evidence: https://x.com/kunchenguid/status/2058283378076704917, https://x.com/kunchenguid/status/2106061565384650875

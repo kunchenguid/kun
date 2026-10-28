@@ -12802,8 +12802,57 @@
       "path": "content/2026-10-27_x_rt-agent-being-able-to-find-problems-in.md",
       "sha256": "68c9c0fa4ba2cadbc9b032a80559aa3f6fd70bfc46243db44d617052ef305e76",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-28T01:30:12.000Z",
+      "id": "2115254774341963959",
+      "path": "content/2026-10-28_x_at-20-month-25m-arr-is-100k-paying.md",
+      "sha256": "c6339fc43880dd804c357cf539fe6d7bef36af9b8e6b1da51f6bf095924e537e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-28T04:43:32.000Z",
+      "id": "2115303429157666909",
+      "path": "content/2026-10-28_x_i-wouldn-t-suggest-i-think-people-just.md",
+      "sha256": "28aa52047998750989545546e055b3b769167c20a66e3e3cf1a995a8caa7e469",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-28T00:18:21.000Z",
+      "id": "2115236691455947134",
+      "path": "content/2026-10-28_x_many-people-aren-t-aware-that-their-agent.md",
+      "sha256": "11d767b460530c97798766b18e3e53a88318fd56e731b3b996173989fc6f0e53",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-28T05:04:49.000Z",
+      "id": "2115308786164662554",
+      "path": "content/2026-10-28_x_oh-definitely-don-t-use-second-mates-for.md",
+      "sha256": "f01ce1aecd043de47178e5146bd20b96aee7f0d7d73e3cd79aeacab69b69b3c3",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-28T04:36:51.000Z",
+      "id": "2115301747858292774",
+      "path": "content/2026-10-28_x_that-s-quite-some-imagination-you-have-there.md",
+      "sha256": "68655bf22b76ccc349fdfd42246868cb2e8434e16daa8ac39f962564c0f8fe7f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-28T01:17:33.000Z",
+      "id": "2115251589695041882",
+      "path": "content/2026-10-28_x_the-output-actually-doesnt-matter-as-much-it.md",
+      "sha256": "bef6217f4ad57b812ce5aec02261ebe613fbd4676478ee6c36636d7dd18bebb7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-28T00:42:02.000Z",
+      "id": "2115242651637489740",
+      "path": "content/2026-10-28_x_yup-cant-hope-all-the-middleman-to-be.md",
+      "sha256": "12c6d622dafebd473a8eac4c884f5e8f9b41fc94eccd35a30264ec73362a2129",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-27T10:13:09Z",
+  "updated_at": "2026-10-28T10:16:55Z",
   "version": 1
 }

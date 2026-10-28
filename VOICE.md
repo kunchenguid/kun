@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-10-27_
-_Latest source window: X posts and replies from 2026-10-26 through 2026-10-27, public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 13 new X items, 0 Substack items, and 0 YouTube items; the durable opinion updates tightened replay-grade logging plus a daily log-analysis loop as a way to make programs self-improve (with unique-user thresholds to cut telemetry noise) and reading for oneself as an advantage over tagging agents to read; VOICE unchanged beyond metadata (numbered step recipes, one-line dry jokes, and terse replies already captured)._
+_Last updated: 2026-10-28_
+_Latest source window: X posts and replies from 2026-10-28 (UTC), public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 7 new X items, 0 Substack items, and 0 YouTube items; the durable opinion updates tightened the warning that agent sessions are being sold for money (so vet installed tools and middlemen without abandoning AI) and arithmetic sanity checks on fabricated AI revenue claims; VOICE unchanged beyond metadata (blunt arithmetic debunks and one-line replies already captured)._
 
 ### Summary
 
