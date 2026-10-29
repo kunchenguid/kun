@@ -221,7 +221,7 @@
       "created_at": "2026-08-01T17:39:50.765Z",
       "id": "209396564",
       "path": "content/2026-08-01_substack_kuns-pi-agent-config.md",
-      "sha256": "11d6082697053d54dd4969ce84fcbe71adcfcb34b4afa757fc3c7e68bb6cf0a6",
+      "sha256": "beca58378230617f7ab1b72a86108f3103f5f7f546e283085900adc380faef16",
       "source": "substack"
     },
     {
@@ -12811,6 +12811,48 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-28T22:18:36.000Z",
+      "id": "2115568946934149334",
+      "path": "content/2026-10-28_x_but-renting-cloud-compute-is-way-more-expensive.md",
+      "sha256": "05fcba1e3bdb5414e2e7c6daf0ee350823906c84e7de2677d3dffaac27386a92",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-28T22:33:38.000Z",
+      "id": "2115572726685729005",
+      "path": "content/2026-10-28_x_everyone-who-stopped-reviewing-code-plus-everyone-who.md",
+      "sha256": "96ac2be4689f3b993c5a3d4686534749279acbf98aebf2d2bdd5a044383ce796",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-28T22:11:26.000Z",
+      "id": "2115567141084922186",
+      "path": "content/2026-10-28_x_hoping-to-share-soon.md",
+      "sha256": "8ccca2d4a2dd9a40251a6488969434ba956bfef7fb45f9faf954e39e32f09680",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-28T22:11:42.000Z",
+      "id": "2115567207908597977",
+      "path": "content/2026-10-28_x_hoping-to-share-soon_08597977.md",
+      "sha256": "e27630a540318e0bef4f1ab995368139e3af41be5067f30d6aed5eb5fda8beb3",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-28T22:51:14.000Z",
+      "id": "2115577159209353370",
+      "path": "content/2026-10-28_x_i-m-getting-more-and-more-mac-minis.md",
+      "sha256": "8ea13c4afa87484f345771be32c4da7544314c8d4a9e702d21793ddfafe0b7df",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-28T21:05:52.000Z",
+      "id": "2115550641255010707",
+      "path": "content/2026-10-28_x_i-m-technical-and-not-sad-i-was.md",
+      "sha256": "da80c73ae76931fadb652ebbeafd42c14f9919380c6767866c9d1a48e118649f",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-28T04:43:32.000Z",
       "id": "2115303429157666909",
       "path": "content/2026-10-28_x_i-wouldn-t-suggest-i-think-people-just.md",
@@ -12818,10 +12860,24 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-28T16:26:39.000Z",
+      "id": "2115480373752951031",
+      "path": "content/2026-10-28_x_if-you-count-the-heavy-payers-then-you.md",
+      "sha256": "960a380b01e853bc13f5bc0f86b3a292e909cdccfc532c4c2de6b1b11c75bffb",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-28T00:18:21.000Z",
       "id": "2115236691455947134",
       "path": "content/2026-10-28_x_many-people-aren-t-aware-that-their-agent.md",
       "sha256": "11d767b460530c97798766b18e3e53a88318fd56e731b3b996173989fc6f0e53",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-28T22:03:54.000Z",
+      "id": "2115565245293039814",
+      "path": "content/2026-10-28_x_now-that-we-all-agreed-to-not-review.md",
+      "sha256": "c968e66aa281a9f1e512fad6b2c3c69c543859eda10262056128bed8de591a99",
       "source": "x"
     },
     {
@@ -12839,10 +12895,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-28T22:31:20.000Z",
+      "id": "2115572147645202795",
+      "path": "content/2026-10-28_x_thats-not-ci-though.md",
+      "sha256": "3d0721f6acc1290473a37e406e2953e68a5a0d58b496e6e859cf9f9996dbeb5c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-28T22:47:37.000Z",
+      "id": "2115576246465929490",
+      "path": "content/2026-10-28_x_the-entire-post-is-just-how-hard-can.md",
+      "sha256": "93b380f8744fa98d69feadc5d91d8ba80379f0bdb3836c7b5aef012c2666020c",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-28T01:17:33.000Z",
       "id": "2115251589695041882",
       "path": "content/2026-10-28_x_the-output-actually-doesnt-matter-as-much-it.md",
       "sha256": "bef6217f4ad57b812ce5aec02261ebe613fbd4676478ee6c36636d7dd18bebb7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-28T22:56:02.000Z",
+      "id": "2115578363935175138",
+      "path": "content/2026-10-28_x_yeah-when-i-get-a-chance-i-do.md",
+      "sha256": "af3b359a9d366fca01ab90867456fa1e10cb07746ca60c336fb5004558043a70",
       "source": "x"
     },
     {
@@ -12851,8 +12928,78 @@
       "path": "content/2026-10-28_x_yup-cant-hope-all-the-middleman-to-be.md",
       "sha256": "12c6d622dafebd473a8eac4c884f5e8f9b41fc94eccd35a30264ec73362a2129",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T02:58:12.000Z",
+      "id": "2115639308485063071",
+      "path": "content/2026-10-29_x_cheap-ci-will-be-great-but-however-cheap.md",
+      "sha256": "b2c95c39b93694c8953476228029b727390b91830da99a654cfaa97f98e21f54",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T00:22:09.000Z",
+      "id": "2115600035224391770",
+      "path": "content/2026-10-29_x_m5-pro-that-s-decided-based-on-my.md",
+      "sha256": "3c6ec362acf88a75bf8361111279bbf12af5799128a35641c4275a5add034f33",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T03:08:31.000Z",
+      "id": "2115641906386592092",
+      "path": "content/2026-10-29_x_more-hardware-always-helps-but-have-you-also.md",
+      "sha256": "0600697d76b36a9033b54f953b6b5f92b20688941e908fd5ff7fcf3bcd93864b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T05:27:34.000Z",
+      "id": "2115676898374373829",
+      "path": "content/2026-10-29_x_not-from-the-track-record-and-i-don.md",
+      "sha256": "b7b9926978a7bbd34e92ada9786bdb945797755c5ca034881190072a764761c6",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T05:02:59.000Z",
+      "id": "2115670709779513720",
+      "path": "content/2026-10-29_x_oct-30-is-coming-soon-and-the-200.md",
+      "sha256": "4c31fd0f76c7cfa862f69960990b7e159c83596b3b272a846d1ec51b4cff4c82",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T05:19:24.000Z",
+      "id": "2115674841227653345",
+      "path": "content/2026-10-29_x_opus-5-5-raised-the-bar-significantly-if.md",
+      "sha256": "37e60a0f5e6d472844d478ea0ce63fa2c8fdf4f2387b994541f7d269a2750fb8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T01:30:57.000Z",
+      "id": "2115617353224654853",
+      "path": "content/2026-10-29_x_see.md",
+      "sha256": "8e7b948d382a5a96f6e5fa07fa7ccfc1704af9bb479087ee3cc19e47392aa76a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T01:50:38.000Z",
+      "id": "2115622305208672330",
+      "path": "content/2026-10-29_x_self-hosted-it-on-my-mac-mini.md",
+      "sha256": "fd4a923409cc5263f677af924e28a02958de56f64e559282a2f34e1e57606ec6",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T04:23:20.000Z",
+      "id": "2115660731278618978",
+      "path": "content/2026-10-29_x_that-s-a-lot-done-already-indeed-the.md",
+      "sha256": "81a12b24fd901d6bb35b0f736ec535983648a8e062e7bd011da49275a3b03b04",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T05:32:03.000Z",
+      "id": "2115678027174826104",
+      "path": "content/2026-10-29_x_very-good-thing-for-consumers.md",
+      "sha256": "70426661daa892dc782ac2f22d9d99d0eb6414c310d7844ba021128c5ca3807d",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-28T10:16:55Z",
+  "updated_at": "2026-10-29T10:13:01Z",
   "version": 1
 }

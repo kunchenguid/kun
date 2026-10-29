@@ -21,7 +21,7 @@ Kun Chen
 
 Aug 01, 2026
 
-55
+56
 
 6
 
@@ -89,7 +89,7 @@ Practical field notes on agentic engineering, solo building, and what the fronti
 
 Subscribe
 
-55
+56
 
 6
 

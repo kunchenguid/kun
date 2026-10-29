@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-10-28_
-_Latest source window: X posts and replies from 2026-10-28 (UTC), public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 7 new X items, 0 Substack items, and 0 YouTube items; the durable opinion updates tightened the warning that agent sessions are being sold for money (so vet installed tools and middlemen without abandoning AI) and arithmetic sanity checks on fabricated AI revenue claims; VOICE unchanged beyond metadata (blunt arithmetic debunks and one-line replies already captured)._
+_Last updated: 2026-10-29_
+_Latest source window: X posts and replies from 2026-10-28 to 2026-10-29 (UTC), public Substack refresh (0 new posts, 1 metadata refresh), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 21 new X items, 1 Substack metadata refresh, and 0 YouTube items; the durable opinion updates sharpened CI as the post-review bottleneck at agent speed, OpenAI's Codex quota cut as conceding consumer coding with a competition worry, and why Kun left big tech for AI; VOICE unchanged beyond metadata (numbered how-to threads with firsthand speedup numbers and speculative market reads already captured)._
 
 ### Summary
 
