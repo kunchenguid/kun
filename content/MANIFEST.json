@@ -2034,7 +2034,7 @@
       "created_at": "2026-08-23T04:09:12.794Z",
       "id": "212348719",
       "path": "content/2026-08-23_substack_your-agents-md-is-a-neural-net.md",
-      "sha256": "4fc433d1cb04031d381c363ee46bbbdd0afd2dc90c9d003316e7214acd39f728",
+      "sha256": "6a30b5964e4d1149dfb9da49295db797c1ad391133f8a02429842ec35edf831b",
       "source": "substack"
     },
     {
@@ -12937,6 +12937,76 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-29T17:54:33.000Z",
+      "id": "2115864882637922809",
+      "path": "content/2026-10-29_x_every-write-up-from-me-is-automatically-distilled.md",
+      "sha256": "675a00c56f9a568d4c0032ac228e005121156e407d452375e4ea5fe5018064cc",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T20:38:05.000Z",
+      "id": "2115906037463351366",
+      "path": "content/2026-10-29_x_great-to-hear-herdr-firstmate-lavish-if-you.md",
+      "sha256": "e3fb698adf81a0c98d67e1be073ac4085ca6c1b6c17ca6b5f0d4887973f95be2",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T18:01:25.000Z",
+      "id": "2115866611110576429",
+      "path": "content/2026-10-29_x_haha-maybe-i-should-indeed-claim-kstack-before.md",
+      "sha256": "eb16182dce602d5ef71ebf0c55b8913f45e8f9d15d58e7f506011eb0d8cc6b3c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T23:29:50.000Z",
+      "id": "2115949259224912240",
+      "path": "content/2026-10-29_x_haha-nice.md",
+      "sha256": "84ea1d8875e3211559325d5831a2b7bc1f05eb8211aee63a6e7061b920386bd0",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T23:17:57.000Z",
+      "id": "2115946268493316267",
+      "path": "content/2026-10-29_x_i-gave-luna-a-task-hoping-to-save.md",
+      "sha256": "ae3019161d5db48405e6f29dde267e8e10b9231c2a5d2c3ff56ada8b7ea4ff71",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T18:00:37.000Z",
+      "id": "2115866407254757772",
+      "path": "content/2026-10-29_x_i-have-an-automation-that-flags-to-me.md",
+      "sha256": "35fb8541d9eb46b1516d055c09b52a4dcd54e4e8c60420d0dd6d575f5b11d271",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T21:09:49.000Z",
+      "id": "2115914021706866704",
+      "path": "content/2026-10-29_x_i-vote-that-all-banked-quota-resets-in.md",
+      "sha256": "a6b344254fcb17ec4b5f7feac6c9803df6ab5e5c641c1986ff2fc6c9e39d6d07",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T16:11:19.000Z",
+      "id": "2115838901491494973",
+      "path": "content/2026-10-29_x_it-s-a-billion-dollar-question-because-if.md",
+      "sha256": "0d45d06dbca0c1e540fb05cd75c95f5e9bd0cc416f4aa02810fa71b859c90c93",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T21:16:56.000Z",
+      "id": "2115915812141965433",
+      "path": "content/2026-10-29_x_lol-i-didnt-even-know-about-the-10.md",
+      "sha256": "2ea218088899913b6f6dc757184b3c03eedc8cca61df8c096a588909e1f861e4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T18:12:34.000Z",
+      "id": "2115869415321616530",
+      "path": "content/2026-10-29_x_looks-like-game-s-still-on.md",
+      "sha256": "6270bfa942c33f7d5c0efb21e2bae441191e8ca59dfe4152d85909d4a2a2377d",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-29T00:22:09.000Z",
       "id": "2115600035224391770",
       "path": "content/2026-10-29_x_m5-pro-that-s-decided-based-on-my.md",
@@ -12948,6 +13018,13 @@
       "id": "2115641906386592092",
       "path": "content/2026-10-29_x_more-hardware-always-helps-but-have-you-also.md",
       "sha256": "0600697d76b36a9033b54f953b6b5f92b20688941e908fd5ff7fcf3bcd93864b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T18:23:40.000Z",
+      "id": "2115872207826239625",
+      "path": "content/2026-10-29_x_not-a-very-high-iq-reply.md",
+      "sha256": "7844b8bf8935c559870aab6a651e4f862609a5f8ef5ed7de7ffe120f8e9c2798",
       "source": "x"
     },
     {
@@ -12993,13 +13070,97 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-29T18:38:56.000Z",
+      "id": "2115876051872334094",
+      "path": "content/2026-10-29_x_untitled.md",
+      "sha256": "f85b53d9fe836f225875b30d8b993617116805e4253201c51f68fc2705ed5239",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T23:22:47.000Z",
+      "id": "2115947485457965476",
+      "path": "content/2026-10-29_x_untitled_57965476.md",
+      "sha256": "2b2c213a70ceaf54119a64ae709be89fc7b3a529cf5f1f01a3af586fb43a6d39",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-29T05:32:03.000Z",
       "id": "2115678027174826104",
       "path": "content/2026-10-29_x_very-good-thing-for-consumers.md",
       "sha256": "70426661daa892dc782ac2f22d9d99d0eb6414c310d7844ba021128c5ca3807d",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T23:30:25.000Z",
+      "id": "2115949407804047532",
+      "path": "content/2026-10-29_x_wisdom.md",
+      "sha256": "287c5c7c29c2c0b8628a66e1cb616ff196a8fe94d5140e28d5a5f5f159ab0cb4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T18:11:25.000Z",
+      "id": "2115869127042793642",
+      "path": "content/2026-10-29_x_wow.md",
+      "sha256": "0c1ab45e631214f191b6b859bd3166bd6448c913894efaa8a75f99e6cc009836",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-29T18:02:32.000Z",
+      "id": "2115866892493840465",
+      "path": "content/2026-10-29_x_yeah-turns-out-my-oss-repos-are-hitting.md",
+      "sha256": "38690024a36ddea8f6108ebc98549236e152f2f5129e2eb883855d9cef596460",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-30T07:26:35.000Z",
+      "id": "2116069239148978486",
+      "path": "content/2026-10-30_x_a-lot-of-people-are-going-to-disagree.md",
+      "sha256": "c2bfa91fae8395e5e1f430cdccf990f2c983aa2dcac7344221192b032c8289ca",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-30T02:34:38.000Z",
+      "id": "2115995763662868523",
+      "path": "content/2026-10-30_x_better-call-sol.md",
+      "sha256": "c8acf8e030c4827a1e5e337c4ee4dfefd75f062fd6a3f44080feb7e711bad0ca",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-30T01:14:17.000Z",
+      "id": "2115975546815537174",
+      "path": "content/2026-10-30_x_haha-great-one.md",
+      "sha256": "fed34d9af3a8bbf53e67bb9ab783c6af6a58384242a1bb8fe969855206d8ee6b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-30T04:30:12.000Z",
+      "id": "2116024850934542718",
+      "path": "content/2026-10-30_x_rt-you-might-not-need-the-new-30k.md",
+      "sha256": "22cd75a75a6a0ccbed3247f3cae1a6c6c31bab7454b79c322f8dafa1dc97b8dd",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-30T04:11:10.000Z",
+      "id": "2116020059395260445",
+      "path": "content/2026-10-30_x_this-is-a-super-nuanced-topic-though-because.md",
+      "sha256": "e11f34847875fb2e01c92f3c1d964fd51f32e7e12e17f04ee495193cdfb6e7fb",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-30T05:10:27.000Z",
+      "id": "2116034978048020777",
+      "path": "content/2026-10-30_x_untitled.md",
+      "sha256": "500ece7805c1e71bf54e31227420322e82e716bd2c06308640c4e2b1693e9497",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-30T04:30:07.000Z",
+      "id": "2116024830021783665",
+      "path": "content/2026-10-30_x_wow-thank-you-for-sharing-really-needed-this.md",
+      "sha256": "9fdfa07c2963bf2ac1ade6e8dbb6e61f7bc11a841ccc0578bb57e8f10b010f53",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-29T10:13:01Z",
+  "updated_at": "2026-10-30T10:14:23Z",
   "version": 1
 }
