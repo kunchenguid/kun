@@ -13133,6 +13133,48 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-30T18:07:24.000Z",
+      "id": "2116230504408371448",
+      "path": "content/2026-10-30_x_hallelujah-the-5-hour-limit-is-going-away.md",
+      "sha256": "663399154dd7e688c0e553dab5e1ffc5b3525062c68d34d1c2f12f5ca6dfb02b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-30T15:29:30.000Z",
+      "id": "2116190767798722970",
+      "path": "content/2026-10-30_x_how-can-it-be-worse-than-letting-the.md",
+      "sha256": "bcfa4e4af019ee675c84463b5e4ef36c0bd97be4fdc959a3149e236666e7bbe2",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-30T18:18:52.000Z",
+      "id": "2116233390706053179",
+      "path": "content/2026-10-30_x_i-think-their-ipo-might-become-the-end.md",
+      "sha256": "8fb008044e5d570d988d380cec9ce755d2cd6d1115871a0ec1b0db7b3bcc48a9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-30T23:21:13.000Z",
+      "id": "2116309479415525708",
+      "path": "content/2026-10-30_x_if-you-have-sustained-load-buying-your-own.md",
+      "sha256": "6e96d8b681ec7f4de4815141d07036b72b7ad0eb9e0de0fba04069bdb972e1f2",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-30T18:48:17.000Z",
+      "id": "2116240791706501581",
+      "path": "content/2026-10-30_x_im-using-this-to-stack-many-subs.md",
+      "sha256": "6b5eafef5bddaf54170da6cd130b03a00d7d2e4cd0fdcf4bd554933d69bdad39",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-30T18:33:26.000Z",
+      "id": "2116237057114960191",
+      "path": "content/2026-10-30_x_no-it-has-always-been-10x.md",
+      "sha256": "254ca219943ba52cce7dd8beeb6f53a357a3be58384d07de6b0c7256b8d925de",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-30T04:30:12.000Z",
       "id": "2116024850934542718",
       "path": "content/2026-10-30_x_rt-you-might-not-need-the-new-30k.md",
@@ -13159,8 +13201,64 @@
       "path": "content/2026-10-30_x_wow-thank-you-for-sharing-really-needed-this.md",
       "sha256": "9fdfa07c2963bf2ac1ade6e8dbb6e61f7bc11a841ccc0578bb57e8f10b010f53",
       "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T00:18:07.000Z",
+      "id": "2116323797586592173",
+      "path": "content/2026-10-31_x_being-meat-proxies-many-are-already-half-way.md",
+      "sha256": "a893385f1bbf9db4a79220c892c87f06a873fda48ca48bdd7826705e8552e0b9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T06:10:58.000Z",
+      "id": "2116412596341629180",
+      "path": "content/2026-10-31_x_depending-on-how-the-monorepo-is-structured-it.md",
+      "sha256": "24f0597484be5c080eceb8cabf7aadd0e52c709effce366caa24453ca0fceef8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T00:06:16.000Z",
+      "id": "2116320816002699529",
+      "path": "content/2026-10-31_x_eventually-i-think-agents-will-have-a-tool.md",
+      "sha256": "7f660778b411906403733117eaebc17889fe6debf3213c2d5a734780d46c6cf4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T05:03:33.000Z",
+      "id": "2116395630340043163",
+      "path": "content/2026-10-31_x_i-have-a-headless-mac-mini-working-for.md",
+      "sha256": "81e92ea9ef517f3c573577960da75a201cd05c4d99d4481f61c7104653ec2975",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T00:30:09.000Z",
+      "id": "2116326828394926434",
+      "path": "content/2026-10-31_x_might-be-sooner-than-we-think.md",
+      "sha256": "7609ca58cbe46587a222ae14527014f436f68a52e626f5b574e0ffc2cb5b128f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T00:23:20.000Z",
+      "id": "2116325109652992040",
+      "path": "content/2026-10-31_x_oh-good-point-it-might-end-up-having.md",
+      "sha256": "bc4d19f910e405dfc8c4b9ba6fc4cb10e439fcea74a7f2168241e5a5b136125c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T04:41:08.000Z",
+      "id": "2116389987839349069",
+      "path": "content/2026-10-31_x_the-right-way-to-maintain-agents-md-is.md",
+      "sha256": "c1ef9ff6c8216ecf3b114269dfd9c522f8ccb0865c8a93c6ced68c537869dacf",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T04:09:29.000Z",
+      "id": "2116382023887777978",
+      "path": "content/2026-10-31_x_yes-i-don-t-think-ai-will-take.md",
+      "sha256": "732de66c2e9ed643a716d2602f051ca1493c70c59c796c4b70387b96fc515b47",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-30T10:14:23Z",
+  "updated_at": "2026-10-31T10:14:33Z",
   "version": 1
 }
