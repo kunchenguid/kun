@@ -2034,7 +2034,7 @@
       "created_at": "2026-08-23T04:09:12.794Z",
       "id": "212348719",
       "path": "content/2026-08-23_substack_your-agents-md-is-a-neural-net.md",
-      "sha256": "6a30b5964e4d1149dfb9da49295db797c1ad391133f8a02429842ec35edf831b",
+      "sha256": "9878351b2f5701483c7c407d8e0ee8e54a01f0871abb37d7627059c9061289c3",
       "source": "substack"
     },
     {
@@ -13203,10 +13203,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-31T19:23:16.000Z",
+      "id": "2116611983097397411",
+      "path": "content/2026-10-31_x_9-yr-old.md",
+      "sha256": "1febb572b71fbd866705dc37f3a77b77f1646b8d0f09036c7b914f0aae301201",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T20:37:37.000Z",
+      "id": "2116630694671856099",
+      "path": "content/2026-10-31_x_actually-thats-a-good-question-if-you-measure.md",
+      "sha256": "ff96eb096b2ab720f2902ba8accec7560bcfa9dca3e5c97092165fb262ea3d70",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-31T00:18:07.000Z",
       "id": "2116323797586592173",
       "path": "content/2026-10-31_x_being-meat-proxies-many-are-already-half-way.md",
       "sha256": "a893385f1bbf9db4a79220c892c87f06a873fda48ca48bdd7826705e8552e0b9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T19:48:12.000Z",
+      "id": "2116618260103966863",
+      "path": "content/2026-10-31_x_definitely-feels-like-there-s-some-truth-here.md",
+      "sha256": "ea76705c7cdd8bfac4413aec48c1eb2543c6a1604adb2d7a6b00591b0c509054",
       "source": "x"
     },
     {
@@ -13224,10 +13245,59 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-31T18:50:07.000Z",
+      "id": "2116603640236634354",
+      "path": "content/2026-10-31_x_exactly-learned-so-much-from-my-kid.md",
+      "sha256": "acd21fa8b4c48d4c1f99ed64d4e5440731edc4701cb96c075936b6126a49c062",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T22:40:47.000Z",
+      "id": "2116661690670698879",
+      "path": "content/2026-10-31_x_firstmate-does-need-to-use-more-tokens-it.md",
+      "sha256": "fdff918f7c88f22c42871a32548140595dd26950019db1c403d202bb37fdc107",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T21:46:46.000Z",
+      "id": "2116648098055471475",
+      "path": "content/2026-10-31_x_good-to-know-you-see-the-same-would.md",
+      "sha256": "ee1c8d712d9fbc12ed86b25977dad59e71c6212b81ff4af2171c64535feb95d5",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T19:39:15.000Z",
+      "id": "2116616007850844609",
+      "path": "content/2026-10-31_x_higher-tps-does-not-make-tool-calls-instant.md",
+      "sha256": "c3853d001fdddbf1f4f6e6b6888c2d4b86e999aeab3a9d84407236dfbf4d0cdf",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-31T05:03:33.000Z",
       "id": "2116395630340043163",
       "path": "content/2026-10-31_x_i-have-a-headless-mac-mini-working-for.md",
       "sha256": "81e92ea9ef517f3c573577960da75a201cd05c4d99d4481f61c7104653ec2975",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T18:34:02.000Z",
+      "id": "2116599592703918305",
+      "path": "content/2026-10-31_x_i-m-now-fully-convinced-that-chatting-with.md",
+      "sha256": "7e6f7175f66cae9aa7ec93d3d9078767321da21dad3718744c9b959aef632869",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T19:16:53.000Z",
+      "id": "2116610379505950932",
+      "path": "content/2026-10-31_x_if-a-technology-is-making-us-as-a.md",
+      "sha256": "650feb355d26497511a8b8aa04533ba7a5c4f688b7d08538ecfa18a98a2d6a18",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T18:37:25.000Z",
+      "id": "2116600444843950591",
+      "path": "content/2026-10-31_x_it-s-a-great-experience-to-be-able.md",
+      "sha256": "65c2c2456f344005e730e20473e81160e13b2285b472ea60eeffa223f731e329",
       "source": "x"
     },
     {
@@ -13245,6 +13315,34 @@
       "source": "x"
     },
     {
+      "created_at": "2026-10-31T17:07:58.000Z",
+      "id": "2116577936832856544",
+      "path": "content/2026-10-31_x_rt-man-i-just-love-the-lavish-skill.md",
+      "sha256": "695f1f4876fe6175904f691e356de1b31a449b1f1f2c210a9bfa6b2dda6dedc0",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T21:55:21.000Z",
+      "id": "2116650258717675755",
+      "path": "content/2026-10-31_x_rt-the-latest-round-of-models-from-openai.md",
+      "sha256": "0e501a4252666350c3da8606ae3e09c36e4418e0521f15e519654605f25b5e27",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T19:05:43.000Z",
+      "id": "2116607566826590391",
+      "path": "content/2026-10-31_x_the-chat-interface-was-invented-long-before-ai.md",
+      "sha256": "69cdbfa39898e8b30550731b34b9772e5fdbeeb0860b2446ef12d636e148c22f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-10-31T21:55:11.000Z",
+      "id": "2116650214195167298",
+      "path": "content/2026-10-31_x_the-latest-round-of-models-from-openai-and.md",
+      "sha256": "9d7c963e58020af69d98c73067c902c25064ad14bd119314676aee7d8a44e47c",
+      "source": "x"
+    },
+    {
       "created_at": "2026-10-31T04:41:08.000Z",
       "id": "2116389987839349069",
       "path": "content/2026-10-31_x_the-right-way-to-maintain-agents-md-is.md",
@@ -13257,8 +13355,99 @@
       "path": "content/2026-10-31_x_yes-i-don-t-think-ai-will-take.md",
       "sha256": "732de66c2e9ed643a716d2602f051ca1493c70c59c796c4b70387b96fc515b47",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T05:49:55.000Z",
+      "id": "2116769685895327927",
+      "path": "content/2026-11-01_x_1m-tokens-for-each-solved-math-puzzle.md",
+      "sha256": "fd54ef9cd26ff4d4ff19a5dfa3ce41e59b08f2115a6dd44942d39fe18a6955ef",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T06:00:19.000Z",
+      "id": "2116772302880968735",
+      "path": "content/2026-11-01_x_already-did-a-lot-of-etag-caching-etc.md",
+      "sha256": "8bc9dadff11920cd1b6192173af2429a09ecb5a1f0d7cfe5dd0d408cc7c5ccc0",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T06:41:01.000Z",
+      "id": "2116782545186787622",
+      "path": "content/2026-11-01_x_github-has-got-to-do-something-here-not.md",
+      "sha256": "3fe3a2a2893fd1759f015844d208a39d62acdda71918c6f9068e9974c2584baf",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T06:02:11.000Z",
+      "id": "2116772774501093458",
+      "path": "content/2026-11-01_x_guess-it-s-time-to-evaluate-cursor-origin.md",
+      "sha256": "8686f07c8a1f6705b943bd8ea439d5194606c5a9a346127966459a0919f23b16",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T05:43:28.000Z",
+      "id": "2116768061915316320",
+      "path": "content/2026-11-01_x_how-old-is-your-kid.md",
+      "sha256": "93f62139386c1f84344370417c4af34a0f4e349f9dbc7e150ffac28ea4a6ac69",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T06:10:41.000Z",
+      "id": "2116774911477989803",
+      "path": "content/2026-11-01_x_i-already-do-a-lot-of-requests-through.md",
+      "sha256": "9f8b646685aa3a16657ec393fa86d5c6c5a3ac4bfeb8abf4859d14a83e768817",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T06:12:42.000Z",
+      "id": "2116775419953504535",
+      "path": "content/2026-11-01_x_i-already-do-the-etags-my-github-oauth.md",
+      "sha256": "eb8064c98033a9a4d9682bbc95e6bc65463bbddd2ec8f691c2ac9fe3e0ea1db5",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T06:06:30.000Z",
+      "id": "2116773858795741666",
+      "path": "content/2026-11-01_x_i-do-want-each-change-to-raise-a.md",
+      "sha256": "9756a2928dba486910bde9d7ebc2c6a380b64aa982a271ad94c82ed5f7a67abf",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T06:59:50.000Z",
+      "id": "2116787281352909238",
+      "path": "content/2026-11-01_x_many-harness-features-will-become-obsolete-but-i.md",
+      "sha256": "43efe8cf9cb1cb3efa795c371aac8b215fdf7a57f2a28d275cdef0e244f1fca6",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T06:24:29.000Z",
+      "id": "2116778384319742113",
+      "path": "content/2026-11-01_x_my-son-has-already-got-more-candies-than.md",
+      "sha256": "a4c07677c56903c9541504c22c7b48ac77e1c2e61542ad40021e5c738cd15ab3",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T05:54:29.000Z",
+      "id": "2116770835944157243",
+      "path": "content/2026-11-01_x_now-that-i-solved-the-code-review-and.md",
+      "sha256": "b181117c24690b9391755e579252b5205f4e23b1c2ae0214d43a42cc143275b7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T06:05:23.000Z",
+      "id": "2116773578171727980",
+      "path": "content/2026-11-01_x_that-solves-a-different-problem-though.md",
+      "sha256": "d7ee326956eaea3d91bcfcc18ea5df154f238be3b378af48ffb8648f8eb6c394",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T06:53:01.000Z",
+      "id": "2116785563697348705",
+      "path": "content/2026-11-01_x_when-i-measured-it-codemode-uses-quite-a.md",
+      "sha256": "945582d77829439873a52b605a051197e1cb5784089a5b7596d5d653247b5bd9",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-10-31T10:14:33Z",
+  "updated_at": "2026-11-01T11:14:13Z",
   "version": 1
 }
