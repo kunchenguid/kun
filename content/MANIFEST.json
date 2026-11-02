@@ -13371,6 +13371,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-01T19:40:36.000Z",
+      "id": "2116978736071651460",
+      "path": "content/2026-11-01_x_been-testing-the-new-multiplexer-rex-for-a.md",
+      "sha256": "8505033492d1e0d7c27a6107a9f6afb22c9a2e2fa8da80678a5337349d14a2a8",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-01T06:41:01.000Z",
       "id": "2116782545186787622",
       "path": "content/2026-11-01_x_github-has-got-to-do-something-here-not.md",
@@ -13413,6 +13420,20 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-01T17:27:56.000Z",
+      "id": "2116945346853241154",
+      "path": "content/2026-11-01_x_i-m-still-on-the-monorepo-side-policies.md",
+      "sha256": "6082a32b632ea3cf30c09b85d035f483ba518d270b5d966cee8e8dd4b9e0eb94",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T21:24:49.000Z",
+      "id": "2117004961422967106",
+      "path": "content/2026-11-01_x_it-provides-an-out-of-the-box-e2e.md",
+      "sha256": "256ed9a7dcfef0c4a004d54df75c552bdef962bb34a824320c230290c2db9f86",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-01T06:59:50.000Z",
       "id": "2116787281352909238",
       "path": "content/2026-11-01_x_many-harness-features-will-become-obsolete-but-i.md",
@@ -13427,10 +13448,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-01T17:09:36.000Z",
+      "id": "2116940733928313176",
+      "path": "content/2026-11-01_x_my-son-learned-a-lot-from-chatting-with.md",
+      "sha256": "f31cbd058ce1afb5961edb51b10318227b764e5e4c4e55c34b25072507f9f5fa",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-01T05:54:29.000Z",
       "id": "2116770835944157243",
       "path": "content/2026-11-01_x_now-that-i-solved-the-code-review-and.md",
       "sha256": "b181117c24690b9391755e579252b5205f4e23b1c2ae0214d43a42cc143275b7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T17:01:23.000Z",
+      "id": "2116938664949518489",
+      "path": "content/2026-11-01_x_peter-has-built-something-for-every-bottleneck-should.md",
+      "sha256": "1fcedb8b1c6cc39bde60bbf85a0d2ae39f9783819b54eb18e67a2ee752d1e7bb",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T16:55:28.000Z",
+      "id": "2116937178626584667",
+      "path": "content/2026-11-01_x_rt-i-ve-been-dealing-with-this-problem.md",
+      "sha256": "24e5ae6da50089d3d12d44ab50da63cf634414aa759099ea8c160216f0b6dcc9",
       "source": "x"
     },
     {
@@ -13441,13 +13483,139 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-01T23:14:04.000Z",
+      "id": "2117032455085727909",
+      "path": "content/2026-11-01_x_til-theres.md",
+      "sha256": "39958c7999c33ab52e3f95660496445b4cb37c5fa2f0b9ab86c774864d928818",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T16:55:39.000Z",
+      "id": "2116937223803416894",
+      "path": "content/2026-11-01_x_untitled.md",
+      "sha256": "698fe9bbdea950334329525481bc1ab6d7d807dafdb9c8adb968f763c95c8313",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-01T06:53:01.000Z",
       "id": "2116785563697348705",
       "path": "content/2026-11-01_x_when-i-measured-it-codemode-uses-quite-a.md",
       "sha256": "945582d77829439873a52b605a051197e1cb5784089a5b7596d5d653247b5bd9",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T23:26:57.000Z",
+      "id": "2117035696682840423",
+      "path": "content/2026-11-01_x_yes-its-great-on-the-beautiful-dimension-but.md",
+      "sha256": "b7740e8c43d111757f1389991cbbe1dee2bd553f830dd7efc9cef54c0a595db6",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-01T17:29:10.000Z",
+      "id": "2116945659702231441",
+      "path": "content/2026-11-01_x_you-are-still-talking-about-learning.md",
+      "sha256": "9404f150fabbe456b042fd85477add921f9e4249945acd51b60d70cee649e313",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T04:47:45.000Z",
+      "id": "2117116428361044280",
+      "path": "content/2026-11-02_x_event-driven-design.md",
+      "sha256": "eb9197d636b5b8494e2e02995825b4309a0a47de4015f611b7ba59cbbbd17269",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T04:54:07.000Z",
+      "id": "2117118032711758014",
+      "path": "content/2026-11-02_x_flower-shop-is-not-the-best-example-because.md",
+      "sha256": "04cd0cedfa3df6f246841d2a74e150ef2789b07a4d57b35d5604973a585bc409",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T05:01:57.000Z",
+      "id": "2117120004437254274",
+      "path": "content/2026-11-02_x_haha-have-you-tried-my-kun-bot-it.md",
+      "sha256": "216d9cca36f7c867e787faa36e9305aa2adc484b35fea6623e88864770974e12",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T04:43:06.000Z",
+      "id": "2117115261015007600",
+      "path": "content/2026-11-02_x_i-don-t-think-it-s-either-or.md",
+      "sha256": "8115ac4bc8dad367c5d72801e8f6fa8c49ee7725e40a7a1ee724a6a7df44d843",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T04:32:13.000Z",
+      "id": "2117112521161326914",
+      "path": "content/2026-11-02_x_i-just-read-through-this-article-of-deepseek.md",
+      "sha256": "7d325345c9dd7883b369d5388f79ac4a053e50805e06b9a3221b6c4da219c2d8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T05:48:09.000Z",
+      "id": "2117131631177978162",
+      "path": "content/2026-11-02_x_i-think-it-already-works.md",
+      "sha256": "cf831fc9f7d58dd8ea5595e59b6dd6594bac36f845b5a1a69b71aff60ee35939",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T05:40:47.000Z",
+      "id": "2117129774103740589",
+      "path": "content/2026-11-02_x_shipped-a-lot-of-things-check-out-which.md",
+      "sha256": "f34fb962c74bfe304a848c0f596c01b53878b4fa2b14bfe8bdac86d82cc96178",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T04:36:54.000Z",
+      "id": "2117113696682205421",
+      "path": "content/2026-11-02_x_untitled.md",
+      "sha256": "7e44892645a542ad8f58f93ae8b6501417f2216b3fd5551068385f8a19ae216f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T04:43:47.000Z",
+      "id": "2117115431429472334",
+      "path": "content/2026-11-02_x_untitled_29472334.md",
+      "sha256": "faba3badd2cd2360a17ed90e353cc6c50ed3b3ac7328df02e5ec4ccf7a312767",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T04:47:05.000Z",
+      "id": "2117116262329536734",
+      "path": "content/2026-11-02_x_untitled_29536734.md",
+      "sha256": "781ade7ff250933005cfd0817f1c2a739fad7a911511fa54846a47590ff0c06c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T07:08:17.000Z",
+      "id": "2117151794036150668",
+      "path": "content/2026-11-02_x_untitled_36150668.md",
+      "sha256": "5b3bc09ca804feb71ad992632963d01a9da3f2959fc6174bbe9519da1b99f489",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T04:58:22.000Z",
+      "id": "2117119102385086950",
+      "path": "content/2026-11-02_x_untitled_85086950.md",
+      "sha256": "12841917444d65edcc6381ce30d291ba3f393bd45018d5c8cf26dc0112f18dbf",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T03:16:29.000Z",
+      "id": "2117093462701121609",
+      "path": "content/2026-11-02_x_yes-but-as-a-pure-ssh-client-rex.md",
+      "sha256": "1db376699121795374a7982fd58e2d5043e16a07c587b8a11750786ef2c42f75",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T05:00:33.000Z",
+      "id": "2117119652069618039",
+      "path": "content/2026-11-02_x_you-need-a-human-who-have-successfully-done.md",
+      "sha256": "0cac36c969524c9838c28ba3e87c18bc13b77bd464b3ba56147757d42ae77afb",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-01T11:14:13Z",
+  "updated_at": "2026-11-02T11:19:12Z",
   "version": 1
 }
