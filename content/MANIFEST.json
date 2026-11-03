@@ -151,7 +151,7 @@
       "created_at": "2026-05-04T23:03:48.008Z",
       "id": "196084491",
       "path": "content/2026-05-04_substack_the-month-after-leaving-big-tech.md",
-      "sha256": "b212dedba9b500a7e081d73f0841bdbf4c3d85e34e992070cfe9df592f8d5c96",
+      "sha256": "f616574c26494850297804b6fc90fbd1df0452d45321b7a8f103158ffc497ace",
       "source": "substack"
     },
     {
@@ -13518,10 +13518,24 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-02T22:51:25.000Z",
+      "id": "2117389141520650582",
+      "path": "content/2026-11-02_x_def-not-a-small-thing-fast-and-cost.md",
+      "sha256": "4986fd057df0fd2747d40e037b02d2e730d06ea7e195832b2fee1724d0eac421",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-02T04:47:45.000Z",
       "id": "2117116428361044280",
       "path": "content/2026-11-02_x_event-driven-design.md",
       "sha256": "eb9197d636b5b8494e2e02995825b4309a0a47de4015f611b7ba59cbbbd17269",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T17:00:56.000Z",
+      "id": "2117300941615706545",
+      "path": "content/2026-11-02_x_finally-found-where-all-the-hater-replies-came.md",
+      "sha256": "341ab2459b846ac80f9434778ff8c331d82113311f701f95a028a7d7a99db8ec",
       "source": "x"
     },
     {
@@ -13553,6 +13567,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-02T23:40:31.000Z",
+      "id": "2117401498804244519",
+      "path": "content/2026-11-02_x_i-run-it-locally-too-it-greatly-reduces.md",
+      "sha256": "117a83634bf537d0791386ea432eb6dd2c2a9fe0ec32e8257acc8062acf52f15",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-02T05:48:09.000Z",
       "id": "2117131631177978162",
       "path": "content/2026-11-02_x_i-think-it-already-works.md",
@@ -13560,10 +13581,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-02T17:07:02.000Z",
+      "id": "2117302474004648289",
+      "path": "content/2026-11-02_x_if-you-came-from-a-repost-that-said.md",
+      "sha256": "15445d666cb1f2f6a4c0f7a36f87c49f48e2e4f2bc049a166ffee532a6b58bf4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T18:48:56.000Z",
+      "id": "2117328121888399433",
+      "path": "content/2026-11-02_x_rt-for-9-weeks-i-mostly-talked-to.md",
+      "sha256": "890b14c64473ca7b07951897774e453e8792adbc1d0b630f314b068d428dbb9b",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-02T05:40:47.000Z",
       "id": "2117129774103740589",
       "path": "content/2026-11-02_x_shipped-a-lot-of-things-check-out-which.md",
       "sha256": "f34fb962c74bfe304a848c0f596c01b53878b4fa2b14bfe8bdac86d82cc96178",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-02T17:22:49.000Z",
+      "id": "2117306449491833343",
+      "path": "content/2026-11-02_x_there-were-no-pushbacks-until-this-post-came.md",
+      "sha256": "03d36400fec2996a5b8e7c47b7146212850bbb26b023bc898377e39acc1b65a9",
       "source": "x"
     },
     {
@@ -13595,6 +13637,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-02T18:49:08.000Z",
+      "id": "2117328170936586569",
+      "path": "content/2026-11-02_x_untitled_36586569.md",
+      "sha256": "1a9b26139c97409ddadc17e9528dc00cae2dc4c52addd826829ecb4de1155fe6",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-02T04:58:22.000Z",
       "id": "2117119102385086950",
       "path": "content/2026-11-02_x_untitled_85086950.md",
@@ -13614,8 +13663,92 @@
       "path": "content/2026-11-02_x_you-need-a-human-who-have-successfully-done.md",
       "sha256": "0cac36c969524c9838c28ba3e87c18bc13b77bd464b3ba56147757d42ae77afb",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T05:10:10.000Z",
+      "id": "2117484457112551433",
+      "path": "content/2026-11-03_x_first-ide-fell-apart-then-code-review-became.md",
+      "sha256": "9ce473db9dd27733f710def06bb97a7debdd84fbb943b18d9415444ab1a9ad01",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T06:11:11.000Z",
+      "id": "2117499813881422109",
+      "path": "content/2026-11-03_x_for-a-while-i-manually-reviewed-every-single.md",
+      "sha256": "80280cf7b1ccad50b69e047120e40d3fc1c241351132b1c3e3a88d269c6ba605",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T01:27:29.000Z",
+      "id": "2117428420145815666",
+      "path": "content/2026-11-03_x_good-thing-the-community-is-acting-with-community.md",
+      "sha256": "e611791671c97e574415e3408750bedb9a3008658c812aa5f20f8aec30bc7356",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T05:33:29.000Z",
+      "id": "2117490325346546136",
+      "path": "content/2026-11-03_x_haha-that-s-exactly-how-oncall-becomes-the.md",
+      "sha256": "f0a1595c447d3bb17a2d08cdee7f0b182ca46d656a0c68ac4cc09340de5f769e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T06:50:05.000Z",
+      "id": "2117509602271203412",
+      "path": "content/2026-11-03_x_hmm-i-dont-think-mutation-testing-and-adversarial.md",
+      "sha256": "1cb66e633b780869a7b88033265592c559fe3ec5dcaddc543bf2f7d9227de7e5",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T05:34:55.000Z",
+      "id": "2117490685817557043",
+      "path": "content/2026-11-03_x_i-suspect-even-with-the-traces-it-s.md",
+      "sha256": "9f559b3ab298deb200277b2b8fe35d2fb9f7056dda7abe5f96d96986aff7d5ee",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T05:55:25.000Z",
+      "id": "2117495844010447138",
+      "path": "content/2026-11-03_x_i-ve-been-trying-to-get-rid-of.md",
+      "sha256": "b5566021d5d4327c48461adcbceab7d725c71bcafbbb2d15340a948b3357ea06",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T05:32:36.000Z",
+      "id": "2117490103870509430",
+      "path": "content/2026-11-03_x_indeed-it-s-a-ticking-bomb-in-many.md",
+      "sha256": "7e43434a84c759b7dcd46d8fb28c3bc7861e11b74318eee616f79e0d2c6d8fdf",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T06:42:36.000Z",
+      "id": "2117507721369210951",
+      "path": "content/2026-11-03_x_not-directly-from-code-reviews-but-i-have.md",
+      "sha256": "ed0b2b226a45f42899079c7e1305d78c5d299a0d2767045191690b8ec73993ae",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T05:55:31.000Z",
+      "id": "2117495869469761968",
+      "path": "content/2026-11-03_x_rt-i-ve-been-trying-to-get-rid.md",
+      "sha256": "498456b58669f7aa028a46c67503a00499847ad72fecd83142c0e70d78af3e8c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T01:09:29.000Z",
+      "id": "2117423889219465692",
+      "path": "content/2026-11-03_x_since-when-is-it-okay-to-flat-out.md",
+      "sha256": "b9f51608ffb468df2bd9cc863ffa04cb89fade3cbd7b8847b263c17a010ca7aa",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T05:56:15.000Z",
+      "id": "2117496053587165297",
+      "path": "content/2026-11-03_x_yep-the-world-is-not-prepared.md",
+      "sha256": "23557877224802622eae3f5ccf7d75c0e3bfe90204c08eae3c4063024aa62205",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-02T11:19:12Z",
+  "updated_at": "2026-11-03T11:13:45Z",
   "version": 1
 }
