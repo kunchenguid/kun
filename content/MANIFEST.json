@@ -13665,6 +13665,20 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-03T20:45:24.000Z",
+      "id": "2117719816400433546",
+      "path": "content/2026-11-03_x_ah-cool-thanks-peter-this-was-a-fun.md",
+      "sha256": "6d6c5fd9841ac9d34bd03687eb50bf039834eb13341cec14a24c5f928bd7b180",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T17:23:02.000Z",
+      "id": "2117668892416074080",
+      "path": "content/2026-11-03_x_captains-never-stop-shipping.md",
+      "sha256": "570268ef49d813c52cc8d60f0a9ba61e6c2b16196511d7562b6eeb7573dc72c0",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-03T05:10:10.000Z",
       "id": "2117484457112551433",
       "path": "content/2026-11-03_x_first-ide-fell-apart-then-code-review-became.md",
@@ -13683,6 +13697,13 @@
       "id": "2117428420145815666",
       "path": "content/2026-11-03_x_good-thing-the-community-is-acting-with-community.md",
       "sha256": "e611791671c97e574415e3408750bedb9a3008658c812aa5f20f8aec30bc7356",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T20:43:17.000Z",
+      "id": "2117719284969619562",
+      "path": "content/2026-11-03_x_got-it-does-it-ever-disclose-its-a.md",
+      "sha256": "21c329033614601173d438c2f56eac54cb50515c52e34e1cea41e265d9654362",
       "source": "x"
     },
     {
@@ -13714,10 +13735,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-03T20:39:39.000Z",
+      "id": "2117718371219476968",
+      "path": "content/2026-11-03_x_if-in-the-middle-of-the-call-the.md",
+      "sha256": "5aa41f55a8b1d592d712c859c3066d23dc4465190e83f12b1cce7b651fe02ea5",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-03T05:32:36.000Z",
       "id": "2117490103870509430",
       "path": "content/2026-11-03_x_indeed-it-s-a-ticking-bomb-in-many.md",
       "sha256": "7e43434a84c759b7dcd46d8fb28c3bc7861e11b74318eee616f79e0d2c6d8fdf",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T23:11:03.000Z",
+      "id": "2117756472432148784",
+      "path": "content/2026-11-03_x_just-published-a-free-oss-tool-runner-up.md",
+      "sha256": "70cbed1e06b8acf5373243957774d3fe0fbc78598cf5d4ab1dc4a31d6aeba838",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T23:40:54.000Z",
+      "id": "2117763982299943130",
+      "path": "content/2026-11-03_x_mac-jobs-are-disgustingly-expensive.md",
+      "sha256": "cb65e5639e5c3fb86a9cd3c1a62f3dca5a186669fca611aa8919eaf079e0d813",
       "source": "x"
     },
     {
@@ -13742,13 +13784,69 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-03T20:51:36.000Z",
+      "id": "2117721377012949418",
+      "path": "content/2026-11-03_x_the-first-step-in-the-no-mistakes-pipeline.md",
+      "sha256": "4fae175e6ed11712570945b43d0bce7e8e1d5eb38a742e942352722d31ce9a02",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-03T05:56:15.000Z",
       "id": "2117496053587165297",
       "path": "content/2026-11-03_x_yep-the-world-is-not-prepared.md",
       "sha256": "23557877224802622eae3f5ccf7d75c0e3bfe90204c08eae3c4063024aa62205",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T23:40:37.000Z",
+      "id": "2117763911940505813",
+      "path": "content/2026-11-03_x_yes-each-runner-can-run-in-a-micro.md",
+      "sha256": "52fe4d6af8de0cc189446a4fa547a23b473b6cac545c0ad4bc017a27aafdd517",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-03T23:39:15.000Z",
+      "id": "2117763569458770029",
+      "path": "content/2026-11-03_x_yes-repo-readme-actually-explained-why-i-did.md",
+      "sha256": "a7a1e79093057f12c710baa983421339be18057a65489d6699ebe115d3a6a2b1",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T02:25:06.000Z",
+      "id": "2117805307950985313",
+      "path": "content/2026-11-04_x_i-actually-often-reply-even-when-i-knew.md",
+      "sha256": "6ac4d0044e4ae31e433a0a9174ce401175db11b2e34a149afd5e9cb07149cb5e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T05:28:39.000Z",
+      "id": "2117851496390041791",
+      "path": "content/2026-11-04_x_i-have-a-m5-macbook-pro-m4-mac.md",
+      "sha256": "9a4c6ce5fd792470a739c9652c435bb96d5588f0727365772a858fcf1192c475",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T00:38:31.000Z",
+      "id": "2117778483388834007",
+      "path": "content/2026-11-04_x_no-because-that-s-github-actions-and-application.md",
+      "sha256": "e2fc8488b00d8c3d90d0017dfec8ffc8836e0d06575d8a54a5bfc76d8502b0ba",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T05:18:28.000Z",
+      "id": "2117848936597876999",
+      "path": "content/2026-11-04_x_runner-up-can-orchestrate-tart-vms-as-mac.md",
+      "sha256": "8f7563ce1526ed598ee5586ea86766ca0c46e57d40e06fa4c95937134d507d5f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T10:27:27.000Z",
+      "id": "2117926693239246991",
+      "path": "content/2026-11-04_x_working-with-ai-is-fundamentally-asking-someone-else.md",
+      "sha256": "c4bcace9e0d91a2242f0e857347ff7696685b778fe8afbaad70558c441487a6c",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-03T11:13:45Z",
+  "updated_at": "2026-11-04T11:18:50Z",
   "version": 1
 }

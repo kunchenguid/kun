@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-11-03_
-_Latest source window: X posts and replies from 2026-11-02 to 2026-11-03 (UTC), public Substack refresh (0 new posts, 1 metadata refresh), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 19 new X items, 1 Substack metadata refresh, and 0 YouTube items; the durable opinion updates sharpened why adversarial review stays (dropping it only delayed costly discoveries) and what makes its ROI work, the point of failure moving right from IDE through code review, CI, and merge queues toward production and on-call, and the kids-and-AI point as today's AI design not being fun rather than forcing kids to use AI; VOICE confirmed existing patterns only._
+_Last updated: 2026-11-04_
+_Latest source window: X posts and replies from 2026-11-03 to 2026-11-04 (UTC), public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 14 new X items, 0 Substack items, and 0 YouTube items; the durable opinion updates sharpened the craft-joy view (working with AI is managerial, costing craftsman mastery, and questioning a world where every job becomes agent manager) and the self-hosted CI economics (idle owned hardware, Mac jobs, rented VPS landing between cloud CI and owned hardware); VOICE confirmed existing patterns only._
 
 ### Summary
 
