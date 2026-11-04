@@ -171,3 +171,13 @@ https://github.com/kunchenguid/compact-adviser
 It solves the problem of compacting too early or too late by using TypeSafe's Jev model to assess whether work is finished and whether the session is hands-on or coordination work, with a usage-aware threshold.
 
 Install it with the plugin flow for Pi, Claude Code, Codex CLI, or Grok Build, and use Node 22+ plus a TypeSafe API key. Pi and Claude Code can opt into automatic compaction; Codex and Grok are hint-only, and platform-specific setup is required.
+
+## runner-up
+
+https://github.com/kunchenguid/runner-up
+
+`runner-up` is a Go program that self-hosts GitHub Actions runners across the Linux boxes, Macs, and Windows PCs you already own, giving each job a fresh Docker container, KVM, tart, or Hyper-V virtual machine, Apple container guest, or Windows account that is removed when the job ends.
+
+It solves the problem of jobs waiting in line for hosted runners or running up a cloud CI bill while spare machines sit idle. One coordinator uses GitHub's runner scale sets to hear about waiting jobs, picks a free place by cores, memory, and order rules across repositories, keeps room for the machine's owner, and refuses fork pull requests by default.
+
+Install it with the install script, Nix, or `go install`, then run `runner-up init`, `runner-up machine add` for each machine, `runner-up check-config`, and `runner-up serve` as a service on a Linux or macOS coordinator. It needs `gh` signed in as a repository admin, SSH access to each machine, the virtualization tools each place kind uses, and pool labels in your workflows' `runs-on`. It is young, and runner scale sets are still a GitHub preview.
