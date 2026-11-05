@@ -13812,6 +13812,48 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-04T18:30:18.000Z",
+      "id": "2118048206185721866",
+      "path": "content/2026-11-04_x_actually-racers-would-hate-to-be-stopped-from.md",
+      "sha256": "25bb0c73e7307979685570841a4b740d943300edb64f529691a758eea485b08f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T23:08:06.000Z",
+      "id": "2118118114995130803",
+      "path": "content/2026-11-04_x_already-stuck-lol.md",
+      "sha256": "28773083dcfc56b74f26ca429f9d9995cc562b02eec0718cf5b8fa55295044a4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T23:09:57.000Z",
+      "id": "2118118583914074312",
+      "path": "content/2026-11-04_x_classic-blizzard-launch-day.md",
+      "sha256": "ee8937b2e366f7d86cf5eabf16969ad08f53f4c15c597e0dbbbb72f6f6848b0b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T20:49:18.000Z",
+      "id": "2118083185053663550",
+      "path": "content/2026-11-04_x_haha-i-need-to-first-learn-from-you.md",
+      "sha256": "bad028726fb7a2f197f54f4b019ec713846c1aa31e5693ab2e30b616f5561607",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T23:07:50.000Z",
+      "id": "2118118049152950433",
+      "path": "content/2026-11-04_x_haha-i-wish-speed-of-light-was-faster.md",
+      "sha256": "c93ad97bb1ca7c05748647e9b4944887829f96f7c219fdccf12b4c5c556831be",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T20:46:39.000Z",
+      "id": "2118082522005512194",
+      "path": "content/2026-11-04_x_havent-planned-a-grok-bot-video-yet-but.md",
+      "sha256": "5abce4547c3b3ff3fcc8fbe535fe02258bd73182a47fc0e75a76cc98f5e810c0",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-04T02:25:06.000Z",
       "id": "2117805307950985313",
       "path": "content/2026-11-04_x_i-actually-often-reply-even-when-i-knew.md",
@@ -13823,6 +13865,41 @@
       "id": "2117851496390041791",
       "path": "content/2026-11-04_x_i-have-a-m5-macbook-pro-m4-mac.md",
       "sha256": "9a4c6ce5fd792470a739c9652c435bb96d5588f0727365772a858fcf1192c475",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T19:20:41.000Z",
+      "id": "2118060887810720119",
+      "path": "content/2026-11-04_x_i-only-have-a-few-hours-left-because.md",
+      "sha256": "c982c5b2944f63499f1ae49f53be5df203333b628e7c80d86cb2a2dda64e3a24",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T23:15:01.000Z",
+      "id": "2118119859368427526",
+      "path": "content/2026-11-04_x_im-going-horde.md",
+      "sha256": "efa02217142aedd80074e9eafab1e51519fc9faa0773c7a29377c2bb56434e5d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T23:01:57.000Z",
+      "id": "2118116568534265985",
+      "path": "content/2026-11-04_x_its-time.md",
+      "sha256": "55d0b49a2d95fd2807ac9117114ed8413e8c25f976d57eaefa81d61dc87eb797",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T20:48:16.000Z",
+      "id": "2118082927460487301",
+      "path": "content/2026-11-04_x_maybe.md",
+      "sha256": "e4258a2143b7fa62a79ffef1e9a87f18a6906caaa59c769c61a490241cbb0def",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T20:38:33.000Z",
+      "id": "2118080479824126098",
+      "path": "content/2026-11-04_x_my-open-source-projects-collectively-crossed-30k-stars.md",
+      "sha256": "a0a4e0f863b8b82dd7bfe7cde7074f8bcfea553ccceb632c7de211251093840c",
       "source": "x"
     },
     {
@@ -13840,13 +13917,83 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-04T20:54:17.000Z",
+      "id": "2118084442120130956",
+      "path": "content/2026-11-04_x_untitled.md",
+      "sha256": "ae274b4902df0af3d45e3e6cbdea1d10234b9a3eefdf5e80e44000b3a569f9ad",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T20:59:07.000Z",
+      "id": "2118085658107605294",
+      "path": "content/2026-11-04_x_untitled_07605294.md",
+      "sha256": "5536874e3be8268eb2bcb47cd35f6ec33e8d41d62f60ff17469100abd31e6a28",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-04T10:27:27.000Z",
       "id": "2117926693239246991",
       "path": "content/2026-11-04_x_working-with-ai-is-fundamentally-asking-someone-else.md",
       "sha256": "c4bcace9e0d91a2242f0e857347ff7696685b778fe8afbaad70558c441487a6c",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-04T21:20:23.000Z",
+      "id": "2118091008374403376",
+      "path": "content/2026-11-04_x_yeah-my-videos-so-far-are-more-made.md",
+      "sha256": "a15cdffdced53b47ac1b9428e428fac0e3cb61fae4d9fdc67d83b4a0d4bd0bf4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-05T07:05:44.000Z",
+      "id": "2118238315971596709",
+      "path": "content/2026-11-05_x_horde-because-alliance-is-all-asmongold-army-at.md",
+      "sha256": "474873ef033a0fa47f6347862675b02bf0bb0246e8c794d1ab9572d6aa3a68fc",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-05T06:38:10.000Z",
+      "id": "2118231379796476236",
+      "path": "content/2026-11-05_x_im-going-rogue.md",
+      "sha256": "95b87ff40efb5e56cd51580392734836849b224cada5fbfd8e1b797f4cbf23b1",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-05T07:03:59.000Z",
+      "id": "2118237875003388323",
+      "path": "content/2026-11-05_x_its-a-video-game-of-course-its-worth.md",
+      "sha256": "2e84919e1e2a5789f068a8e2416f0e15c8334e88ec639276fc462b90fec96e6d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-05T00:41:31.000Z",
+      "id": "2118141628137550274",
+      "path": "content/2026-11-05_x_lok-tar-ogar.md",
+      "sha256": "c9e2d38ae81ad904ecd71bc59b76880f0dfbb37b4611fcbb1b86bc6d7517bae7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-05T06:36:20.000Z",
+      "id": "2118230920297934870",
+      "path": "content/2026-11-05_x_so-many-victims-already.md",
+      "sha256": "be98e7ead0ac18e593cc2a84677bca090ed9526949088dfed4349b3d76c6cd48",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-05T06:20:37.000Z",
+      "id": "2118226962972016922",
+      "path": "content/2026-11-05_x_software-is-dead-wow-forever-killed-all-the.md",
+      "sha256": "d32855afa0c7f3e6f44830518907cd986415d1affc83af8f7666adf89b931149",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-05T06:24:35.000Z",
+      "id": "2118227961551991240",
+      "path": "content/2026-11-05_x_try-it-out-its-not-addictive-at-all.md",
+      "sha256": "75125297a5cf432989e7f3cf68538e32b0c0a585e87e09102804723148143c17",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-04T11:18:50Z",
+  "updated_at": "2026-11-05T11:11:42Z",
   "version": 1
 }
