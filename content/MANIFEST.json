@@ -13945,10 +13945,24 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-05T18:35:42.000Z",
+      "id": "2118411953958010957",
+      "path": "content/2026-11-05_x_before-writing-a-lot-of-code-with-agents.md",
+      "sha256": "9287bb1f8944eb838a84311b9a3f213efe9f71ca406b2e2b57d06e3920115b7f",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-05T07:05:44.000Z",
       "id": "2118238315971596709",
       "path": "content/2026-11-05_x_horde-because-alliance-is-all-asmongold-army-at.md",
       "sha256": "474873ef033a0fa47f6347862675b02bf0bb0246e8c794d1ab9572d6aa3a68fc",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-05T22:24:39.000Z",
+      "id": "2118469569090396209",
+      "path": "content/2026-11-05_x_i-do-agree-with-that-being-the-end.md",
+      "sha256": "f918ad81eac68ea6dc61f83e0fbb7b1a7d68250c53ae693349ea4e5647d2069c",
       "source": "x"
     },
     {
@@ -13959,10 +13973,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-05T22:02:02.000Z",
+      "id": "2118463877348548997",
+      "path": "content/2026-11-05_x_im-sure-1000-is-not-optimal-and-we.md",
+      "sha256": "988ac6360535c70fd053f7886f4f49302f25491e401cf70705d6accbf3b41549",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-05T22:22:25.000Z",
+      "id": "2118469006734872768",
+      "path": "content/2026-11-05_x_it-s-empirical-although-i-haven-t-run.md",
+      "sha256": "e5dc51ade5f8ab99699f59a3ce0f3f077cc4b64aeea23c8ff5955ac6cb0bf7e8",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-05T07:03:59.000Z",
       "id": "2118237875003388323",
       "path": "content/2026-11-05_x_its-a-video-game-of-course-its-worth.md",
       "sha256": "2e84919e1e2a5789f068a8e2416f0e15c8334e88ec639276fc462b90fec96e6d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-05T21:43:40.000Z",
+      "id": "2118459257188401251",
+      "path": "content/2026-11-05_x_its-relevant-because-most-harnesses-built-in-tools.md",
+      "sha256": "215eac18c46028da527a98d720ac211c95f7463982b5a71dc0b8ae0a442e6f41",
       "source": "x"
     },
     {
@@ -13987,13 +14022,41 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-05T19:11:45.000Z",
+      "id": "2118421025956438079",
+      "path": "content/2026-11-05_x_there-are-too-many-best-way-is-to.md",
+      "sha256": "9a788e0a7cb77518fd89cfce0c803073efe1272694e4b7404ae7ce0c001030de",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-05T22:27:59.000Z",
+      "id": "2118470410237026503",
+      "path": "content/2026-11-05_x_they-correlate-strongly-in-most-cases-either-could.md",
+      "sha256": "100ceb0333e8b8c041ed45715154c3d879e624ae440afc751fd54b3312c6aa43",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-05T06:24:35.000Z",
       "id": "2118227961551991240",
       "path": "content/2026-11-05_x_try-it-out-its-not-addictive-at-all.md",
       "sha256": "75125297a5cf432989e7f3cf68538e32b0c0a585e87e09102804723148143c17",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-05T18:53:29.000Z",
+      "id": "2118416428818948587",
+      "path": "content/2026-11-05_x_yup-exactly-why-adding-this-lint-rule-early.md",
+      "sha256": "d1bd99cece80d4f407662244996d6143ba49374db76b4d60eb76085f919a94b1",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T05:24:27.000Z",
+      "id": "2118575217434083350",
+      "path": "content/2026-11-06_x_treehouse-already-supports-apfs-copy-on-write-will.md",
+      "sha256": "b9e9c4acfe68b8a7ffd1e6369012524e03605668c7ac48f09f497ef21ddc1675",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-05T11:11:42Z",
+  "updated_at": "2026-11-06T11:35:41Z",
   "version": 1
 }

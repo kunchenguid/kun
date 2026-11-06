@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-11-05_
-_Latest source window: X posts and replies from 2026-11-04 to 2026-11-05 (UTC), public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 21 new X items, 0 Substack items, and 0 YouTube items; the durable opinion updates sharpened open-source growth and maintenance (videos over viral tweets, community steering toward product-market fit, a minimum contribution bar instead of PR or AI bans) and the craft-joy view (people delegate what they see as a job and do what they love themselves); VOICE confirmed existing patterns only._
+_Last updated: 2026-11-06_
+_Latest source window: X posts and replies from 2026-11-05 to 2026-11-06 (UTC), public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
+_Latest run analyzed 9 new X items, 0 Substack items, and 0 YouTube items; the durable opinion update sharpened code-quality stewardship with an early single-file LOC lint cap (~1000) for agent-written codebases and the RLVR/maintainability constraint need; VOICE confirmed existing patterns only._
 
 ### Summary
 
