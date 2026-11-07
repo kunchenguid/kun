@@ -14050,13 +14050,209 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-06T18:07:32.000Z",
+      "id": "2118767252204126323",
+      "path": "content/2026-11-06_x_but-i-never-saw-ads-before-so-something.md",
+      "sha256": "a0ece25891b8569bba2566a254ed488bc4d6bec442b9c4a7b8a783167e2aa348",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T18:01:04.000Z",
+      "id": "2118765627435520288",
+      "path": "content/2026-11-06_x_go-into-replies.md",
+      "sha256": "81d664cabaaaa8f0cad0baa5c2f5f0debcc168ce5604d9621b23c7cc2037f094",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T19:37:34.000Z",
+      "id": "2118789912107548768",
+      "path": "content/2026-11-06_x_half-open-macbooks.md",
+      "sha256": "884daa3fec0f3e88b02c039d2793634f9791c31e6550ab4cbf82789d3c84332e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T18:24:41.000Z",
+      "id": "2118771567366947197",
+      "path": "content/2026-11-06_x_i-found-this-post-which-clearly-stated-that.md",
+      "sha256": "719558b6964f6a1b6744f84a3d20436a1d6dde661d08a7c52059c3711007be1e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T19:44:10.000Z",
+      "id": "2118791572401844732",
+      "path": "content/2026-11-06_x_i-have-a-routing-system-that-dispatch-agents.md",
+      "sha256": "ca4c1b2f96a5bd416af39e25c40ef7eda219592b99bc677990932918ebab2b48",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T22:51:04.000Z",
+      "id": "2118838604361515289",
+      "path": "content/2026-11-06_x_i-m-not-running-llms-on-these-machines.md",
+      "sha256": "dec24be59b7f83c8fcc6cfd5618b0691993f3341192017f04dad5e226a2cb16f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T19:56:33.000Z",
+      "id": "2118794688417386506",
+      "path": "content/2026-11-06_x_i-need-to-change-it-to-a-rack.md",
+      "sha256": "e111dc41090a729245a16472ab86014e6765e3acfef9ae235012e62d0f202cc9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T18:16:48.000Z",
+      "id": "2118769583662489841",
+      "path": "content/2026-11-06_x_i-think-the-policy-had-changed-at-some.md",
+      "sha256": "bfe8111a2b7ab98e3e67db607e5be24e2f4dc4fab2230c163103a8f668de77ca",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T19:38:41.000Z",
+      "id": "2118790191154700352",
+      "path": "content/2026-11-06_x_im-building-many-things-that-have-an-ios.md",
+      "sha256": "727a7b8f2374f785abcd7fe7d02ac5b991ebb472377188ec385418950f166ed8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T20:45:33.000Z",
+      "id": "2118807018559733808",
+      "path": "content/2026-11-06_x_its-not-for-running-ai-its-running-ci.md",
+      "sha256": "90a80bf1c87d8f7fd02102242ca6efd26282e3d6d9e73953e3a51ee55a29e7c7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T18:00:15.000Z",
+      "id": "2118765420123734297",
+      "path": "content/2026-11-06_x_lol-and-it-just-showed-me-the-same.md",
+      "sha256": "566ed7d4f49be82babd15d3d7278b7bdf4b2c5044d38ea630d9873a6dea62d6c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T19:22:34.000Z",
+      "id": "2118786133731725527",
+      "path": "content/2026-11-06_x_lol-why-they-have-sunglasses.md",
+      "sha256": "baacc805a536dfcebf286033cda3f5518e8c0e985658df12276a66499db734c9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T18:08:49.000Z",
+      "id": "2118767576058822674",
+      "path": "content/2026-11-06_x_looking-at-grok-s-explanation-this-seems-intentional.md",
+      "sha256": "51c2bdd2f1c5369a530286eb6d0a562828510b74f8f1661e38b4b50b4aa5b043",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T19:15:36.000Z",
+      "id": "2118784380906962957",
+      "path": "content/2026-11-06_x_my-stallions.md",
+      "sha256": "4c69e73b40807f5d748e6d40391ae11aee823ad5ce254c3a9d1ce2880d62580e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T18:56:56.000Z",
+      "id": "2118779683852656842",
+      "path": "content/2026-11-06_x_not-a-good-sign-to-see-things-like.md",
+      "sha256": "e7b2ed091f3a9035ba00e005821ef43be6751d8ab32d760c13f4e43dd37ecc87",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T16:21:06.000Z",
+      "id": "2118740468532179235",
+      "path": "content/2026-11-06_x_opus-5-5-is-hands-down-the-best.md",
+      "sha256": "6ceb9e697bdac428930cf3a147529c85f4885f88e611b26f0bdac1d63a08c13b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T19:35:39.000Z",
+      "id": "2118789430102442022",
+      "path": "content/2026-11-06_x_owning-is-so-much-cheaper-than-renting-if.md",
+      "sha256": "1fa2f90a659cf269fac2e1eaca43ec325c45965a3da8939e934c038e19b6bf6c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T23:36:18.000Z",
+      "id": "2118849991620067470",
+      "path": "content/2026-11-06_x_they-are-minis.md",
+      "sha256": "f08b0e656c3d661b2d6ccc31987eb65dffe119fb380bd8b3d812e544ca588d94",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T18:26:59.000Z",
+      "id": "2118772148731064484",
+      "path": "content/2026-11-06_x_this-was-the-evidence-for-the-rug-pull.md",
+      "sha256": "c98a5aed116a34d5a95ff8fe5cc772b002343d6427fc8ac65c421e5e80d95d8b",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-06T05:24:27.000Z",
       "id": "2118575217434083350",
       "path": "content/2026-11-06_x_treehouse-already-supports-apfs-copy-on-write-will.md",
       "sha256": "b9e9c4acfe68b8a7ffd1e6369012524e03605668c7ac48f09f497ef21ddc1675",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T19:36:15.000Z",
+      "id": "2118789579541254494",
+      "path": "content/2026-11-06_x_untitled.md",
+      "sha256": "843f67488e8da32acfe7acd40a14fd26eb19d293dfb7f18a28b72ce23f78760c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T23:36:57.000Z",
+      "id": "2118850151162978320",
+      "path": "content/2026-11-06_x_untitled_62978320.md",
+      "sha256": "e4b28dd78d3049efd2cde14d7086c147f8075172dc44d3c773e855e93f6ca7ee",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T18:03:20.000Z",
+      "id": "2118766197781238063",
+      "path": "content/2026-11-06_x_when-did-x-rug-pull-on-no-ads.md",
+      "sha256": "8814ba0056af5de98d6b7e2dbfce7f8e30fd717d3f86cc63b17cd9003198e5fd",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T19:34:45.000Z",
+      "id": "2118789202964107468",
+      "path": "content/2026-11-06_x_wheres-the-4th.md",
+      "sha256": "7a48f993865a4fc2f3920dc8789f6b104b9643139360064210c01f25580c9ea4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T17:52:49.000Z",
+      "id": "2118763550869229767",
+      "path": "content/2026-11-06_x_wtf-did-x-just-rug-pull-on-the.md",
+      "sha256": "fb0efd4c508a78f076e0d37768b8f3ca47a8c28d402bcec1d2fce9b1bbca9884",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T20:58:24.000Z",
+      "id": "2118810251093033093",
+      "path": "content/2026-11-06_x_yes-its-the-unified-subscription-with-cursor-grok.md",
+      "sha256": "cc693cbb8591087b8dcb08e77cadedc0a5a82f879199fc1661803cca073d6d22",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T16:20:04.000Z",
+      "id": "2118740209269637435",
+      "path": "content/2026-11-06_x_yup-every-chinese-kid-in-elementary-learned-about.md",
+      "sha256": "61c492ef4c0588422a3c4831657538fac7e47cf0c457eae6a0c682f19d7fe994",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-06T19:23:18.000Z",
+      "id": "2118786322081210787",
+      "path": "content/2026-11-06_x_yup-should-probably-get-one.md",
+      "sha256": "aa4c0dd43b7b28a1a78177e5473a52369eb73e9fd226e4caa9e816eb0498138c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-07T01:40:04.000Z",
+      "id": "2118881136676073476",
+      "path": "content/2026-11-07_x_untitled.md",
+      "sha256": "96b4f1f09b81a4e10b2d6e90d237a8cf01c9b18a3168723139e5f77b8cd32e2d",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-06T11:35:41Z",
+  "updated_at": "2026-11-07T11:12:20Z",
   "version": 1
 }
