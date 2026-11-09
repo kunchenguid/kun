@@ -181,3 +181,13 @@ https://github.com/kunchenguid/runner-up
 It solves the problem of jobs waiting in line for hosted runners or running up a cloud CI bill while spare machines sit idle. One coordinator uses GitHub's runner scale sets to hear about waiting jobs, picks a free place by cores, memory, and order rules across repositories, keeps room for the machine's owner, and refuses fork pull requests by default.
 
 Install it with the install script, Nix, or `go install`, then run `runner-up init`, `runner-up machine add` for each machine, `runner-up check-config`, and `runner-up serve` as a service on a Linux or macOS coordinator. It needs `gh` signed in as a repository admin, SSH access to each machine, the virtualization tools each place kind uses, and pool labels in your workflows' `runs-on`. It is young, and runner scale sets are still a GitHub preview.
+
+## headless
+
+https://github.com/kunchenguid/headless
+
+`headless` is an Agent Skill that sets up a headless Mac, Linux, or Windows machine over SSH, one step at a time, so it never sleeps, signs itself in after a restart, accepts SSH keys only, and optionally joins Tailscale.
+
+It solves the problem of configuring an unattended machine without handing your agent the admin password. The password stays in your secret store (Automic Vault, 1Password, Bitwarden, a command, or a private env file as a last resort), and the scripts read it and pipe it on without it landing in a command line or log. Every step reruns safely, and the last step reads every setting back, restarts the machine, and checks it returns.
+
+Install it with `npx skills add kunchenguid/headless -g`, then ask your agent to set up a machine. You need macOS or Linux with bash, ssh, and tar on your side, and a target machine with an admin account that has a password and remote login on: an Apple silicon Mac, an x86_64 or aarch64 systemd Linux box, or Windows 11 or Server 2025. Nix is needed only to install NixOS.
