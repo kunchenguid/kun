@@ -14274,10 +14274,38 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-08T20:33:11.000Z",
+      "id": "2119528680607424743",
+      "path": "content/2026-11-08_x_if-you-want-near-frontier-intelligence-then-currently.md",
+      "sha256": "d0bb0b358c28ecf90614843ed83caec1bfcfc26faf796b1f94a53c8601518ba4",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-08T02:25:46.000Z",
       "id": "2119255024585064783",
       "path": "content/2026-11-08_x_just-about-to-publish-a-video-showing-how.md",
       "sha256": "be6b9ab87668529934bc2530a31c04b0852807fb6edd842f5c730c916e49f06a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-08T16:48:52.000Z",
+      "id": "2119472229574656131",
+      "path": "content/2026-11-08_x_need-more-attention-on-utilizing-technology-for-healthcare.md",
+      "sha256": "b5fec8f4f2d24f72c4c644adf6faf24b937b8e70c4b9ce3786a8b74d3e94b1d1",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-08T18:03:00.000Z",
+      "id": "2119490886593814934",
+      "path": "content/2026-11-08_x_new-video-is-up-its-been-a-while.md",
+      "sha256": "c70bfe4d32c554ceefb680a26822252c1e2aa604de8dd5d406612bb05798903a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-08T16:47:52.000Z",
+      "id": "2119471980974121093",
+      "path": "content/2026-11-08_x_rt-both-of-my-parents-each-got-diagnosed.md",
+      "sha256": "db6b14f1d2b10b54017df7a12a64542d05e00124d0159fade21aa533f11ea443",
       "source": "x"
     },
     {
@@ -14300,8 +14328,64 @@
       "path": "content/2026-11-08_x_yes-for-firstmate-and-all-second-mates-i.md",
       "sha256": "7262dff12bf6955b51f2203245aff24c2c0b610dade8b93b097d3adf917ea6e9",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-08T16:30:33+00:00",
+      "id": "UvcH1hKM-mQ",
+      "path": "content/2026-11-08_youtube_how-i-work-from-anywhere-with-a-multi.md",
+      "sha256": "5ee6940a1f63086bb3480ecc5eb4dcb4b38c3305ecdf48e9ea314547b94440a3",
+      "source": "youtube"
+    },
+    {
+      "created_at": "2026-11-09T06:40:29.000Z",
+      "id": "2119681515701596575",
+      "path": "content/2026-11-09_x_do-you-think-this-link-is-what-s.md",
+      "sha256": "c0dab10008e5b1b50c9fc66a9681156d54576ce68531df5ea93da4a707a56c79",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-09T06:02:55.000Z",
+      "id": "2119672059391627519",
+      "path": "content/2026-11-09_x_hard-to-say-all-i-know-is-that.md",
+      "sha256": "3bc18f31bbf19ee994ca010b5936382f63df087cbcfc3713ed28a17bee317c08",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-09T05:25:22.000Z",
+      "id": "2119662612321620103",
+      "path": "content/2026-11-09_x_haven-t-caught-up-on-the-drama-of.md",
+      "sha256": "21aab1d49af857b913e0f37a14c259eac6f27e28c0bd7058ec8bb82a8036af42",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-09T06:03:50.000Z",
+      "id": "2119672291877609549",
+      "path": "content/2026-11-09_x_hmm-how-would-it-benefit-the-us-i.md",
+      "sha256": "fe961fe7e6d08db4216ac5975cc965f032ec99f0c74770ee973d2d87fbded23d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-09T05:22:05.000Z",
+      "id": "2119661784470835261",
+      "path": "content/2026-11-09_x_i-had-made-many-guesses-for-what-might.md",
+      "sha256": "e7787f735f9f02d5fac9dcadb46da06898540e879af060c8c6b2d6170153aee6",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-09T05:44:45.000Z",
+      "id": "2119667489303036281",
+      "path": "content/2026-11-09_x_lol-reply-of-the-day.md",
+      "sha256": "273590312dd3dc53ec06c5e5437259e42eb230113fa1536790f79879dbdc4ae1",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-09T05:50:46.000Z",
+      "id": "2119669004231180387",
+      "path": "content/2026-11-09_x_would-not-have-thought-that-he-had-time.md",
+      "sha256": "22408e5eb346dfd631acea3233d4ca54b459ac3d6ead12e73f32f73759211b0c",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-08T11:19:13Z",
+  "updated_at": "2026-11-09T11:15:00Z",
   "version": 1
 }

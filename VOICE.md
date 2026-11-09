@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-11-08_
-_Latest source window: X posts and replies from 2026-11-07 to 2026-11-08 (UTC), public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos, 0 new transcripts)._
-_Latest run analyzed 7 new X items, 0 Substack items, and 0 YouTube items; the durable opinion update sharpened self-hosted CI economics with CI load being measurable and predictable enough to own; VOICE confirmed existing patterns only._
+_Last updated: 2026-11-09_
+_Latest source window: X posts and replies from 2026-11-08 to 2026-11-09 (UTC), public Substack refresh (0 new posts), and public YouTube RSS refresh (1 new video, 0 new transcripts)._
+_Latest run analyzed 11 new X items, 0 Substack items, and 1 YouTube item; the durable opinion update sharpened AI-bubble fragility, distillation as the driver of Chinese model catch-up, and local-model concurrency limits; VOICE confirmed existing patterns only._
 
 ### Summary
 
