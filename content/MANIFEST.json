@@ -183,6 +183,13 @@
       "source": "youtube"
     },
     {
+      "created_at": "2026-06-05T14:00:35+00:00",
+      "id": "2mDEKRTmFtY",
+      "path": "content/2026-06-05_youtube_why-middle-management-is-getting-hit.md",
+      "sha256": "11a03cfe0763c735c2e62fa2f19197f36fd4db5e3afdfdb738aa0453da0bcfd9",
+      "source": "youtube"
+    },
+    {
       "created_at": "2026-06-10T14:02:53.503Z",
       "id": "201346080",
       "path": "content/2026-06-10_substack_evaluating-the-effectiveness-of-programming-languages-for-agents.md",
@@ -14333,7 +14340,7 @@
       "created_at": "2026-11-08T16:30:33+00:00",
       "id": "UvcH1hKM-mQ",
       "path": "content/2026-11-08_youtube_how-i-work-from-anywhere-with-a-multi.md",
-      "sha256": "5ee6940a1f63086bb3480ecc5eb4dcb4b38c3305ecdf48e9ea314547b94440a3",
+      "sha256": "1d35433d82e928ebe2735dc86717e49193218c02a47aa6668566ed4a635cd5c1",
       "source": "youtube"
     },
     {
@@ -14341,6 +14348,13 @@
       "id": "2119681515701596575",
       "path": "content/2026-11-09_x_do-you-think-this-link-is-what-s.md",
       "sha256": "c0dab10008e5b1b50c9fc66a9681156d54576ce68531df5ea93da4a707a56c79",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-09T23:19:53.000Z",
+      "id": "2119933022464274757",
+      "path": "content/2026-11-09_x_game-changer-when-done-with-visuals-and-you.md",
+      "sha256": "4bb68866575ebaad367d35643ed0a8c2f5c95f8293123f3c2204cdfe8b4b81c7",
       "source": "x"
     },
     {
@@ -14365,10 +14379,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-09T19:08:24.000Z",
+      "id": "2119869732014973156",
+      "path": "content/2026-11-09_x_hmm-wait-but-why-isnt-it-called-fable.md",
+      "sha256": "4bd5e66f0ab94d48de130e59439b3dab9f0fb58b091f479862774d25756a9a6c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-09T19:07:02.000Z",
+      "id": "2119869391127089167",
+      "path": "content/2026-11-09_x_holy-crap-fable-5-2-ended-up-being.md",
+      "sha256": "3607423940f17c1d683ba8fa12dfeb683bfd2628e6718e7ea87b5e7c7e51fd6c",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-09T05:22:05.000Z",
       "id": "2119661784470835261",
       "path": "content/2026-11-09_x_i-had-made-many-guesses-for-what-might.md",
       "sha256": "e7787f735f9f02d5fac9dcadb46da06898540e879af060c8c6b2d6170153aee6",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-09T22:23:25.000Z",
+      "id": "2119918812636356954",
+      "path": "content/2026-11-09_x_it-doesn-t-automatically-force-these-opinions-on.md",
+      "sha256": "9c5e266c02b6cf30dce6fa6832e01d95aefa1800297c8a8c78f34f15f5622822",
       "source": "x"
     },
     {
@@ -14379,13 +14414,90 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-09T19:42:27.000Z",
+      "id": "2119878304220266904",
+      "path": "content/2026-11-09_x_savage.md",
+      "sha256": "8d9b0e169cd04a9dc9dc10ca964548f62d4d0d7119e3e6069afe1d5d7262bcc8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-09T22:47:35.000Z",
+      "id": "2119924895060795492",
+      "path": "content/2026-11-09_x_this-is-a-really-good-prompt-you-can.md",
+      "sha256": "e37c5d105e8d67e66e7e2768ae8c00a06e526b9f6603a87ea235a0a2249268c2",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-09T21:07:19.000Z",
+      "id": "2119899659170918911",
+      "path": "content/2026-11-09_x_this-is-actually-what-a-lot-of-startups.md",
+      "sha256": "89dd6209c6a0303fd3f175ba82cdcd7eb68a0a4a96f99e93a2b8a43ac7b2a047",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-09T05:50:46.000Z",
       "id": "2119669004231180387",
       "path": "content/2026-11-09_x_would-not-have-thought-that-he-had-time.md",
       "sha256": "22408e5eb346dfd631acea3233d4ca54b459ac3d6ead12e73f32f73759211b0c",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-10T05:17:51.000Z",
+      "id": "2120023105691336963",
+      "path": "content/2026-11-10_x_glad-to-hear-it-s-helpful.md",
+      "sha256": "d72fffbe7e789ca94c5e900e2dba23cd6a3f318aef2d3c90c08e6c9950dbb98f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-10T01:28:47.000Z",
+      "id": "2119965459340792244",
+      "path": "content/2026-11-10_x_i-have-this-post-that-explained-how-i.md",
+      "sha256": "2d5fca56c4982c897c75225851d422e4c3e20f5af3942e06807455efbe5575a9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-10T04:20:10.000Z",
+      "id": "2120008590677438616",
+      "path": "content/2026-11-10_x_i-hope-this-is-not-the-reason-it.md",
+      "sha256": "95a44298154e96e57d81acac3d3d7831add7a421da0cf0ac2d568b836858c593",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-10T00:03:13.000Z",
+      "id": "2119943928317444307",
+      "path": "content/2026-11-10_x_it-s-running-no-mistakes-now.md",
+      "sha256": "d26cf011ee17e6b41a02f790b20910be630557c635481c1ba0cd4babff356e1d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-10T04:04:21.000Z",
+      "id": "2120004611004305709",
+      "path": "content/2026-11-10_x_untitled.md",
+      "sha256": "7b29f02bad36358f4bc6c4a1f34f11d5cd04e2a4015441616675a46f889124a9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-10T05:38:53.000Z",
+      "id": "2120028401314721907",
+      "path": "content/2026-11-10_x_untitled_14721907.md",
+      "sha256": "8297ea978e33c0249c4144f7d1fe660c1b3979934d5a00c4bc7b144732ac633c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-10T05:36:10.000Z",
+      "id": "2120027715176927289",
+      "path": "content/2026-11-10_x_untitled_76927289.md",
+      "sha256": "261ee85b3b5825f66576a5d00b99e530b4a6bb3e7cf1f40a7ecfb59aed7bed3a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-10T05:01:45.000Z",
+      "id": "2120019055323345242",
+      "path": "content/2026-11-10_x_yup-that-s-what-lavish-axi-does.md",
+      "sha256": "cdf64c479aef4f2491c61318e8dde38eb0fadfa00ec489b76539521886095ef5",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-09T11:15:00Z",
+  "updated_at": "2026-11-10T11:13:13Z",
   "version": 1
 }
