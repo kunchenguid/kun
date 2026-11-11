@@ -14470,6 +14470,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-10T22:27:10.000Z",
+      "id": "2120282144526475590",
+      "path": "content/2026-11-10_x_seeing-a-lot-of-people-reporting-great-success.md",
+      "sha256": "143c29ba6e2b878f31b50e378c0d949a1e8f228fc1ade8bd62eb8c1e4da685cf",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-10T04:04:21.000Z",
       "id": "2120004611004305709",
       "path": "content/2026-11-10_x_untitled.md",
@@ -14496,8 +14503,113 @@
       "path": "content/2026-11-10_x_yup-that-s-what-lavish-axi-does.md",
       "sha256": "cdf64c479aef4f2491c61318e8dde38eb0fadfa00ec489b76539521886095ef5",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-11T07:00:10.000Z",
+      "id": "2120411242808697151",
+      "path": "content/2026-11-11_x_a-lot-of-fundamentals-about-our-society-have.md",
+      "sha256": "70f9b7e45348bb0fc93f9b9651a200b2875171718491c4df7498ad1d2543fcda",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-11T06:01:41.000Z",
+      "id": "2120396527890039201",
+      "path": "content/2026-11-11_x_apple-is-winning.md",
+      "sha256": "f345cf8e1f87b99f137f2f133fad21729e3de272492288cf9986b4001de052d7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-11T07:25:32.000Z",
+      "id": "2120417629433471247",
+      "path": "content/2026-11-11_x_but-wouldnt-other-markets-eventually-do-the-same.md",
+      "sha256": "0dd534f5e10dccc8c78d3ef778c1d1c94ef13d681324e70458b93eda96e84ca4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-11T05:55:11.000Z",
+      "id": "2120394889993343032",
+      "path": "content/2026-11-11_x_haha-i-ve-never-been-more-excited-for.md",
+      "sha256": "93c24f14462b59bcf45e4e6b49256e0dc4bd91e487a639a3890246252d9271fb",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-11T00:04:07.000Z",
+      "id": "2120306542117527927",
+      "path": "content/2026-11-11_x_i-ll-need-to-see-if-i-can.md",
+      "sha256": "3a544a1ef6e95bb00274756345e152b8d98ae383f00d4b6fe71c55d061005a2d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-11T06:52:17.000Z",
+      "id": "2120409259313959057",
+      "path": "content/2026-11-11_x_i-m-stuck-with-mac-because-i-m.md",
+      "sha256": "9cc66747485a10256c8aae217dcb3d97d538088d8e245579a68f5e9d00a443c9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-11T07:24:48.000Z",
+      "id": "2120417444825313621",
+      "path": "content/2026-11-11_x_i-will.md",
+      "sha256": "f33b600e2a872d2d250ff58e060a43787de912cc45f5240157d09449775b2e6b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-11T05:48:02.000Z",
+      "id": "2120393091953963074",
+      "path": "content/2026-11-11_x_more-stallion.md",
+      "sha256": "83781e7b99bb848151cd160de890a22d854a475bceaad401ee133aa0e99801e0",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-11T06:51:10.000Z",
+      "id": "2120408978115252516",
+      "path": "content/2026-11-11_x_my-stallions-run-ci-not-ai.md",
+      "sha256": "14d276823ec266da9851425a74a136434f1abd238d47c768e6c523e9ed04943b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-11T06:50:50.000Z",
+      "id": "2120408893859979511",
+      "path": "content/2026-11-11_x_overheard-from-friends-talking-about-ai-in-china.md",
+      "sha256": "78af49f8d75453d3854c5ac1f7119e3b73edab7694584ec551f8b304666a32f4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-11T07:01:34.000Z",
+      "id": "2120411596333973780",
+      "path": "content/2026-11-11_x_sad-reality-perhaps-ai-can-help-us-figure.md",
+      "sha256": "af65f04f40c58f9cb4fb30385f732490bd61c5596b832e5c05f541cf39b3f895",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-11T06:51:44.000Z",
+      "id": "2120409123284226487",
+      "path": "content/2026-11-11_x_see-this.md",
+      "sha256": "b70605396eca55f57cae62bc245e6aa58bff0c84ca0d5d02c32c3ee01ea8c4c8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-11T00:02:25.000Z",
+      "id": "2120306113057017970",
+      "path": "content/2026-11-11_x_untitled.md",
+      "sha256": "b3017646cb054b861b78deb09957acc4052cc323dd5ae3c01f7c8c2b44e39d04",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-11T04:05:19.000Z",
+      "id": "2120367241804054961",
+      "path": "content/2026-11-11_x_untitled_04054961.md",
+      "sha256": "2d08b989e9ddbf395214b75270eeae37ab0f7613acc97502218a78d37235d67f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-11T06:06:44.000Z",
+      "id": "2120397797317132648",
+      "path": "content/2026-11-11_x_untitled_17132648.md",
+      "sha256": "16deb38be36c5979f8de716ea81238ac25caa33ed7d33f5e059d4b1bb9365b54",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-10T11:13:13Z",
+  "updated_at": "2026-11-11T11:14:19Z",
   "version": 1
 }
