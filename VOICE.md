@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-11-11_
-_Latest source window: X posts and replies from 2026-11-10 to 2026-11-11 (UTC), public Substack refresh (0 new posts), and public YouTube RSS refresh (2 older items re-surfaced, 0 transcripts)._
-_Latest run analyzed 16 new X items, 0 Substack items, and 2 YouTube items; the durable opinion update sharpened how AI-made output without scarcity collapses into a race to the bottom while distribution platforms capture the surplus; VOICE confirmed existing patterns only._
+_Last updated: 2026-11-12_
+_Latest source window: X posts and replies from 2026-11-11 to 2026-11-12 (UTC), public Substack refresh (0 new posts), and public YouTube RSS refresh (1 older item re-surfaced, 0 new transcripts)._
+_Latest run analyzed 4 new X items, 0 Substack items, and 1 YouTube item; no durable new opinion beyond existing owned-runner CI economics, so OPINIONS.md was unchanged; VOICE confirmed existing patterns only._
 
 ### Summary
 

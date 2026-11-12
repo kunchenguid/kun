@@ -11,6 +11,32 @@ title: "Kun's Agentic Dev Environment From Scratch"
 
 # Kun's Agentic Dev Environment From Scratch
 
+## Description
+
+Find everything from me here: https://linktr.ee/kunchenguid 
+Published dotfiles: https://github.com/kunchenguid/dotfiles
+Wallpaper source (no affiliation): https://apps.apple.com/us/app/dynamic-wallpaper-library/id1582358382?mt=12
+
+--------
+
+Chapters:
+0:00 Intro
+01:04 Reproducibility
+02:04 Installing Nix
+02:33 Creating dotfiles repo
+03:17 Setting up nix-darwin
+06:03 First Nix build
+07:06 Reproducible Mac settings
+08:14 Installing Homebrew with Nix
+10:28 Setting up home-manager
+13:29 Configuring zsh with Nix
+14:50 Starship
+15:33 WezTerm config
+17:46 Neovim config
+33:22 Herdr
+39:36 Global AGENTS.md
+43:48 Fully reproducible config
+
 ## Transcript
 
 0:00 What's up everyone? I'm still in shock that 

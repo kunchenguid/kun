@@ -207,7 +207,7 @@
       "created_at": "2026-07-05T17:00:39+00:00",
       "id": "5N-okeDdIuI",
       "path": "content/2026-07-05_youtube_kuns-agentic-dev-environment-from-scratch.md",
-      "sha256": "1a8ee194af56f3335464436ffdea1724e7090cdd58479e6759116ad8a43d1c73",
+      "sha256": "b392bebfe5a3700dcd6ee31b0705e50c4a54b008bcb05dab497300966c71c47c",
       "source": "youtube"
     },
     {
@@ -14589,6 +14589,13 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-11T19:40:39.000Z",
+      "id": "2120602624240300449",
+      "path": "content/2026-11-11_x_those-platform-provided-ads-don-t-make-them.md",
+      "sha256": "8f43b40b61268f14af3f38392cdcb38febc033db9e84ac106b74a62c29525a13",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-11T00:02:25.000Z",
       "id": "2120306113057017970",
       "path": "content/2026-11-11_x_untitled.md",
@@ -14608,8 +14615,29 @@
       "path": "content/2026-11-11_x_untitled_17132648.md",
       "sha256": "16deb38be36c5979f8de716ea81238ac25caa33ed7d33f5e059d4b1bb9365b54",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-12T04:50:15.000Z",
+      "id": "2120740936661790992",
+      "path": "content/2026-11-12_x_i-have-exactly-the-thing-for-you-been.md",
+      "sha256": "5aa04e9b1b84ccba905386c7857b2bba127b3ae1f4dbea0b1d129a4455172426",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-12T02:59:29.000Z",
+      "id": "2120713062567248059",
+      "path": "content/2026-11-12_x_these-last-a-lot-longer-during-an-outage.md",
+      "sha256": "9619eb243e51dc9178d9ac476b9c2d79e82ea424c32b432762108e8ff0a82919",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-12T00:12:13.000Z",
+      "id": "2120670969262174526",
+      "path": "content/2026-11-12_x_when-it-happened-to-bill-gates-i-told.md",
+      "sha256": "251dab2aa9b4d3d412db684b9c8642ae963f681c6ac3cd637fbf80982dd2ebbd",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-11T11:14:19Z",
+  "updated_at": "2026-11-12T11:12:15Z",
   "version": 1
 }
