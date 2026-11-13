@@ -14617,10 +14617,24 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-12T20:03:02.000Z",
+      "id": "2120970648310927519",
+      "path": "content/2026-11-12_x_i-found-executive-mindset-to-be-the-biggest.md",
+      "sha256": "069630733e7eb989f1ebcd813680bc485959796346ea92bbc0b4d11b578794a7",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-12T04:50:15.000Z",
       "id": "2120740936661790992",
       "path": "content/2026-11-12_x_i-have-exactly-the-thing-for-you-been.md",
       "sha256": "5aa04e9b1b84ccba905386c7857b2bba127b3ae1f4dbea0b1d129a4455172426",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-12T23:13:20.000Z",
+      "id": "2121018537821278384",
+      "path": "content/2026-11-12_x_my-firstmate-automatically-detects-and-resolves-it-i.md",
+      "sha256": "3d95ca4a54aca833ff5b7e58475a70c4465f6bda61af8dc7b5aa3f5ef3b4de91",
       "source": "x"
     },
     {
@@ -14631,13 +14645,34 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-12T20:42:26.000Z",
+      "id": "2120980560768307217",
+      "path": "content/2026-11-12_x_untitled.md",
+      "sha256": "45a250b59170a0071ff7f9a8ab9baf37671ff366616b8ef8c0853500cdf60925",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-12T00:12:13.000Z",
       "id": "2120670969262174526",
       "path": "content/2026-11-12_x_when-it-happened-to-bill-gates-i-told.md",
       "sha256": "251dab2aa9b4d3d412db684b9c8642ae963f681c6ac3cd637fbf80982dd2ebbd",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-13T00:48:45.000Z",
+      "id": "2121042548601081912",
+      "path": "content/2026-11-13_x_my-firstmate-handles-90-of-the-context-switching.md",
+      "sha256": "d7701f5b1dd6c1603a72e4a580ca0b1706e8d8074626f2966db979cd9780d8ff",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-13T02:31:35.000Z",
+      "id": "2121068426320077277",
+      "path": "content/2026-11-13_x_yeah-totally.md",
+      "sha256": "20259ced0bdd2c0ba89c2733b9abc0fe8d2f4d337259ec7f4fc8b5452588a894",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-12T11:12:15Z",
+  "updated_at": "2026-11-13T11:13:50Z",
   "version": 1
 }
