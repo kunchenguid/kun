@@ -14659,10 +14659,45 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-13T19:05:37.000Z",
+      "id": "2121318585272615300",
+      "path": "content/2026-11-13_x_im-on-the-200-unified-x-subscription-last.md",
+      "sha256": "8962e580c9f3b69cc957cc1f5787e3a9e4e166d367a07a41106feb61f1d1b61c",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-13T00:48:45.000Z",
       "id": "2121042548601081912",
       "path": "content/2026-11-13_x_my-firstmate-handles-90-of-the-context-switching.md",
       "sha256": "d7701f5b1dd6c1603a72e4a580ca0b1706e8d8074626f2966db979cd9780d8ff",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-13T17:07:49.000Z",
+      "id": "2121288938732339605",
+      "path": "content/2026-11-13_x_new-video-sharing-my-full-grok-bot-setup.md",
+      "sha256": "6febbff6c4a290a753466828a45d68a341f0812947740cba92a6f9ad47fb218a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-13T15:58:31.000Z",
+      "id": "2121271499181187191",
+      "path": "content/2026-11-13_x_untitled.md",
+      "sha256": "ae7f7a0858387dfe46ab0a9c2099c2bb4a48002c1d7c06ac36d7f43e2e96e376",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-13T17:19:03.000Z",
+      "id": "2121291765106041080",
+      "path": "content/2026-11-13_x_untitled_06041080.md",
+      "sha256": "04f9b0135e15dbfd1c48184840cd36861de6f96746268269cb6c0efcffff1aac",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-13T17:18:55.000Z",
+      "id": "2121291732973474129",
+      "path": "content/2026-11-13_x_untitled_73474129.md",
+      "sha256": "f78157df42f1fe18e391767abc9169d0b822be39a65616e05629a99a19ca4c33",
       "source": "x"
     },
     {
@@ -14671,8 +14706,92 @@
       "path": "content/2026-11-13_x_yeah-totally.md",
       "sha256": "20259ced0bdd2c0ba89c2733b9abc0fe8d2f4d337259ec7f4fc8b5452588a894",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-13T16:00:13+00:00",
+      "id": "_cVWs9pPFDI",
+      "path": "content/2026-11-13_youtube_agentic-engineering-in-grok-bot.md",
+      "sha256": "0a16e9555bb687ccc701545c62161e078f59800be320bdbbe533ce1c9145a5c8",
+      "source": "youtube"
+    },
+    {
+      "created_at": "2026-11-14T01:33:43.000Z",
+      "id": "2121416255114821684",
+      "path": "content/2026-11-14_x_blizzard-really-cooked-with-this-graphics-update.md",
+      "sha256": "0d448cfb00886f8e8b383d3cdcf87f101e3b1c1efb1fc8b733d6a144fbdaa0d8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-14T01:24:20.000Z",
+      "id": "2121413891595129095",
+      "path": "content/2026-11-14_x_i-love-the-undead-vibe-as-well.md",
+      "sha256": "633d458f167bafcbe65c272f418d82467129f75de1aabfbc36e81dc967f34e42",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-14T05:56:47.000Z",
+      "id": "2121482456360751303",
+      "path": "content/2026-11-14_x_i-specifically-said-in-a-few-years-there.md",
+      "sha256": "8c09ee42455ba260d3fec6af5f7225e172534d14aa20065783fb9f332c7146d4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-14T05:27:28.000Z",
+      "id": "2121475079339176110",
+      "path": "content/2026-11-14_x_it-s-a-prerequisite-not-equivalence-someone-who.md",
+      "sha256": "1c4fccb4c5e891b62c469a67b861af520e7458c412ab3f18795582125c01b659",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-14T05:44:20.000Z",
+      "id": "2121479323114967407",
+      "path": "content/2026-11-14_x_my-firstmate-already-manages-more-agents-than-i.md",
+      "sha256": "560040c8f5a2781dc2307e117f168469ef58bccf8c95717d6af2a8e9b23431c5",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-14T05:08:48.000Z",
+      "id": "2121470381395767676",
+      "path": "content/2026-11-14_x_prediction-in-a-few-years-being-able-to.md",
+      "sha256": "d56561781191600219b8fcc34cc784b9d7ae21cc1bdb1cdb20dcca47b2495f26",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-14T10:05:04.000Z",
+      "id": "2121544938878095507",
+      "path": "content/2026-11-14_x_right-can-t-believe-it-s-already-been.md",
+      "sha256": "d2d226f7d4094b1832700a327f4787a2067cb48a7f98fbc547a2d0feebd5489f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-14T05:29:56.000Z",
+      "id": "2121475698556883094",
+      "path": "content/2026-11-14_x_that-s-a-paradox-actually-when-agents-are.md",
+      "sha256": "9ab714c8f4047a7b08d8a6633b3fed93d1f943d33b5a3d5dae0faacbbffcf57b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-14T05:36:35.000Z",
+      "id": "2121477370859442635",
+      "path": "content/2026-11-14_x_that-s-the-part-that-s-not-a.md",
+      "sha256": "acadfdaa8bf8d4a2cc89da045ec35d5e0e54ffe300e06e23b8548e0131125af1",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-14T05:17:05.000Z",
+      "id": "2121472465088225633",
+      "path": "content/2026-11-14_x_they-are-not-the-same-managing-agents-is.md",
+      "sha256": "a9f4cf87225e031945f145c7800e58212cf404402c218f5b8cf79e8d1198e89d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-14T01:16:43.000Z",
+      "id": "2121411975444119794",
+      "path": "content/2026-11-14_x_watching-sunset-over-the-barrens-in-wow-forever.md",
+      "sha256": "7984fee2342436c8ae6c1fa9f6da83d2572cecb1c86f6c241313c7023c062bb7",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-13T11:13:50Z",
+  "updated_at": "2026-11-14T11:14:37Z",
   "version": 1
 }

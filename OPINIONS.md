@@ -302,7 +302,7 @@ He does not think managers are obsolete, but he thinks high manager-to-IC ratios
 He expects AI to pressure middle-management layers because the basic execution unit can shift from one manager coordinating many ICs toward one or a few strong ICs coordinating many agents.
 When building becomes the goal, he thinks managers are effectively converting back into IC work even if the title stays managerial.
 He sees solid technical background plus people-management experience as useful when someone returns to IC work and scales agentic engineering through delegation, review, and coordination.
-He thinks managers who do not understand AI are now among the largest risks inside tech companies, because they cannot assess AI skill, support adoption, or redesign process, and strong people leave for places with better leverage.
+He thinks managers who do not understand AI are now among the largest risks inside tech companies, because they cannot assess AI skill, support adoption, or redesign process, and strong people leave for places with better leverage; he predicts that within a few years running many agents effectively becomes a prerequisite, not an equivalent, for people leadership, since agents are far easier to manage than humans and someone who cannot run them is a weak bet to lead many people.
 He urges leaders to push AI adoption on managers even harder than on ICs, and he wants managers to build real intuition by using AI on real work rather than only grinding meetings.
 Evidence: https://x.com/kunchenguid/status/2087774590978429202, https://www.youtube.com/watch?v=YhAeqfYLLeQ
 
