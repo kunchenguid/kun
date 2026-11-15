@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-11-14_
-_Latest source window: X posts and replies from 2026-11-13 to 2026-11-14 (UTC), public Substack refresh (0 new posts), and public YouTube RSS refresh (1 new video with transcript)._
-_Latest run analyzed 16 new X items, 0 Substack items, and 2 YouTube items (1 new); the agents-as-leadership-prerequisite prediction sharpened the existing AI-and-managers view in OPINIONS.md; VOICE confirmed existing patterns only._
+_Last updated: 2026-11-15_
+_Latest source window: X posts and replies from 2026-11-14 to 2026-11-15 (UTC), public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos; older videos re-surfaced without transcripts)._
+_Latest run analyzed 5 new X items, 0 Substack items, and 6 re-surfaced YouTube items (0 new); the fun-over-efficiency post sharpened the existing craft-joy view in OPINIONS.md; VOICE confirmed existing patterns only._
 
 ### Summary
 
