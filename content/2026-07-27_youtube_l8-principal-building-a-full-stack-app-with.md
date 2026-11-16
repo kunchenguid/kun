@@ -11,6 +11,34 @@ title: L8 Principal Building a Full Stack App with Agentic Engineering
 
 # L8 Principal Building a Full Stack App with Agentic Engineering
 
+## Description
+
+Find everything from me here: https://linktr.ee/kunchenguid
+
+--------
+
+Chapters:
+00:00:00 Intro
+00:00:26 Herdr + Firstmate
+00:03:40 /calm
+00:05:41 Product ideation
+00:11:28 Crew mates
+00:13:17 Fast mode
+00:16:53 Market research
+00:19:06 Technical research
+00:23:43 Parallelize
+00:29:56 Interactive planning
+00:42:29 UX prototypes
+00:48:08 Compaction
+00:55:36 Claude design
+00:59:41 Secret management
+01:06:11 Design system
+01:13:52 Building the frontend
+01:18:08 Browser automation
+01:20:33 E2E integration
+01:33:46 Backend architecture review
+01:37:55 It works!
+
 ## Transcript
 
 0:00 Hello everyone. My name is Kun. I worked

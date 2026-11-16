@@ -13,14 +13,15 @@ title: Interest rate and layoffs
 
 ## Transcript
 
-_Transcript unavailable: 
-Could not retrieve a transcript for the video https://www.youtube.com/watch?v=LvZv7OAxt6w! This is most likely caused by:
-
-YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
-- You have done too many requests and your IP has been blocked by YouTube
-- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
-
-Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
-
-
-If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!_
+0:00 When interest rate was almost zero,
+0:02 there's a very low amount of layoffs
+0:04 happening. But when the interest rate
+0:06 started to rise, we can see the layoffs
+0:08 starting to surge as well. This is also
+0:10 around the same time as many companies
+0:12 started talk about efficiency. Because
+0:15 they have to. They have to control their
+0:17 cost. They have to maintain a healthy
+0:19 margin. They have to create profit in
+0:21 order to sustain themselves during a
+0:24 high interest rate phase.

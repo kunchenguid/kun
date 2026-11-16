@@ -186,7 +186,7 @@
       "created_at": "2026-06-05T05:27:09+00:00",
       "id": "LvZv7OAxt6w",
       "path": "content/2026-06-05_youtube_interest-rate-and-layoffs.md",
-      "sha256": "b8d21f9678a1a715994642960163b9f4e6b81855884244ad415723232faaddfe",
+      "sha256": "bf695d950438666d65c6057b6720e7ff98b24435845244e5996e3ccd395438b7",
       "source": "youtube"
     },
     {
@@ -200,7 +200,7 @@
       "created_at": "2026-06-06T17:00:10+00:00",
       "id": "AOiTGfVp4r8",
       "path": "content/2026-06-06_youtube_how-small-teams-with-ai-move-fast.md",
-      "sha256": "0816600f2b77d92f22fd90e49d02f75020659222cdb7275de8ed0b9b874380f3",
+      "sha256": "02210ac6ea9a29e20d1c41b6aeae8bb5e70eb5c74ceaffc0536366a6a04bc5e0",
       "source": "youtube"
     },
     {
@@ -228,14 +228,14 @@
       "created_at": "2026-07-13T22:32:02+00:00",
       "id": "QtsOHdJgOJQ",
       "path": "content/2026-07-13_youtube_dad-and-son-vibe-code-an-rpg-game.md",
-      "sha256": "20ccb630f1d5dec25ef8aba8aeac2e2eaf0a7a8d8d3bba6aedd0e0ac52879fec",
+      "sha256": "06bbd9d72d6776f6b139b9683c3d5577bbaefc540e74c0682176e48ab5974795",
       "source": "youtube"
     },
     {
       "created_at": "2026-07-27T01:02:34+00:00",
       "id": "kPN564Kol14",
       "path": "content/2026-07-27_youtube_l8-principal-building-a-full-stack-app-with.md",
-      "sha256": "4950c16a286806965242fb3d4ac9e0d78e0565b5e4a0d6070b39dc1740727597",
+      "sha256": "2672750f064a874b8a25cbaac6a42d7a7380399e11ff7d0a70294d8fae502b09",
       "source": "youtube"
     },
     {
@@ -14834,13 +14834,146 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-15T20:16:18.000Z",
+      "id": "2122061149357453603",
+      "path": "content/2026-11-15_x_haha-exactly-i-want-to-use-their-models.md",
+      "sha256": "d9c95909c6be4b111168e65a60ff95a749d6ed74c3314634c5e3023ab2ed917a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-15T19:33:20.000Z",
+      "id": "2122050334390661243",
+      "path": "content/2026-11-15_x_i-don-t-think-that-s-it-because.md",
+      "sha256": "09b92ac2f264aae133652064b2a133e920a4d1ee6d428c63434929a086d082e5",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-15T20:54:15.000Z",
+      "id": "2122070698491523478",
+      "path": "content/2026-11-15_x_if-you-are-just-opening-up-a-pane.md",
+      "sha256": "fd17b182f43b5d25df1556afb05c28535509d8a14ff8ee967811bfb170c7b0eb",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-15T23:46:58.000Z",
+      "id": "2122114163862594026",
+      "path": "content/2026-11-15_x_it-s-not-a-technical-blocker-it-s.md",
+      "sha256": "36e0888a06c8509635d639e5fc2cc32cb1beb5686e6f7de8743a1287fdb45e01",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-15T19:06:32.000Z",
+      "id": "2122043591451389962",
+      "path": "content/2026-11-15_x_it-s-really-difficult-to-love-google-s.md",
+      "sha256": "01811f7cfa6589ea35981dbe46ba1d31cc635f4225660492080566fda680e06b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-15T23:53:18.000Z",
+      "id": "2122115760562872428",
+      "path": "content/2026-11-15_x_no-they-d-only-ban-the-ai-subscription.md",
+      "sha256": "98849ec4e7239f9ee7783f5438cddbdd53b6ed3e371e9f550311df87bd2ee09f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-15T19:39:33.000Z",
+      "id": "2122051899658764696",
+      "path": "content/2026-11-15_x_right-this-is-what-losing-mindshare-looks-like.md",
+      "sha256": "3ea345738813415c78c837167d375c9cd4f5c9f7d1d803ac16a0a229809f7eb7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-15T23:55:35.000Z",
+      "id": "2122116333005615135",
+      "path": "content/2026-11-15_x_that-s-not-allowed-and-many-people-have.md",
+      "sha256": "0d90c60ea65cf0a9cc171556641b5497fa3b12e43671734bd1fa73a18e998434",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-15T20:11:26.000Z",
+      "id": "2122059923710497255",
+      "path": "content/2026-11-15_x_the-fact-that-it-requires-a-special-partnership.md",
+      "sha256": "641470420bd9107ff56cf5652dbf31209fc339285a2e586959f3b01f8901c3b4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-15T19:49:39.000Z",
+      "id": "2122054440446529856",
+      "path": "content/2026-11-15_x_they-want-direct-user-prompts-steers-that-s.md",
+      "sha256": "5e5c195f01a4af6c2b46b0624b9ce2e0dbc9803204cfd50c672c8c8d23757ae1",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-15T21:18:48.000Z",
+      "id": "2122076877422743844",
+      "path": "content/2026-11-15_x_use-api-pricing-and-get-50x-less-token.md",
+      "sha256": "60646641aad5dda597b25e3c6c3e49384a6327487367bcdb9f6118caefdeb4c4",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-15T06:08:30.000Z",
       "id": "2121847794722119823",
       "path": "content/2026-11-15_x_whats-that.md",
       "sha256": "3579d683b074fc586345a2812a090c3fd7674a592119f5b8d6c2523d6653f6b3",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-15T21:26:17.000Z",
+      "id": "2122078762351403404",
+      "path": "content/2026-11-15_x_yeah-i-think-they-have-to-first-acknowledge.md",
+      "sha256": "febabf0be43116f1df849f016b8b6e3275923c9a2fdf9fa7420095ba119d8f4a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-15T19:28:50.000Z",
+      "id": "2122049203623067869",
+      "path": "content/2026-11-15_x_yep-same-re-openrouter-absolutely-no-way-i.md",
+      "sha256": "100d7906ccb93ab0996be1af4f64b32391ae1db890be36c29747d3ebec71c900",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-15T19:31:04.000Z",
+      "id": "2122049766955901021",
+      "path": "content/2026-11-15_x_yes-i-like-gemini-s-talking-and-writing.md",
+      "sha256": "7419f99d2f67a055e6410edfdad9e801b8a420ecbc1f326f6790ae6a67969320",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-16T03:38:05.000Z",
+      "id": "2122172326016098456",
+      "path": "content/2026-11-16_x_for-anyone-annoyed-that-your-grok-bots-started.md",
+      "sha256": "e9908ce74a5f061a6065da38bbbd9ba9def1421cb4d4776e2202f84f825af1c7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-16T02:44:06.000Z",
+      "id": "2122158742846488811",
+      "path": "content/2026-11-16_x_good-stuff-jalal-curious-how-you-handle-feedback.md",
+      "sha256": "93d80c9f8ca00e1f7fd9674b8aed065d9a24454f66dad069a650df9f646887da",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-16T05:19:46.000Z",
+      "id": "2122197915104153713",
+      "path": "content/2026-11-16_x_they-are-in-the-process-of-enabling-it.md",
+      "sha256": "d49ee7bdbbb8ff261f8293ad780467709f19508b7786b621277f83517a22e5f8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-16T02:47:35.000Z",
+      "id": "2122159618680140139",
+      "path": "content/2026-11-16_x_this-is-a-very-practical-example-on-how.md",
+      "sha256": "e213d55890d5598e5e3155d4268268e9b836c341ef2811b3baa48a6535b7f8a6",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-16T05:14:42.000Z",
+      "id": "2122196641159713010",
+      "path": "content/2026-11-16_x_untitled.md",
+      "sha256": "62e5123f4204d880c339e2100348258e618909d81bd67e17a59a4dbcccaa6aba",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-15T10:49:20Z",
+  "updated_at": "2026-11-16T10:46:54Z",
   "version": 1
 }

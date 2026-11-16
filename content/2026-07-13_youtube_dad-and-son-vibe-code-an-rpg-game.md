@@ -11,6 +11,27 @@ title: Dad and Son Vibe Code an RPG Game
 
 # Dad and Son Vibe Code an RPG Game
 
+## Description
+
+Replay of a live stream where I vibe coded a game with my son Eddie https://www.youtube.com/@eddie-play-z
+
+Find everything from me here: https://linktr.ee/kunchenguid
+
+
+Chapters:
+
+00:00 Intro
+01:06 Game ideation
+03:03 Prototyping
+08:11 Art direction
+09:02 Core mechanics
+11:45 Boss fight
+18:01 Refining mechanics
+22:05 Building cut scenes
+27:13 First run
+28:58 Iterations
+33:58 One more run
+
 ## Transcript
 
 0:00 Hey everyone, this is uh my son Eddie.

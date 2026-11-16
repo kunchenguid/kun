@@ -13,14 +13,22 @@ title: How small teams with AI move fast
 
 ## Transcript
 
-_Transcript unavailable: 
-Could not retrieve a transcript for the video https://www.youtube.com/watch?v=AOiTGfVp4r8! This is most likely caused by:
-
-YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
-- You have done too many requests and your IP has been blocked by YouTube
-- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
-
-Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
-
-
-If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!_
+0:00 This was a real story from the Amazon
+0:02 employees subreddit.
+0:04 AWS Bedrock, entirely refactored by AI
+0:07 in 1 month. And someone actually came
+0:09 here to clarify, it wasn't a refactor,
+0:12 it's a rewrite.
+0:13 A distinguished engineer and eight
+0:15 principal engineers from EC2 rewrote
+0:18 Bedrock. It's not the entire backend,
+0:20 but the routing and load balancing
+0:22 layer. This layer was maintained by over
+0:25 a thousand engineers in an organization,
+0:27 now done by a small team with AI in just
+0:30 over a month. That speaks to an
+0:32 organizational shift we are starting to
+0:34 see. Small teams with AI can move a lot
+0:38 faster than a large organization. So now
+0:40 a lot of companies started to rethink
+0:43 how they should be structured.
