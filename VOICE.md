@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-11-16_
-_Latest source window: X posts and replies from 2026-11-15 to 2026-11-16 (UTC), public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos; older videos re-surfaced, now with transcripts)._
-_Latest run analyzed 19 new X items, 0 Substack items, and 6 re-surfaced YouTube items (0 new); the Google AI subscription-terms thread and the interest-rate layoffs short sharpened existing OPINIONS.md views; VOICE confirmed existing patterns only._
+_Last updated: 2026-11-17_
+_Latest source window: X posts and replies from 2026-11-16 to 2026-11-17 (UTC), public Substack refresh (0 new posts), and public YouTube RSS refresh (0 new videos; older videos re-surfaced without transcripts)._
+_Latest run analyzed 16 new X items, 0 Substack items, and 2 re-surfaced YouTube items (0 new); the four-gate CI thread and the macOS agent-account post sharpened existing OPINIONS.md views; VOICE confirmed existing patterns only._
 
 ### Summary
 

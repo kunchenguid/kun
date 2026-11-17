@@ -14953,6 +14953,41 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-16T18:46:27.000Z",
+      "id": "2122400923234541771",
+      "path": "content/2026-11-16_x_i-think-given-the-volume-and-scale-were.md",
+      "sha256": "b0f0776cb55ed7a9f5cd36b02e09e39d13a3e26733f21ee5a9240ba5a4c03753",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-16T19:37:08.000Z",
+      "id": "2122413681694986345",
+      "path": "content/2026-11-16_x_if-you-do-the-post-push-rolling-ci.md",
+      "sha256": "38d10e68b3d3cd0e73a8adb04dba198dabf9c96f02c4e3085717ee22c112ba47",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-16T22:36:48.000Z",
+      "id": "2122458896455602588",
+      "path": "content/2026-11-16_x_lol-i-hope-its-not-911-i-do.md",
+      "sha256": "dbe93f0da2507c3a376ff2fa76ac885337d7f9d29b1e1f25758b44b2cf0a19f3",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-16T22:39:09.000Z",
+      "id": "2122459483922395140",
+      "path": "content/2026-11-16_x_ok-i-dug-in-and-figured-out-it.md",
+      "sha256": "561709af5046733d408997f417dd6c05a3f4bfccb0eb57a4fc0cd66700925017",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-16T21:24:01.000Z",
+      "id": "2122440577153388858",
+      "path": "content/2026-11-16_x_sharing-a-machine-with-your-agents-is-a.md",
+      "sha256": "dac796b1db6f56ad33e92e633b6db065e75d317489d1a0e69162cb53b511c378",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-16T05:19:46.000Z",
       "id": "2122197915104153713",
       "path": "content/2026-11-16_x_they-are-in-the-process-of-enabling-it.md",
@@ -14967,13 +15002,90 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-16T18:08:18.000Z",
+      "id": "2122391325081579618",
+      "path": "content/2026-11-16_x_to-start-getting-your-ci-under-control-its.md",
+      "sha256": "9994f1e519b405a800252d77544e3ccd3346c2064675e1cbad489791e1c34293",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-16T05:14:42.000Z",
       "id": "2122196641159713010",
       "path": "content/2026-11-16_x_untitled.md",
       "sha256": "62e5123f4204d880c339e2100348258e618909d81bd67e17a59a4dbcccaa6aba",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T05:52:16.000Z",
+      "id": "2122568481598218499",
+      "path": "content/2026-11-17_x_20-yrs-ago-i-was-a-kid-spending.md",
+      "sha256": "dd5413672583d180152b6017b5333b701ba9134158404f0e5a791cdacfab733c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T00:59:22.000Z",
+      "id": "2122494773068226569",
+      "path": "content/2026-11-17_x_a-single-fix-that-would-solve-all-the.md",
+      "sha256": "38c92db09dd97f24cf6ee9ba0aab096f2d051c9fbcdaa5351411f4b120f2e278",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T03:34:54.000Z",
+      "id": "2122533912085963156",
+      "path": "content/2026-11-17_x_because-most-of-my-workload-is-building-ios.md",
+      "sha256": "c0bd371def6b629f8b9ea89d543de62ad6b6ca65b2e694ca9b5eecb77d1ce2cc",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T05:25:55.000Z",
+      "id": "2122561850323943782",
+      "path": "content/2026-11-17_x_i-haven-t-actually-tested-it-in-practice.md",
+      "sha256": "eb176ae71251c333e61c32bad538a53d407432aabfb0d42f88458eb2b4589733",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T01:08:14.000Z",
+      "id": "2122497003796193373",
+      "path": "content/2026-11-17_x_i-wish-macos-was-open-source.md",
+      "sha256": "d08b3b1c69306cc0358dd691394b4829d4152d81f1b9441c05645652a65058c6",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T02:55:34.000Z",
+      "id": "2122524013461422387",
+      "path": "content/2026-11-17_x_my-stallions-survived-an-outage-today-the-anker.md",
+      "sha256": "efcce6eefe7ddcf04065dd893e4ab2a2c89eb5bb4458af55061f0817a3e841a4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T06:27:06.000Z",
+      "id": "2122577249706922224",
+      "path": "content/2026-11-17_x_rt-while-at-apple-i-advocated-for-a.md",
+      "sha256": "3b1ec89fea93652785482c186512a8c84429a0acd1e60c4ce69bb76e7aebdafb",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T02:01:02.000Z",
+      "id": "2122510293461049789",
+      "path": "content/2026-11-17_x_that-s-the-point-of-having-it-be.md",
+      "sha256": "4c1424a339c8acf7eba55c605d628ec2dcea0b76cdc6df66470865fc1bfa8a1e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T03:29:54.000Z",
+      "id": "2122532654600138992",
+      "path": "content/2026-11-17_x_they-are-m6-with-16gb-quite-small-but.md",
+      "sha256": "2de6aa783d00c69814393b24f7373110a03699d3625da91b64771518a8d9b213",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T03:02:56.000Z",
+      "id": "2122525870799917216",
+      "path": "content/2026-11-17_x_what-does-it-look-like.md",
+      "sha256": "bc5e064106f8d12cb6a921300b317e53ea7994f6ad2712704ca730ad0dd620ed",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-16T10:46:54Z",
+  "updated_at": "2026-11-17T10:55:21Z",
   "version": 1
 }
