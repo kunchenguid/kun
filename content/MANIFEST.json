@@ -183,6 +183,13 @@
       "source": "youtube"
     },
     {
+      "created_at": "2026-06-04T00:27:52+00:00",
+      "id": "ayIiOfNQEH4",
+      "path": "content/2026-06-04_youtube_llm-tokens-arent-productivity.md",
+      "sha256": "d5fd8348b3c1bb88d5e10608e968eafbd4d47f48f05ac9dd46e5716890a5bd21",
+      "source": "youtube"
+    },
+    {
       "created_at": "2026-06-05T05:27:09+00:00",
       "id": "LvZv7OAxt6w",
       "path": "content/2026-06-05_youtube_interest-rate-and-layoffs.md",
@@ -15037,10 +15044,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-17T18:28:39.000Z",
+      "id": "2122758832682422748",
+      "path": "content/2026-11-17_x_gpt-6-2-astra-and-sol-will-try.md",
+      "sha256": "62817e4456000fdffa7e572e31f123a8d79a1f639d8da9f838b1a59c38770075",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-17T05:25:55.000Z",
       "id": "2122561850323943782",
       "path": "content/2026-11-17_x_i-haven-t-actually-tested-it-in-practice.md",
       "sha256": "eb176ae71251c333e61c32bad538a53d407432aabfb0d42f88458eb2b4589733",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T20:45:43.000Z",
+      "id": "2122793325464015353",
+      "path": "content/2026-11-17_x_i-need-to-run-ios-and-mac-builds.md",
+      "sha256": "1282c32ae4af26359d06067fa269a896c7a268cbd22581a60aa8e421ed0b7e5c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T20:34:55.000Z",
+      "id": "2122790607865434231",
+      "path": "content/2026-11-17_x_i-run-each-in-a-tart-vm-guaranteed.md",
+      "sha256": "d202ef00af1fe77c5024793d6df8c728981af898d2a793474731a0bea4e99dcb",
       "source": "x"
     },
     {
@@ -15051,10 +15079,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-17T16:10:04.000Z",
+      "id": "2122723959737356367",
+      "path": "content/2026-11-17_x_if-i-could-go-back-there-for-a.md",
+      "sha256": "c7d781b2f7b3267d415c753ca62217417ede783c8875833c6c0e4fb6f800b4fa",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-17T02:55:34.000Z",
       "id": "2122524013461422387",
       "path": "content/2026-11-17_x_my-stallions-survived-an-outage-today-the-anker.md",
       "sha256": "efcce6eefe7ddcf04065dd893e4ab2a2c89eb5bb4458af55061f0817a3e841a4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T18:35:29.000Z",
+      "id": "2122760552745439589",
+      "path": "content/2026-11-17_x_oh-no.md",
+      "sha256": "b9a87fd54f6e1aae7f8ccb6cc3ce73c54e53e868fd174f83394a4776459c79d8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T20:35:37.000Z",
+      "id": "2122790784273727755",
+      "path": "content/2026-11-17_x_only-for-workers-that-need-the-boundary-though.md",
+      "sha256": "fe64278670fbb108bc57cc7b6de689b9dca34791bf5b943ceb5eccb0f8125b69",
       "source": "x"
     },
     {
@@ -15079,13 +15128,83 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-17T20:08:07.000Z",
+      "id": "2122783864871666006",
+      "path": "content/2026-11-17_x_umm-1-your-agents-can-finally-use-a.md",
+      "sha256": "4149f724d2273d8d14bd001a7193958e320b9ea09ad8260f01d276a4c08fd61a",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T18:34:55.000Z",
+      "id": "2122760412026532305",
+      "path": "content/2026-11-17_x_untitled.md",
+      "sha256": "551a5c6cdd35fc8d8dea05eebf47b041ef6c65a89845e802a32bf9f2e7c1334d",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-17T03:02:56.000Z",
       "id": "2122525870799917216",
       "path": "content/2026-11-17_x_what-does-it-look-like.md",
       "sha256": "bc5e064106f8d12cb6a921300b317e53ea7994f6ad2712704ca730ad0dd620ed",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T21:22:51.000Z",
+      "id": "2122802673800167886",
+      "path": "content/2026-11-17_x_yeah-understand-that-theres-a-lot-of-operational.md",
+      "sha256": "8e32181bf74b346ce65e72301fc0b7a3d1f96e7031c6616fd26e94775a972f60",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-17T21:05:29.000Z",
+      "id": "2122798301481402655",
+      "path": "content/2026-11-17_x_yup-i-think-people-telling-others-to-use.md",
+      "sha256": "4a96036a06e2f803db402aa09819c3c1d17a3fa9da353d4a4cf22ccbe9be27e7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-18T06:30:06.000Z",
+      "id": "2122940394229108751",
+      "path": "content/2026-11-18_x_adding-about-one-more-stallion-every-week-i.md",
+      "sha256": "f1a0959e8438924d1c4cd0c5c25de3e93adeda3f139a14c384c7ee06273d8ee3",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-18T07:51:24.000Z",
+      "id": "2122960850533367847",
+      "path": "content/2026-11-18_x_already-on-its-way.md",
+      "sha256": "1d5aaf9724e8fafdd28636fa5405ee4c96f71fcb149ce569a40d140ef91da077",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-18T07:54:48.000Z",
+      "id": "2122961708323156287",
+      "path": "content/2026-11-18_x_because-i-need-to-build-ios-and-mac.md",
+      "sha256": "776d2f8796325f40b9b7ce2000275f59c87c23418fe16d074611dbdc0accdb82",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-18T07:53:32.000Z",
+      "id": "2122961389274968111",
+      "path": "content/2026-11-18_x_im-not-using-them-to-run-ai-i.md",
+      "sha256": "d53aef1c2619a72c1a803d65b9b82282656013bae897be24a58d4474bef8fe09",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-18T07:54:32.000Z",
+      "id": "2122961639171580159",
+      "path": "content/2026-11-18_x_not-too-bad-and-i-dont-work-in.md",
+      "sha256": "135d83674caafc0297374d2e336e595818d835f77a98fcbb6df39698cf5f66b4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-18T07:52:48.000Z",
+      "id": "2122961203110772808",
+      "path": "content/2026-11-18_x_she-worked-at-google-cloud-so-shes-used.md",
+      "sha256": "6c4b0c4b5535c21aa59483c3ed0b6c4dad608f5fbdd7aeac026c67f20e993888",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-17T10:55:21Z",
+  "updated_at": "2026-11-18T10:50:56Z",
   "version": 1
 }
