@@ -186,7 +186,7 @@
       "created_at": "2026-06-04T00:27:52+00:00",
       "id": "ayIiOfNQEH4",
       "path": "content/2026-06-04_youtube_llm-tokens-arent-productivity.md",
-      "sha256": "d5fd8348b3c1bb88d5e10608e968eafbd4d47f48f05ac9dd46e5716890a5bd21",
+      "sha256": "4f02d3033973ed255245d759588388507265306a53c59d50adca0e3f44ff5d85",
       "source": "youtube"
     },
     {
@@ -15184,10 +15184,24 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-18T19:12:17.000Z",
+      "id": "2123132202598994290",
+      "path": "content/2026-11-18_x_hmmm-it-should-totally-just-work-by-following.md",
+      "sha256": "623cd518594f9fa20d3827e1b73cc5a388ade822d9cf0fa6d972e29f10cca513",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-18T07:53:32.000Z",
       "id": "2122961389274968111",
       "path": "content/2026-11-18_x_im-not-using-them-to-run-ai-i.md",
       "sha256": "d53aef1c2619a72c1a803d65b9b82282656013bae897be24a58d4474bef8fe09",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-18T22:19:16.000Z",
+      "id": "2123179259363811349",
+      "path": "content/2026-11-18_x_next-thing-you-know-i-cant-find-enough.md",
+      "sha256": "48f65c64151cafe00795803f8396693103157728cecf9ab578fac2d4aa3db8da",
       "source": "x"
     },
     {
@@ -15198,13 +15212,111 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-18T17:19:44.000Z",
+      "id": "2123103876413034661",
+      "path": "content/2026-11-18_x_oh-to-be-clear-real-frontend-development-is.md",
+      "sha256": "23c294d39c7cfaff8b01b48ac73ee9260d70bcbdf6f9b6856a609cff6b72f3f4",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-18T17:01:51.000Z",
+      "id": "2123099377946546491",
+      "path": "content/2026-11-18_x_ok-after-a-full-day-of-using-gpt.md",
+      "sha256": "5b9f291c115fab1689e314e3341c7aebc5efef1ceb03fc264b3ea9172f389900",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-18T07:52:48.000Z",
       "id": "2122961203110772808",
       "path": "content/2026-11-18_x_she-worked-at-google-cloud-so-shes-used.md",
       "sha256": "6c4b0c4b5535c21aa59483c3ed0b6c4dad608f5fbdd7aeac026c67f20e993888",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-18T18:02:09.000Z",
+      "id": "2123114551935947228",
+      "path": "content/2026-11-18_x_untitled.md",
+      "sha256": "e9887489a417c6639495a27731b613142cb6268ed9c45dbad899b8a6459b02bb",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-19T01:26:14.000Z",
+      "id": "2123226311535816757",
+      "path": "content/2026-11-19_x_are-you-sure.md",
+      "sha256": "1d168f3b8a6d0a345b2c5b142f31432b012a4f1388b38495044bed7cabd9d9d0",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-19T00:56:05.000Z",
+      "id": "2123218720667599248",
+      "path": "content/2026-11-19_x_i-actually-think-astra-sol-terra-luna-is.md",
+      "sha256": "1ed4c6cb52d28b47c042b7a5e476efaf78ede0d0aace753dc432bf30953d71a8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-19T04:31:13.000Z",
+      "id": "2123272863314780563",
+      "path": "content/2026-11-19_x_i-really-like-how-grok-bots-can-be.md",
+      "sha256": "6cb5f60db71d68f6a72977b21aa11293990ced89a69212427fc5a6081c4b1d10",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-19T04:38:16.000Z",
+      "id": "2123274634657493230",
+      "path": "content/2026-11-19_x_i-use-both-and-for-different-purposes-i.md",
+      "sha256": "c11754f3c46e0b0a1a163d2d3e81ec1a655c574f8a265d9c1392c74b2adc5373",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-19T05:35:28.000Z",
+      "id": "2123289032734241020",
+      "path": "content/2026-11-19_x_it-works-but-opus-5-5-is-still.md",
+      "sha256": "596f6e786f8e3ec8aeae27e712dd91c3a73093874037dbb0a8af5230a7359652",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-19T00:55:19.000Z",
+      "id": "2123218528123920620",
+      "path": "content/2026-11-19_x_lol-looks-like-google-didnt-order-them-by.md",
+      "sha256": "dfd98c236f91114f67f7f9b0155705a63faef278879640e0d5efbfe2fb6d0446",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-19T04:48:16.000Z",
+      "id": "2123277153911644543",
+      "path": "content/2026-11-19_x_oh-no-it-s-so-bad-that-such.md",
+      "sha256": "04f5444fda961ae3970f45eb7e1ce4f664ec7226b484e6c591222777125a0352",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-19T02:02:38.000Z",
+      "id": "2123235471312756844",
+      "path": "content/2026-11-19_x_right-that-s-where-it-falls-apart.md",
+      "sha256": "3263e4cdfd27140ad0e494292456bff478cb4f92a16aa04db4c2cf21f3821b05",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-19T01:05:29.000Z",
+      "id": "2123221086427115762",
+      "path": "content/2026-11-19_x_right-this-is-pretty-much-the-worst-one.md",
+      "sha256": "c22fc946f4c216169f1dc3eea9604ee43ae33b059dba3055010b3f4e5fb49da0",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-19T00:43:54.000Z",
+      "id": "2123215656145551371",
+      "path": "content/2026-11-19_x_try-and-answer-this-without-looking-them-up.md",
+      "sha256": "5e8906a62138113683f383dcf22040a51b5b3a63c683a7caffb54e3db03d6fe7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-19T02:02:16.000Z",
+      "id": "2123235377561649301",
+      "path": "content/2026-11-19_x_with-openai-and-anthropic-s-naming-once-you.md",
+      "sha256": "209c9406c04ae0550c7d6bce00a1c1f6799dad23a4507572d2693b545d2d3402",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-18T10:50:56Z",
+  "updated_at": "2026-11-19T10:54:57Z",
   "version": 1
 }
