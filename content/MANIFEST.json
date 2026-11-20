@@ -197,6 +197,13 @@
       "source": "youtube"
     },
     {
+      "created_at": "2026-06-05T21:00:34+00:00",
+      "id": "cN7-QOTmFTQ",
+      "path": "content/2026-06-05_youtube_the-circular-ai-money-game.md",
+      "sha256": "a84310771b070c85fca03ae4257716e00cdbcf86733844e1279cd2dfcb0a10bc",
+      "source": "youtube"
+    },
+    {
       "created_at": "2026-06-05T14:00:35+00:00",
       "id": "2mDEKRTmFtY",
       "path": "content/2026-06-05_youtube_why-middle-management-is-getting-hit.md",
@@ -15303,10 +15310,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-19T18:10:10.000Z",
+      "id": "2123478958494904388",
+      "path": "content/2026-11-19_x_tbh-i-never-quite-liked-the-terminology-of.md",
+      "sha256": "79a5c2db6b9caf1a920e354b13922a73057d75146b9a0a5f0a93dcab6ee9b4c4",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-19T00:43:54.000Z",
       "id": "2123215656145551371",
       "path": "content/2026-11-19_x_try-and-answer-this-without-looking-them-up.md",
       "sha256": "5e8906a62138113683f383dcf22040a51b5b3a63c683a7caffb54e3db03d6fe7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-19T22:32:18.000Z",
+      "id": "2123544925761569100",
+      "path": "content/2026-11-19_x_untitled.md",
+      "sha256": "498cac6932cc9a30fa0086ddad3bd0997e9bca732cb5ce7ad57cb7e616f056dc",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-19T18:38:55.000Z",
+      "id": "2123486191781900324",
+      "path": "content/2026-11-19_x_when-i-hear-factory-i-think-of-a.md",
+      "sha256": "eacf42b0fbc347a4fc1ae297dc30ccd6f38291fc0914adf9ab4ccc26d9b55714",
       "source": "x"
     },
     {
@@ -15315,8 +15343,29 @@
       "path": "content/2026-11-19_x_with-openai-and-anthropic-s-naming-once-you.md",
       "sha256": "209c9406c04ae0550c7d6bce00a1c1f6799dad23a4507572d2693b545d2d3402",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-19T21:54:39.000Z",
+      "id": "2123535451084722667",
+      "path": "content/2026-11-19_x_wow-i-havent-checked-for-a-while-and.md",
+      "sha256": "af60b032364b0242880093fa5cb468a52827cd45248a89cc99362483ce2298c2",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-20T06:04:39.000Z",
+      "id": "2123658764209557614",
+      "path": "content/2026-11-20_x_can-t-wait.md",
+      "sha256": "f70c101f1138df3cdd8f0f4a3758a55a3553031bf6f27d50167c6e7a4b848bf2",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-20T05:04:22.000Z",
+      "id": "2123643593688822222",
+      "path": "content/2026-11-20_x_gemini-4-neon-is-not-bad-talking-to.md",
+      "sha256": "ff3798cc27ef703039768e7ed955c75f367f5fad31869d844c1c7c7b9c9f25b2",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-19T10:54:57Z",
+  "updated_at": "2026-11-20T10:49:05Z",
   "version": 1
 }

@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-11-19_
-_Latest source window: X posts and replies from 2026-11-18 to 2026-11-19 (UTC), public Substack refresh (0 new posts; endpoint still returning 400), and public YouTube RSS refresh (0 new videos; 2 older videos re-surfaced, 1 transcript now available)._
-_Latest run analyzed 16 new X items, 0 Substack items, and 2 re-surfaced YouTube items (0 new); the GPT 6.2 review post and replies sharpened existing OPINIONS.md model-choice, HTML-artifact, adversarial-review, and vendor-agent views; VOICE confirmed existing patterns only._
+_Last updated: 2026-11-20_
+_Latest source window: X posts and replies from 2026-11-19 to 2026-11-20 (UTC), public Substack refresh (0 new posts; endpoint still returning 400), and public YouTube RSS refresh (0 new videos; 1 older short re-surfaced with transcript)._
+_Latest run analyzed 6 new X items, 0 Substack items, and 1 re-surfaced YouTube item (0 new); the software-factory replies, AXI catalog post, and Gemini 4 Neon post sharpened existing OPINIONS.md human-taste, agent-tooling, and Google views; VOICE confirmed existing patterns only._
 
 ### Summary
 
