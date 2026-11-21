@@ -15364,8 +15364,141 @@
       "path": "content/2026-11-20_x_gemini-4-neon-is-not-bad-talking-to.md",
       "sha256": "ff3798cc27ef703039768e7ed955c75f367f5fad31869d844c1c7c7b9c9f25b2",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-20T21:31:44.000Z",
+      "id": "2123892071576875506",
+      "path": "content/2026-11-20_x_im-a-little-skeptical-what-1b-can-do.md",
+      "sha256": "e95aaa523b374746f06276c199cc78fdd9c3098d402f9d6a87e43a9b2421eba2",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-20T21:11:13.000Z",
+      "id": "2123886907285545217",
+      "path": "content/2026-11-20_x_its-a-good-technique-to-scale-the-number.md",
+      "sha256": "2e987ec09b6578307dfa472e506e96f49123be5eecfed1357e4ed818a3f7d968",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-20T21:08:28.000Z",
+      "id": "2123886216194187722",
+      "path": "content/2026-11-20_x_oooh-finally-a-new-26b-model-any-mac.md",
+      "sha256": "d74b5bee3d33fa24edb23906cd8930a616109732446796ce5e8cf299a30c6770",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-20T17:31:37.000Z",
+      "id": "2123831643161215270",
+      "path": "content/2026-11-20_x_today-the-entire-human-race-have-become-mathematicians.md",
+      "sha256": "34dd52317dc86b1048673ab0ea36023ed718fe2ac28fe669dcfa389bb6b99e59",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-21T06:14:44.000Z",
+      "id": "2124023688614072564",
+      "path": "content/2026-11-21_x_almost-every-frontier-lab-is-rebuilding-their-own.md",
+      "sha256": "86daf00cd2da2bbea3f28b6a37b4e92b912a238fef8b53615d951544beb788dd",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-21T09:05:11.000Z",
+      "id": "2124066583589077005",
+      "path": "content/2026-11-21_x_everyone-coding-with-agents-should-internalize-this-the.md",
+      "sha256": "fc5757199713e215f61657618fab3f8b78932c89fae3b954929ff76b8203b4b9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-21T04:16:51.000Z",
+      "id": "2123994022234685696",
+      "path": "content/2026-11-21_x_i-described-in-the-post-when-a-pr.md",
+      "sha256": "2f5cdac19066c32749985d680483ea896ad6db802c703e11b16f54017e1bbe4c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-21T04:12:34.000Z",
+      "id": "2123992945410109688",
+      "path": "content/2026-11-21_x_i-havent-felt-a-need-to-have-an.md",
+      "sha256": "6a15ed04481f8a645c1f1dd64f1485a4da6a573717190a73cd0b196ced127b62",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-21T05:09:06.000Z",
+      "id": "2124007169456808169",
+      "path": "content/2026-11-21_x_i-hope-no-one-pays-anyone-per-pr.md",
+      "sha256": "a4edc4534485b7a6df665cff8d6bb885c44491d7e00a6bfa21a181f982315606",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-21T04:12:12.000Z",
+      "id": "2123992850702680067",
+      "path": "content/2026-11-21_x_i-still-have-worktrees.md",
+      "sha256": "f8126806c2502d1a154c84d6e605257426370c143f06a019c27372dd328f32dc",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-21T10:02:05.000Z",
+      "id": "2124080902309544144",
+      "path": "content/2026-11-21_x_it-s-not-that-simple-first-of-all.md",
+      "sha256": "878ef4a14ba0391c0d681ef1097ad1d47ad8db4d17be196c39287429e6e26ba7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-21T03:43:14.000Z",
+      "id": "2123985561551778151",
+      "path": "content/2026-11-21_x_my-pr-count-took-a-nose-dive-in.md",
+      "sha256": "90f87a6ad55a56329c2089a8c60327037d6ea4790d6a972df34106441d4c3840",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-21T05:21:02.000Z",
+      "id": "2124010176189726926",
+      "path": "content/2026-11-21_x_stay-tuned-publishing-soon.md",
+      "sha256": "d10a7b22f245edddc342a5396511328f7b488e9bc256296f7f2ee7766207956c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-21T04:54:30.000Z",
+      "id": "2124003495301071195",
+      "path": "content/2026-11-21_x_thats-an-orthogonal-optimization-my-ci-was-already.md",
+      "sha256": "1f991cb4ee5150492592e9a8b2aa9d23d2c052599135fbf0497ccffcb01b7916",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-21T03:48:58.000Z",
+      "id": "2123987004698578999",
+      "path": "content/2026-11-21_x_this-is-different-from-feature-branching-multiple-completely.md",
+      "sha256": "c9aa72325d7bc6321e04d4fabdb8bfac8d572a8bb3980c9f0030ae816ad87083",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-21T02:12:56.000Z",
+      "id": "2123962839476084807",
+      "path": "content/2026-11-21_x_true-agi-should-have-known-this-is-the.md",
+      "sha256": "e6c50b51c134a71eab3f9ebb2dfa11ccd7a49ca54790fbc18860824395088b97",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-21T06:15:31.000Z",
+      "id": "2124023885884805306",
+      "path": "content/2026-11-21_x_will-do.md",
+      "sha256": "f8374095b7a986f9fc109f3c0e90ccd65ec5568aa7940d0b42bff6c29884736b",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-21T05:52:07.000Z",
+      "id": "2124017995752325310",
+      "path": "content/2026-11-21_x_yup-and-i-think-it-s-time-we.md",
+      "sha256": "b5abe1bb62ab0edf92b894f214f03afd4a1ff0d568a58fcb50740ec3510a3327",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-21T04:01:20.000Z",
+      "id": "2123990116876366222",
+      "path": "content/2026-11-21_x_yup-the-separate-ci-jobs-is-very-easy.md",
+      "sha256": "6a6f74819af8de05a99c2ad8b0cc3034bc58762a7c3ad2f97f1b1af681a15276",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-20T10:49:05Z",
+  "updated_at": "2026-11-21T10:56:40Z",
   "version": 1
 }
