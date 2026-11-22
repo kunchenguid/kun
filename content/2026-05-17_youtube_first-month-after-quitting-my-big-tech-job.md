@@ -11,6 +11,18 @@ title: First Month After Quitting My Big Tech Job as L8 Principal
 
 # First Month After Quitting My Big Tech Job as L8 Principal
 
+## Description
+
+Find everything from me: https://linktr.ee/kunchenguid
+
+00:00 Intro
+00:47 Why did I quit?
+02:36 How I evaluated tradeoffs?
+05:02 First day after quitting
+06:45 Moving fast
+08:03 The unexpected
+11:23 The dangerous autonomy
+
 ## Transcript
 
 0:00 About a month ago, I quit my big tech career 
