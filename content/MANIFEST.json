@@ -15513,13 +15513,83 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-22T20:54:11.000Z",
+      "id": "2124607398791057571",
+      "path": "content/2026-11-22_x_goals-are-made-to-be-done-vision-is.md",
+      "sha256": "23bb2d9f03c6f7641efd0c1e9f2340e77e825fc0c76c636bb9e8424d47a060ad",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-22T17:05:00.000Z",
+      "id": "2124549720664383562",
+      "path": "content/2026-11-22_x_just-published-a-deep-dive-video-on-how.md",
+      "sha256": "75576265080d002ff3957c0eb546602416a8ceefecc8e63eb0b778168108479d",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-22T03:07:13.000Z",
       "id": "2124338886663139476",
       "path": "content/2026-11-22_x_rt-can-you-confirm-this-greenlight-includes-using.md",
       "sha256": "ae36d74b1d78375e4d39f9d08023455e7d91e7a87e52f50768c35f29ca33b1ff",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-22T20:23:39.000Z",
+      "id": "2124599715157409987",
+      "path": "content/2026-11-22_x_the-vision-skill-itself-doesn-t-make-those.md",
+      "sha256": "047e7df9b4c40bc143cc74c0845f9740610a39593978be0ee9c18b14e7de3e83",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-22T20:21:52.000Z",
+      "id": "2124599265070809130",
+      "path": "content/2026-11-22_x_yes-i-think-vision-needs-to-be-defined.md",
+      "sha256": "85dadd907411ae80751e9ad668103f169c3c46a07ef65fa15e4888f19b8fd267",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-22T13:00:18+00:00",
+      "id": "X3bhjQbxnMg",
+      "path": "content/2026-11-22_youtube_every-project-needs-a-vision.md",
+      "sha256": "86d0c944722837eae42828e29a3bdad81931a63e915b9d63abcca3866b896b67",
+      "source": "youtube"
+    },
+    {
+      "created_at": "2026-11-23T02:49:53.000Z",
+      "id": "2124696913274712115",
+      "path": "content/2026-11-23_x_appreciate-it-that-s-awesome-to-hear.md",
+      "sha256": "2b02daf660ecf4f4b0bdc0b6c6849d1ba0ae5e525ab393b883884e5a5b20c3b9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-23T01:47:07.000Z",
+      "id": "2124681114514256282",
+      "path": "content/2026-11-23_x_for-example-invoking-agy-through-acp-in-opencode.md",
+      "sha256": "f4c1b08dffa174b1af2f885462b5acc38951d9e49b7cc3869540ced98194b338",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-23T02:49:07.000Z",
+      "id": "2124696720751915154",
+      "path": "content/2026-11-23_x_that-s-great-to-hear-hope-the-content.md",
+      "sha256": "a2736311b628f929939715bda87d9660f173e24652c5871abc7b27b434f2650d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-23T08:14:20.000Z",
+      "id": "2124778562171617665",
+      "path": "content/2026-11-23_x_thats-a-misunderstanding-of-what-happened-there-the.md",
+      "sha256": "e42b4b611d43b4f89d13ae39586802e0e1739d2a2c68511553127eaacb619208",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-23T01:35:40.000Z",
+      "id": "2124678235908964833",
+      "path": "content/2026-11-23_x_the-confusion-mostly-comes-from-the-fact-that.md",
+      "sha256": "550d3a7998d88cd5fce463cf98982eae42a3d4a0b0cf5f9f2ad6442bb5730b6d",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-22T10:46:49Z",
+  "updated_at": "2026-11-23T10:48:30Z",
   "version": 1
 }
