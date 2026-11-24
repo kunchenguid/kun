@@ -15551,7 +15551,7 @@
       "created_at": "2026-11-22T13:00:18+00:00",
       "id": "X3bhjQbxnMg",
       "path": "content/2026-11-22_youtube_every-project-needs-a-vision.md",
-      "sha256": "86d0c944722837eae42828e29a3bdad81931a63e915b9d63abcca3866b896b67",
+      "sha256": "988e3cd884f1a2eea2aeba58564a9e6f2a1b590c79fc139f05c81f9653607acb",
       "source": "youtube"
     },
     {
@@ -15588,8 +15588,57 @@
       "path": "content/2026-11-23_x_the-confusion-mostly-comes-from-the-fact-that.md",
       "sha256": "550d3a7998d88cd5fce463cf98982eae42a3d4a0b0cf5f9f2ad6442bb5730b6d",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T01:24:49.000Z",
+      "id": "2125037890791174462",
+      "path": "content/2026-11-24_x_hehe-i-now-have-more-no-work-days.md",
+      "sha256": "b58f69c45e29f6377d72d8ff93937c9d38c02c52baa413b5a84e936093b512f7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T04:45:20.000Z",
+      "id": "2125088355318931535",
+      "path": "content/2026-11-24_x_hmm-this-is-actually-not-that-hard-imo.md",
+      "sha256": "eb4186d4f0e57b29d193f2f4de456a8506ef7e7519ca8ac07650f49dad6b56c9",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T05:33:10.000Z",
+      "id": "2125100392145137755",
+      "path": "content/2026-11-24_x_i-believe-in-general-purpose-models-being-the.md",
+      "sha256": "d4211815cd8131a22f4106279788ee48d3512146f6cc05f61c6f4d428b7267a6",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T04:57:23.000Z",
+      "id": "2125091384986357931",
+      "path": "content/2026-11-24_x_i-suspect-it-s-not-just-about-reasoning.md",
+      "sha256": "eb5c559abd0c8f9122a300c4e2be54a6db372b523044c535428a6c31ae5c41f8",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T05:09:37.000Z",
+      "id": "2125094464737976470",
+      "path": "content/2026-11-24_x_no-skill-file-can-make-gpt-talk-as.md",
+      "sha256": "c89521a360311a7b4b79c5ac4bfaddf9ba6067f0f9ec86820d75ba234809b028",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T04:49:01.000Z",
+      "id": "2125089282687987904",
+      "path": "content/2026-11-24_x_some-of-these-problems-aren-t-just-flipping.md",
+      "sha256": "1485232ec440ae159c31575c5b779bd2f75801f0596d256db515c652ce7c9928",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T04:26:17.000Z",
+      "id": "2125083561611141274",
+      "path": "content/2026-11-24_x_tl-dr-of-the-article-is-ai-just.md",
+      "sha256": "0fe664503ea2f56d9e380761e57d974fc5d4ee3091c94a1b9627f77d395b60a7",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-23T10:48:30Z",
+  "updated_at": "2026-11-24T10:51:28Z",
   "version": 1
 }

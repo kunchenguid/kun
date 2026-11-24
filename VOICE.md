@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-11-23_
-_Latest source window: X posts and replies from 2026-11-22 to 2026-11-23 (UTC), public Substack refresh (0 new posts; endpoint still returning 400), and public YouTube RSS refresh (1 new video with transcript)._
-_Latest run analyzed 9 new X items, 0 Substack items, and 1 new YouTube video (the /vision walkthrough); it tightened the video-script channel-framing and live-demo narration bullets in place._
+_Last updated: 2026-11-24_
+_Latest source window: X posts and replies from 2026-11-24 (UTC), public Substack refresh (0 new posts; endpoint still returning 400), and public YouTube RSS refresh (2 re-surfaced videos, transcripts blocked)._
+_Latest run analyzed 7 new X items, 0 Substack items, and 0 new YouTube transcripts; existing short-form bullets already captured the thesis-then-mechanism critique pattern, so no style bullets changed._
 
 ### Summary
 

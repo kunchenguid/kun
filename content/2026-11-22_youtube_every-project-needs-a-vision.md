@@ -6,10 +6,10 @@ created_at: "2026-11-22T13:00:18+00:00"
 type: youtube_video
 conversation_id: null
 thread_complete: true
-title: Every Project Needs a Vision
+title: "Your Agents Need Your Vision. Here's How I Do It"
 ---
 
-# Every Project Needs a Vision
+# Your Agents Need Your Vision. Here's How I Do It
 
 ## Description
 
