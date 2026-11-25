@@ -11,6 +11,18 @@ title: AI Tech Layoffs Explained by ex-Meta Principal Engineer
 
 # AI Tech Layoffs Explained by ex-Meta Principal Engineer
 
+## Description
+
+Find everything from me here: https://linktr.ee/kunchenguid
+
+00:00 Intro
+00:49 How did COVID 19 cause layoffs
+02:31 What's going on with interest rate
+04:12 The hardware problem
+05:09 The great AI reallocation
+07:21 Is AI replacing jobs
+09:09 What should we do
+
 ## Transcript
 
 0:00 Meta just started another round of

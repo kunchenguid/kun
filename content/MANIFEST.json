@@ -172,7 +172,7 @@
       "created_at": "2026-05-21T01:50:40+00:00",
       "id": "tt_SloZ18Mk",
       "path": "content/2026-05-21_youtube_ai-tech-layoffs-explained-by-ex-meta-principal.md",
-      "sha256": "9d6e51ffb4532cbe2e368dc7b11f8b656e481d32bca3df3fa53d08ef171ebcdb",
+      "sha256": "2edf1c5b3608b607fd05550e2668c0fd33e9b2097ce8e4a35fa5aa5280e95d04",
       "source": "youtube"
     },
     {
@@ -15590,6 +15590,55 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-24T18:12:23.000Z",
+      "id": "2125291452876091779",
+      "path": "content/2026-11-24_x_ah-that-explains.md",
+      "sha256": "3cb8d300febc2a08adbbeb2fc828fbe6296ca75b053e63af2150d04ef212fb91",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T19:56:17.000Z",
+      "id": "2125317601324880337",
+      "path": "content/2026-11-24_x_at-some-point-in-this-thread-i-started.md",
+      "sha256": "12e25c4c79dcb9ea9cdfc44f92153506a6f429900baece708f0908fb2af0ef0d",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T17:52:42.000Z",
+      "id": "2125286503219970424",
+      "path": "content/2026-11-24_x_but-it-obviously-can-be-done-right.md",
+      "sha256": "c827445c56c30613d7ad71230d1112844e6a26946258eb47570b83ee93b68822",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T18:20:21.000Z",
+      "id": "2125293458353160400",
+      "path": "content/2026-11-24_x_but-thats-because-weve-been-doing-it-on.md",
+      "sha256": "e379a6644ed407b605980da2f3c600f64ce94d8e6a116e3db0a6f17ea4d02c81",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T21:15:42.000Z",
+      "id": "2125337589721035235",
+      "path": "content/2026-11-24_x_from-what-i-ve-seen-most-companies-don.md",
+      "sha256": "69c6c18cdf1e169477f069a35955be91483cd3f395aff2b501c79c465c025a66",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T20:20:56.000Z",
+      "id": "2125323804939575549",
+      "path": "content/2026-11-24_x_genius.md",
+      "sha256": "28dbe741ad137bb2728ada19535598b5e8621829882ffacc4ac9f7ddb24bb538",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T19:43:36.000Z",
+      "id": "2125314408754880548",
+      "path": "content/2026-11-24_x_good-comment-this-starts-with-the-fact-that.md",
+      "sha256": "f0498c8dbde02ae9a7b2ef7792362ef31dd5c78cd2d2465696a8f7d90f1a491b",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-24T01:24:49.000Z",
       "id": "2125037890791174462",
       "path": "content/2026-11-24_x_hehe-i-now-have-more-no-work-days.md",
@@ -15618,10 +15667,52 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-24T23:56:38.000Z",
+      "id": "2125378087689068798",
+      "path": "content/2026-11-24_x_im-now-pretty-convinced-that-one-of-the.md",
+      "sha256": "36e96df6c67548fd0141ac0b72ffbd3e8d8f9782c696abcd88ab3b6fcfa69b26",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T20:14:37.000Z",
+      "id": "2125322214535004473",
+      "path": "content/2026-11-24_x_it-is-at-some-point-it-will-cool.md",
+      "sha256": "615387b2f0afc00e5407af364b59bb721a6fae87024e84fcd7dad9cfea1bdfdb",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T17:51:49.000Z",
+      "id": "2125286279348974048",
+      "path": "content/2026-11-24_x_lol-thats-funny.md",
+      "sha256": "c2e062600c78426dfb1864e39e476ccc73589a295f12a70c500883857d3fafba",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-24T05:09:37.000Z",
       "id": "2125094464737976470",
       "path": "content/2026-11-24_x_no-skill-file-can-make-gpt-talk-as.md",
       "sha256": "c89521a360311a7b4b79c5ac4bfaddf9ba6067f0f9ec86820d75ba234809b028",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T19:31:10.000Z",
+      "id": "2125311279250448756",
+      "path": "content/2026-11-24_x_on-earth-we-do-earth-things-like-blowing.md",
+      "sha256": "31ee3cdb507e133b9c5047dee578f53f7ac66da2753a89917014133467f88477",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T19:28:21.000Z",
+      "id": "2125310570975158673",
+      "path": "content/2026-11-24_x_right-but-if-you-add-up-his-statement.md",
+      "sha256": "f6a32a47dfec0fba439d1284091fb05081e1f5b0ff5d61199283bea9a833996c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T20:50:03.000Z",
+      "id": "2125331134137704803",
+      "path": "content/2026-11-24_x_right-but-this-assumes-we-dont-change-how.md",
+      "sha256": "05abeb5f933e03f134220a9b185b013e3cfb1fb3653c3424fc9f4d04e277f13a",
       "source": "x"
     },
     {
@@ -15632,13 +15723,83 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-24T20:13:31.000Z",
+      "id": "2125321940915404892",
+      "path": "content/2026-11-24_x_they-talked-about-it-here.md",
+      "sha256": "f0bd278a0f82da28315ec2ed7abc81a265891dc0797c0a9a75ca1a01e1394650",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-24T04:26:17.000Z",
       "id": "2125083561611141274",
       "path": "content/2026-11-24_x_tl-dr-of-the-article-is-ai-just.md",
       "sha256": "0fe664503ea2f56d9e380761e57d974fc5d4ee3091c94a1b9627f77d395b60a7",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T19:37:35.000Z",
+      "id": "2125312895064105136",
+      "path": "content/2026-11-24_x_what-core-earth-is-flat.md",
+      "sha256": "54860f481c53e9be58fd5f04534b9215c2feb63442c3ef6de99d4ae0719d6bef",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T17:36:44.000Z",
+      "id": "2125282481230565699",
+      "path": "content/2026-11-24_x_why-would-anyone-question-that-heat-can-travel.md",
+      "sha256": "8d5c33d14d3c1cefb7f8bae3c3c89df6bed0c96348223c09405b827109c9045e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-24T18:31:56.000Z",
+      "id": "2125296375017685419",
+      "path": "content/2026-11-24_x_yeah-i-know-how-earth-keeps-heat-but.md",
+      "sha256": "919b9af16d23bbff7a42ff5f26096e70fcdedce01a4f7e31ebf5f2f52da8e0de",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-25T00:45:37.000Z",
+      "id": "2125390414727598592",
+      "path": "content/2026-11-25_x_a-few-big-ones-1-convert-anything-that.md",
+      "sha256": "d947a41520b9fd506bfdcb596385e537ed9a3c7ecb79b824f44d68de2be2cf65",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-25T00:36:58.000Z",
+      "id": "2125388236533150165",
+      "path": "content/2026-11-25_x_by-assuming-they-are-constantly-bloating-the-codebase.md",
+      "sha256": "2e8a2d50d7c47b21107d574a61a2b89b81cda3a726e78ba147c8e525adfe6331",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-25T00:36:01.000Z",
+      "id": "2125388000007999688",
+      "path": "content/2026-11-25_x_every-time-i-looked-theres-always-room-to.md",
+      "sha256": "e5e441d59c95e05ed9310d19e6257de37750a385cb9bec851dbc06c251cf5b29",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-25T00:56:14.000Z",
+      "id": "2125393088415977746",
+      "path": "content/2026-11-25_x_great-question-it-can-vary-significantly-for-different.md",
+      "sha256": "17cb9380d8120a18bbda63356f2a0d844b4993323db16cb64e5fb2f30bca6877",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-25T00:37:26.000Z",
+      "id": "2125388356372898127",
+      "path": "content/2026-11-25_x_i-never-used-local-models-very-heavily-my.md",
+      "sha256": "bf9fd1c717db3233bb57bc5b45fbedcf8cf83b7148630b931b1dff346be434e7",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-25T01:04:31.000Z",
+      "id": "2125395171479372019",
+      "path": "content/2026-11-25_x_the-queue-is-moving-again-there-was-a.md",
+      "sha256": "6b947674bf2bc56d5683ab942d2c2ade8274e50f0667839147ba96e05849b3bc",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-24T10:51:28Z",
+  "updated_at": "2026-11-25T10:47:26Z",
   "version": 1
 }
