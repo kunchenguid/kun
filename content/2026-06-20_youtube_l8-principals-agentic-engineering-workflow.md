@@ -11,6 +11,45 @@ title: "L8 Principal's Agentic Engineering Workflow"
 
 # L8 Principal's Agentic Engineering Workflow
 
+## Description
+
+Find everything from me here: https://linktr.ee/kunchenguid
+
+Tools I mentioned:
+- WezTerm https://wezterm.org/index.html
+- tmux https://github.com/tmux/tmux/wiki
+- Neovim https://neovim.io/
+- npx skills CLI https://github.com/vercel-labs/skills
+- OpenSuperWhisper https://github.com/starmel/OpenSuperWhisper
+- AXI https://axi.md/
+- lavish https://github.com/kunchenguid/lavish-axi
+- no-mistakes https://github.com/kunchenguid/no-mistakes
+- gnhf https://github.com/kunchenguid/gnhf
+- treehouse https://github.com/kunchenguid/treehouse
+- firstmate https://github.com/kunchenguid/firstmate
+
+--------
+
+Chapters:
+00:00 How to watch this video
+02:10 Why I work in the terminal
+03:49 WezTerm and my lua config
+05:09 What is tmux
+07:18 Neovim as editor
+09:21 Agent harnesses
+11:24 My global memory file
+14:50 Project level memory file
+16:12 Using skills
+18:40 How skills may hurt your agent
+20:27 Voice input
+22:12 The importance of agent ergonomics
+24:25 Planning with interactive artifacts
+28:29 Validating code changes
+33:12 Long running tasks
+36:20 Parallel worktrees and agents
+40:23 First mate
+44:26 The captain's mindset
+
 ## Transcript
 
 0:00 Hi everyone.

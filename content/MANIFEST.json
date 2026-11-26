@@ -228,7 +228,7 @@
       "created_at": "2026-06-20T16:15:37+00:00",
       "id": "iQyg-KypKAA",
       "path": "content/2026-06-20_youtube_l8-principals-agentic-engineering-workflow.md",
-      "sha256": "19165f68cddbab3c68a8dee3ec7955dd3d8c2b0f2da343923030494bf94ae34f",
+      "sha256": "2975a1624d26a24f385db695b917b8e74c2ed7a620400d213f94505b18bcd972",
       "source": "youtube"
     },
     {
@@ -15800,6 +15800,6 @@
       "source": "x"
     }
   ],
-  "updated_at": "2026-11-25T10:47:26Z",
+  "updated_at": "2026-11-26T10:56:46Z",
   "version": 1
 }
