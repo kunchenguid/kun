@@ -422,7 +422,7 @@ Evidence: https://x.com/kunchenguid/status/2034552927164244334, https://x.com/ku
 
 Kun treats curiosity, motivation, and repeated building as more important than early specialization.
 He likes the growth check of asking what a person can do this month that they could not do last month.
-He thinks prioritization should deliberately maximize outcome, while recognizing that simple formulas such as impact times confidence divided by cost are aids to judgment rather than exact truth.
+He thinks prioritization should deliberately maximize outcome, while recognizing that simple formulas such as impact times confidence divided by cost are aids to judgment rather than exact truth; with agents, he sees backlog-then-prioritize becoming an anti-pattern among valid ideas that already fit the product direction, because building an idea right away while its intent and requirements are still fresh in memory beats queuing it, a counter-intuitive transition for experienced product builders ([X](https://x.com/kunchenguid/status/2126194746037338180)).
 He thinks people should build things they find fun because enjoyment sustains effort, learning, and long-term compounding.
 He treats motivation and energy as operational resources rather than vague moods: work can drain them, but visible progress and challenge can also recharge them, while days full of meetings or blocked motion are especially exhausting.
 He likes stretching himself through new initiatives, and thinks the balance between skill-building and long-term impact shifts with seniority: junior work is more learning-heavy, while staff-plus work is dominated by longer-horizon bets.

@@ -11,6 +11,19 @@ title: ex-Meta Principal Explains the AI Token Game
 
 # ex-Meta Principal Explains the AI Token Game
 
+## Description
+
+Find everything from me: https://linktr.ee/kunchenguid 
+
+Chapters:
+00:00 Intro
+01:26 The Economy Around Tokens
+02:50 The Circular Capital Game
+07:10 The Subsidized Campaign
+09:06 Enterprises Pay the Bill
+11:05 What Should Company Leaders Do
+14:51 What Should Employees Do
+
 ## Transcript
 
 0:00 Token maxing, depending on who you ask,

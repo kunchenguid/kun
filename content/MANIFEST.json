@@ -179,7 +179,7 @@
       "created_at": "2026-06-03T15:43:36+00:00",
       "id": "sxUPsyNwGgs",
       "path": "content/2026-06-03_youtube_ex-meta-principal-explains-the-ai-token-game.md",
-      "sha256": "2b14f36223600c73be7295c331013f0bb831c4f7a980627e0ef7bff246df2028",
+      "sha256": "0d2474a6d8575b0c693ccb419e421b201a985da670bc9158de4b1c2f40cd89d1",
       "source": "youtube"
     },
     {
@@ -15798,8 +15798,29 @@
       "path": "content/2026-11-25_x_the-queue-is-moving-again-there-was-a.md",
       "sha256": "6b947674bf2bc56d5683ab942d2c2ade8274e50f0667839147ba96e05849b3bc",
       "source": "x"
+    },
+    {
+      "created_at": "2026-11-27T06:01:44.000Z",
+      "id": "2126194746037338180",
+      "path": "content/2026-11-27_x_before-agents-when-you-get-a-new-idea.md",
+      "sha256": "9ea8f2f7c6686f202b4a73c4768c2fc344e0421fdf36b72c889f52e9af37af5f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-27T07:59:27.000Z",
+      "id": "2126224368527351860",
+      "path": "content/2026-11-27_x_right-finding-direction-is-still-critical-but-among.md",
+      "sha256": "8d8b82c4c6ff3f76083a54ac5208a6ba304a8a1ea410641dc067e3eaa48f1710",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-27T08:08:02.000Z",
+      "id": "2126226527763521912",
+      "path": "content/2026-11-27_x_yes-all-of-this-is-assuming-valid-ideas.md",
+      "sha256": "2e932b20ae9feeab713143ebfcdd16142fdc4102c6d2bf123175378f0014839e",
+      "source": "x"
     }
   ],
-  "updated_at": "2026-11-26T10:56:46Z",
+  "updated_at": "2026-11-27T10:51:54Z",
   "version": 1
 }
