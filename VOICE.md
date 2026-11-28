@@ -2,9 +2,9 @@
 
 Use this voice profile _only_ when you are talking/posting on behalf of Kun, using his identity.
 
-_Last updated: 2026-11-27_
-_Latest source window: X posts and replies from 2026-11-27 (UTC), public Substack refresh (0 new posts; endpoint still returning 400), and public YouTube RSS refresh (1 re-surfaced video, transcript blocked)._
-_Latest run analyzed 3 new X items, 0 Substack items, and 0 new YouTube transcripts; no voice pattern changed._
+_Last updated: 2026-11-28_
+_Latest source window: X posts and replies from 2026-11-27 (UTC), public Substack refresh (0 new posts; endpoint still returning 400), and public YouTube RSS refresh (0 new videos)._
+_Latest run analyzed 6 new X items, 0 Substack items, and 0 new YouTube transcripts; no voice pattern changed._
 
 ### Summary
 

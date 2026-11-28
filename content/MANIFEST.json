@@ -15800,10 +15800,31 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-27T20:49:59.000Z",
+      "id": "2126418280906940789",
+      "path": "content/2026-11-27_x_a-big-gemini-come-back-is-imminent.md",
+      "sha256": "e4d24087e81e43f052526917129c50e7280a4b3afa803df3a7ec9af55f8fff08",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-27T06:01:44.000Z",
       "id": "2126194746037338180",
       "path": "content/2026-11-27_x_before-agents-when-you-get-a-new-idea.md",
       "sha256": "9ea8f2f7c6686f202b4a73c4768c2fc344e0421fdf36b72c889f52e9af37af5f",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-27T23:58:48.000Z",
+      "id": "2126465798814503022",
+      "path": "content/2026-11-27_x_no-if-you-look-into-the-pr-this.md",
+      "sha256": "9bb097a248271e8af98bc14646f51818bcbb50f46a1c34c8fd550983d818a73e",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-27T21:42:06.000Z",
+      "id": "2126431396373946640",
+      "path": "content/2026-11-27_x_pi-is-one-of-the-most-flexible-harness.md",
+      "sha256": "06d040609e62dcd739c3d90619d86b6eab5da5211d5ec4a825faff818d88928c",
       "source": "x"
     },
     {
@@ -15814,6 +15835,27 @@
       "source": "x"
     },
     {
+      "created_at": "2026-11-27T18:21:44.000Z",
+      "id": "2126380971989835945",
+      "path": "content/2026-11-27_x_rt-sshhip-is-doing-a-black-friday-sale.md",
+      "sha256": "28f33991aa56d3772a9d7c18324154c4428db24e39a2510120c356026cceea0c",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-27T21:57:52.000Z",
+      "id": "2126435364659474764",
+      "path": "content/2026-11-27_x_speaking-of-a-manager-bot-overseeing-other-bots.md",
+      "sha256": "65107fe1db00ae8d197b51361dcaf3a4e2602e03757bb5b87533e114904cdc30",
+      "source": "x"
+    },
+    {
+      "created_at": "2026-11-27T21:41:15.000Z",
+      "id": "2126431180161712492",
+      "path": "content/2026-11-27_x_well-take-one-win-at-a-time-once.md",
+      "sha256": "1466543d37592083b5467e492210f86915bce974a6ebd7f9647bc805877a1f4d",
+      "source": "x"
+    },
+    {
       "created_at": "2026-11-27T08:08:02.000Z",
       "id": "2126226527763521912",
       "path": "content/2026-11-27_x_yes-all-of-this-is-assuming-valid-ideas.md",
@@ -15821,6 +15863,6 @@
       "source": "x"
     }
   ],
-  "updated_at": "2026-11-27T10:51:54Z",
+  "updated_at": "2026-11-28T10:56:04Z",
   "version": 1
 }
